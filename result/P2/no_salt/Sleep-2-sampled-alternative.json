@@ -1,0 +1,82 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Water",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "Tangleweed",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Tangleweed",
+      "grind": 0.88204622
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Goodberry",
+      "grind": 0.80392885
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Lifeleaf",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.98921496
+    },
+    {
+      "kind": "pour",
+      "seconds": 0.45994640000000003,
+      "strength": 1.0
+    },
+    {
+      "kind": "pour",
+      "seconds": 0.025,
+      "strength": 1.0
+    },
+    {
+      "kind": "pour",
+      "seconds": 0.8918640723131243,
+      "strength": 0.1
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Sleep",
+    "tier": 2
+  },
+  "objective": "P2",
+  "mode": "no_salt",
+  "costs": {
+    "ingredient_count": 4,
+    "ingredient_value": 40.79999923706055,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 4.0,
+    "P2": 40.79999923706055,
+    "P1_exact": "4",
+    "P2_exact": "20399999618530273/500000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "容错采样通过的备选；非最低成本声明",
+  "gameVerified": false
+}

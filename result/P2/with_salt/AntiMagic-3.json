@@ -1,0 +1,117 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Oil",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "WitchMushroom",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "WitchMushroom",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Tangleweed",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "WitchMushroom",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "DreamBeet",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "WitchMushroom",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "WitchMushroom",
+      "grind": 0.96478252
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Windbloom",
+      "grind": 0.68298921
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "WitchMushroom",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.93968577
+    },
+    {
+      "kind": "pour",
+      "seconds": 0.7964644,
+      "strength": 1.0
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "AntiMagic",
+    "tier": 3
+  },
+  "objective": "P2",
+  "mode": "with_salt",
+  "costs": {
+    "ingredient_count": 9,
+    "ingredient_value": 104.60000133514404,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 9.0,
+    "P2": 104.60000133514404,
+    "P1_exact": "9",
+    "P2_exact": "20920000267028809/200000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "当前最好可行解",
+  "gameVerified": false
+}

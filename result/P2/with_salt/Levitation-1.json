@@ -1,0 +1,94 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Water",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "Whirlweed",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Windbloom",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "MadMushroom",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "MadMushroom",
+      "grind": 0.75
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Windbloom",
+      "grind": 0.99285385
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "WitchMushroom",
+      "grind": 0.99938543
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Windbloom",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.7789303
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Levitation",
+    "tier": 1
+  },
+  "objective": "P2",
+  "mode": "with_salt",
+  "costs": {
+    "ingredient_count": 7,
+    "ingredient_value": 83.90000057220459,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 7.0,
+    "P2": 83.90000057220459,
+    "P1_exact": "7",
+    "P2_exact": "5243750035762787/62500000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "当前最好可行解",
+  "gameVerified": false
+}

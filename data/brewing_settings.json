@@ -1,0 +1,1087 @@
+{
+  "RecipeMapManagerPathSettings": {
+    "asset_id": -8677774941608742584,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 0,
+      "m_PathID": -1364993798831940119
+    },
+    "m_Name": "RecipeMapManagerPathSettings",
+    "pathPrefab": {
+      "m_FileID": 0,
+      "m_PathID": 7390382798162013435
+    },
+    "nonTeleportationNonFixedHint": {
+      "m_FileID": 0,
+      "m_PathID": -6763401159844885475
+    },
+    "nonTeleportationFixedHint": {
+      "m_FileID": 0,
+      "m_PathID": 564954896751731370
+    },
+    "teleportationNonFixedHint": {
+      "m_FileID": 0,
+      "m_PathID": 3807602512174075621
+    },
+    "teleportationFixedHint": {
+      "m_FileID": 0,
+      "m_PathID": 7187978284913850770
+    },
+    "pathHintFadeInTime": 0.10000000149011612,
+    "pathHintFadeInTimeOnHintChanging": 0.10000000149011612,
+    "pathHintFadeOutTime": 0.10000000149011612,
+    "pathHintFadeOutTimeOnHintChanging": 0.10000000149011612,
+    "fixedPathFadeInTime": 0.10000000149011612,
+    "pathHintDelayBeforeFadeOut": 0.10000000149011612,
+    "pathHintDelayOnFixedPathFadingIn": 0.0,
+    "pathAfterGrindedFadeFrom": 0.5,
+    "erasingPathHintLength": 2.5,
+    "erasingPathTime": 0.10000000149011612,
+    "pathEndChangingTimeOnErase": 0.10000000149011612,
+    "crossErasingColor": {
+      "r": 0.7647058963775635,
+      "g": 0.6078431606292725,
+      "b": 0.3686274588108063,
+      "a": 1.0
+    },
+    "crossHintColor": {
+      "r": 0.6274510025978088,
+      "g": 0.45098039507865906,
+      "b": 0.24313725531101227,
+      "a": 1.0
+    },
+    "crossFixedColor": {
+      "r": 0.4117647111415863,
+      "g": 0.239215686917305,
+      "b": 0.1725490242242813,
+      "a": 1.0
+    },
+    "ingredientPathWidth": 0.6499999761581421,
+    "ingredientPathSubstrateWidth": 0.6499999761581421,
+    "ingredientPathTiling": 0.06499999761581421,
+    "ingredientPathSpacingGraphics": 0.05000000074505806,
+    "ingredientPathSpacingPhysics": 0.05000000074505806,
+    "vortexPathWidth": 0.12999999523162842,
+    "vortexPathTiling": 0.12999999523162842,
+    "vortexPathSpacingGraphics": 0.05000000074505806,
+    "vortexPathSpacingPhysics": 0.05000000074505806
+  },
+  "RecipeMapManagerVortexSettings": {
+    "asset_id": -8132122563136481598,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 0,
+      "m_PathID": 7381305035618894624
+    },
+    "m_Name": "RecipeMapManagerVortexSettings",
+    "vortexMovementFromHeatDependence": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 2.0,
+          "outSlope": 2.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "vortexMovementSpeed": 2.5,
+    "vortexSpiralThetaPower": 1.0,
+    "vortexSpiralStep": 1.0
+  },
+  "RecipeMapManagerSettings": {
+    "asset_id": -7082814900991191040,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 0,
+      "m_PathID": 6546034015531880674
+    },
+    "m_Name": "RecipeMapManagerSettings",
+    "timeOfCenteringMapOnObject": 0.10000000149011612,
+    "minTimeOfCenteringMapOnObject": 9.999999747378752e-05,
+    "maxTimeOfCenteringMapOnObject": 0.15000000596046448,
+    "mapDistanceFromOrigin": 50.0,
+    "mapDistanceBetweenMaps": 20.0,
+    "iconContourDefaultColor": {
+      "m_FileID": 0,
+      "m_PathID": -305645890983932054
+    },
+    "iconContourCollectedColor": {
+      "m_FileID": 0,
+      "m_PathID": -5609847561603581942
+    },
+    "xpFloatingTextPrefab": {
+      "m_FileID": 0,
+      "m_PathID": 4088280624140777503
+    },
+    "panSettings": {
+      "m_FileID": 0,
+      "m_PathID": 8256085294455002756
+    },
+    "zoomSettings": {
+      "m_FileID": 0,
+      "m_PathID": 6964674913486307593
+    }
+  },
+  "RecipeMapChunkSystemSettings": {
+    "asset_id": -5902147791750114989,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 0,
+      "m_PathID": -4086448022570137142
+    },
+    "m_Name": "RecipeMapChunkSystemSettings",
+    "drawDebugGizmos": 0,
+    "_drawChunkLayersColors": 0,
+    "_oldDrawChunkLayersColors": 0,
+    "chunkCameraPrefab": {
+      "m_FileID": 0,
+      "m_PathID": 1802011147614857108
+    },
+    "cameraLayerMaskName": "Default",
+    "gameLayerMaskName": "RecipeMapContent",
+    "chunkRendererSortingLayer": 11,
+    "bakeMaterial0": {
+      "m_FileID": 0,
+      "m_PathID": 556416398512395568
+    },
+    "bakeMaterial1": {
+      "m_FileID": 0,
+      "m_PathID": -4968041621080780692
+    },
+    "bakeMaterial2": {
+      "m_FileID": 0,
+      "m_PathID": 7037240760004583297
+    },
+    "defaultMaterial": {
+      "m_FileID": 0,
+      "m_PathID": -7504259843138580660
+    }
+  },
+  "RecipeMapManagerTeleportationSettings": {
+    "asset_id": -5117678007609157840,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 0,
+      "m_PathID": 7213945137843065744
+    },
+    "m_Name": "RecipeMapManagerTeleportationSettings",
+    "indicatorSpeedMultiplier": 0.4000000059604645,
+    "baseIndicatorSpeed": 20.0,
+    "baseSpeedMultiplierHeatDependence": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "totalStrongIndicatorDamageOnFadeOut": 0.6000000238418579,
+    "totalStrongIndicatorDamageOnFadeIn": 0.6000000238418579,
+    "totalWeakIndicatorDamageOnFadeOut": 0.20000000298023224,
+    "totalWeakIndicatorDamageOnFadeIn": 0.20000000298023224,
+    "indicatorDisappearTime": 0.30000001192092896,
+    "indicatorDisappearingScaleCurve": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 1.0,
+          "inSlope": 0.2500919699668884,
+          "outSlope": 4.000000953674316,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.3333333432674408
+        },
+        {
+          "time": 0.05000000074505806,
+          "value": 1.2000000476837158,
+          "inSlope": 4.000000953674316,
+          "outSlope": -1.2631579637527466,
+          "weightedMode": 0,
+          "inWeight": 0.3333333432674408,
+          "outWeight": 0.3333333432674408
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inSlope": -1.2631579637527466,
+          "outSlope": -0.0219725389033556,
+          "weightedMode": 0,
+          "inWeight": 0.3333333432674408,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "indicatorDisappearingRotationCurve": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 0.2500919699668884,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.3333333432674408
+        },
+        {
+          "time": 0.05000000074505806,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 1.980443000793457,
+          "weightedMode": 2,
+          "inWeight": 0.3333333432674408,
+          "outWeight": 0.4776771366596222
+        },
+        {
+          "time": 1.0,
+          "value": -360.0,
+          "inSlope": -656.7969970703125,
+          "outSlope": 378.9473876953125,
+          "weightedMode": 3,
+          "inWeight": 0.3193502724170685,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "indicatorAppearTime": 0.30000001192092896,
+    "indicatorAppearingScaleCurve": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.0,
+          "inSlope": 0.2500919699668884,
+          "outSlope": 1.2631579637527466,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.3333333432674408
+        },
+        {
+          "time": 0.949999988079071,
+          "value": 1.2000000476837158,
+          "inSlope": 1.2631579637527466,
+          "outSlope": -4.0,
+          "weightedMode": 0,
+          "inWeight": 0.3333333432674408,
+          "outWeight": 0.3333333432674408
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inSlope": -4.0,
+          "outSlope": -0.0219725389033556,
+          "weightedMode": 0,
+          "inWeight": 0.3333333432674408,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "indicatorAppearingRotationCurve": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 540.0,
+          "inSlope": 0.2500919699668884,
+          "outSlope": -1461.330078125,
+          "weightedMode": 2,
+          "inWeight": 0.0,
+          "outWeight": 0.3142611086368561
+        },
+        {
+          "time": 0.949999988079071,
+          "value": 0.0,
+          "inSlope": -53.93482971191406,
+          "outSlope": 0.0,
+          "weightedMode": 3,
+          "inWeight": 0.5634732246398926,
+          "outWeight": 1.0
+        },
+        {
+          "time": 1.0,
+          "value": 0.0,
+          "inSlope": 0.0,
+          "outSlope": 378.9473876953125,
+          "weightedMode": 3,
+          "inWeight": 0.06113309785723686,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "fixedDotPrefab": {
+      "m_FileID": 0,
+      "m_PathID": -1753448932893454901
+    },
+    "mainDotPrefab": {
+      "m_FileID": 0,
+      "m_PathID": -2163181750628131009
+    },
+    "grindedDotPrefab": {
+      "m_FileID": 0,
+      "m_PathID": 1017062098318333537
+    },
+    "tooltipMainDotPrefab": {
+      "m_FileID": 0,
+      "m_PathID": -5406623769834834565
+    },
+    "tooltipGrindedDotPrefab": {
+      "m_FileID": 0,
+      "m_PathID": -6064799839344962901
+    },
+    "distanceBetweenDots": 0.4000000059604645,
+    "beforeFixedSpiralPrefab": {
+      "m_FileID": 0,
+      "m_PathID": -6008692424381836111
+    },
+    "afterFixedSpiralPrefab": {
+      "m_FileID": 0,
+      "m_PathID": -8503734434004644436
+    },
+    "nonFixedSpiralPrefab": {
+      "m_FileID": 0,
+      "m_PathID": -8284536563006828640
+    },
+    "colorFixed": {
+      "r": 0.4117647111415863,
+      "g": 0.239215686917305,
+      "b": 0.1725490242242813,
+      "a": 1.0
+    },
+    "colorHint": {
+      "r": 0.6274510025978088,
+      "g": 0.45098039507865906,
+      "b": 0.24313725531101227,
+      "a": 1.0
+    },
+    "colorErased": {
+      "r": 0.7647058963775635,
+      "g": 0.6078431606292725,
+      "b": 0.3686274588108063,
+      "a": 1.0
+    },
+    "dotSprites": [
+      {
+        "substrate": {
+          "m_FileID": 0,
+          "m_PathID": 7914074727612055731
+        },
+        "main": {
+          "m_FileID": 0,
+          "m_PathID": 1187304431670182905
+        },
+        "grinded": {
+          "m_FileID": 0,
+          "m_PathID": 75753237928935820
+        },
+        "scratches": {
+          "m_FileID": 0,
+          "m_PathID": 5741337256045959849
+        }
+      },
+      {
+        "substrate": {
+          "m_FileID": 0,
+          "m_PathID": 3040865169842114976
+        },
+        "main": {
+          "m_FileID": 0,
+          "m_PathID": 5624711209560083649
+        },
+        "grinded": {
+          "m_FileID": 0,
+          "m_PathID": 2026228853149953324
+        },
+        "scratches": {
+          "m_FileID": 0,
+          "m_PathID": 566383758105797096
+        }
+      },
+      {
+        "substrate": {
+          "m_FileID": 0,
+          "m_PathID": -2224910430695949186
+        },
+        "main": {
+          "m_FileID": 0,
+          "m_PathID": -5383841397696104176
+        },
+        "grinded": {
+          "m_FileID": 0,
+          "m_PathID": 2240634192338501114
+        },
+        "scratches": {
+          "m_FileID": 0,
+          "m_PathID": -7072943086572844294
+        }
+      },
+      {
+        "substrate": {
+          "m_FileID": 0,
+          "m_PathID": 7814114503769215533
+        },
+        "main": {
+          "m_FileID": 0,
+          "m_PathID": 5289992102923031192
+        },
+        "grinded": {
+          "m_FileID": 0,
+          "m_PathID": 4011095709256194243
+        },
+        "scratches": {
+          "m_FileID": 0,
+          "m_PathID": -4609142733542298287
+        }
+      },
+      {
+        "substrate": {
+          "m_FileID": 0,
+          "m_PathID": 2974242851003924141
+        },
+        "main": {
+          "m_FileID": 0,
+          "m_PathID": 6168646672287175674
+        },
+        "grinded": {
+          "m_FileID": 0,
+          "m_PathID": -4328680896563294292
+        },
+        "scratches": {
+          "m_FileID": 0,
+          "m_PathID": 23096023231958452
+        }
+      }
+    ],
+    "spiralSprites": [
+      {
+        "substrate": {
+          "m_FileID": 0,
+          "m_PathID": -8264682501574601744
+        },
+        "main": {
+          "m_FileID": 0,
+          "m_PathID": 4427710640462894588
+        },
+        "grinded": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "scratches": {
+          "m_FileID": 0,
+          "m_PathID": -6045876574642841732
+        }
+      },
+      {
+        "substrate": {
+          "m_FileID": 0,
+          "m_PathID": 7317059885246956843
+        },
+        "main": {
+          "m_FileID": 0,
+          "m_PathID": -3323555813850264602
+        },
+        "grinded": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "scratches": {
+          "m_FileID": 0,
+          "m_PathID": 7808156854985182634
+        }
+      }
+    ]
+  },
+  "RecipeMapManagerPotionEffectsSettings": {
+    "asset_id": 546863035625146572,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 0,
+      "m_PathID": -1646474652374828173
+    },
+    "m_Name": "RecipeMapManagerPotionEffectsSettings",
+    "effectPowerDistanceDependence": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.7200000286102295,
+          "inSlope": -0.36000001430511475,
+          "outSlope": -0.36000001430511475,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.3333333432674408
+        },
+        {
+          "time": 2.0,
+          "value": 0.0,
+          "inSlope": -0.36000001430511475,
+          "outSlope": -0.36000001430511475,
+          "weightedMode": 0,
+          "inWeight": 0.3333333432674408,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "effectPowerAngleDistanceDependence": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.30000001192092896,
+          "inSlope": -0.0016666667070239782,
+          "outSlope": -0.0016666667070239782,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.3333333432674408
+        },
+        {
+          "time": 180.0,
+          "value": 0.0,
+          "inSlope": -0.0016666667070239782,
+          "outSlope": -0.0016666667070239782,
+          "weightedMode": 0,
+          "inWeight": 0.3333333432674408,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "middleEffectPowerPosition": 0.8999999761581421,
+    "effectsOrder": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 1795438645360790837
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 268599682801582915
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 6503712354841580038
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 8472900628471532394
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4814176082379307018
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 6114527693997326177
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 7092319533480517666
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2013762035298629837
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 6319951854692022012
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -6967774670350802658
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -8337269363020100748
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -6374513255371787242
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 194234899596304432
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -5221092494259727571
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -6570826720106642115
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 6950856534006707972
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -8132367850058526333
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -2023900002534249311
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 7595322606288124787
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -6111994132732205970
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 6319996312761066519
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -8594841128098725768
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 9012030245484844289
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 8110685063026618979
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 8516858957553581689
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -3750839284655466696
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4038582099040722883
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 1980797770825235039
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -5214960100734290993
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 4973936308524324440
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -6635853742379905439
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -3870536292705309645
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -220783603053732796
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -6390996698770392555
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 6834411870720511883
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -2642084681137072301
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -3058383972881105833
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -611440540876200719
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -777253161566996895
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -4118468561296725650
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 6395160418708600017
+      }
+    ]
+  },
+  "RecipeMapManagerDashedLinesSettings": {
+    "asset_id": 1392541681549131934,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 0,
+      "m_PathID": -287793410453810513
+    },
+    "m_Name": "RecipeMapManagerDashedLinesSettings",
+    "dashedLinePrefab": {
+      "m_FileID": 0,
+      "m_PathID": 2645729424474189859
+    }
+  },
+  "RecipeMapManagerForcefieldSettings": {
+    "asset_id": 3811713740264637676,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 0,
+      "m_PathID": -6147907943359244424
+    },
+    "m_Name": "RecipeMapManagerForcefieldSettings",
+    "distanceToFailPotion": 0.0
+  },
+  "RecipeMapManagerPotionBasesSettings": {
+    "asset_id": 5857905374894342852,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 0,
+      "m_PathID": -1630850614423166374
+    },
+    "m_Name": "RecipeMapManagerPotionBasesSettings",
+    "potionBases": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 3367782107364563833
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3130344622178655792
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": -8435307282982219042
+      }
+    ],
+    "defaultPotionBase": {
+      "m_FileID": 0,
+      "m_PathID": 3367782107364563833
+    },
+    "floatingTextSelectBase": {
+      "m_FileID": 0,
+      "m_PathID": -549840177270015246
+    },
+    "potionFailTextPos": {
+      "x": 0.0,
+      "y": 1.0
+    },
+    "potionBaseUpgradeTooltipFont": {
+      "m_FileID": 0,
+      "m_PathID": -4053281331577609974
+    }
+  },
+  "GrindingSettings": {
+    "asset_id": 6603707130549895912,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 0,
+      "m_PathID": -5107241820182625049
+    },
+    "m_Name": "GrindingSettings",
+    "strikeMaxAngleDeviation": 60.0,
+    "strikeMinSpeed": 2.0,
+    "rubMinDownForce": 1.0,
+    "rubMinAngularSpeed": 180.0,
+    "grindedSubstanceRubMinSpeed": 0.0010000000474974513
+  },
+  "RecipeMapManagerIndicatorSettings": {
+    "asset_id": 6841241495352625303,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 0,
+      "m_PathID": 5806555617312814019
+    },
+    "m_Name": "RecipeMapManagerIndicatorSettings",
+    "indicatorPrefab": {
+      "m_FileID": 0,
+      "m_PathID": 6902351546679380269
+    },
+    "solventDirectionHintPrefab": {
+      "m_FileID": 0,
+      "m_PathID": 8277490305797966990
+    },
+    "indicatorSpeed": 8.0,
+    "indicatorSpeedCoalsHeatDependence": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.5,
+          "inSlope": 1.5182855129241943,
+          "outSlope": 1.5182855129241943,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.022406896576285362
+        },
+        {
+          "time": 1.0,
+          "value": 1.0,
+          "inSlope": 0.0,
+          "outSlope": 0.0,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "indicatorStrongHealthDecreasingCoefficient": -0.4000000059604645,
+    "indicatorWeakHealthDecreasingCoefficient": -0.10000000149011612,
+    "indicatorInSwampSpeed": 0.6777777671813965,
+    "indicatorInSwampPathDeletion": 0.3333300054073334,
+    "indicatorHealingInZoneCoefficient": 1.0,
+    "indicatorVisualHealthRegenerationTime": 0.30000001192092896,
+    "ladleIndicatorRotationMaxAngleAbs": 18.0,
+    "ladleIndicatorRotationTime": 0.05000000074505806,
+    "sunSaltIndicatorRotationAngle": 0.36000001430511475,
+    "sunSaltIndicatorRotationTime": 0.05000000074505806,
+    "moonSaltIndicatorRotationAngle": -0.36000001430511475,
+    "moonSaltIndicatorRotationTime": 0.05000000074505806,
+    "philosophersSaltIndicatorRotationMaxAngleAbs": 0.36000001430511475,
+    "philosophersSaltIndicatorRotationAnimationTime": 0.05000000074505806,
+    "philosophersSaltLifeTime": 0.10000000149011612,
+    "philosophersSaltMovesBy": 0.02250000089406967
+  },
+  "RecipeMapManagerPouringSettings": {
+    "asset_id": 8210475704730512889,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 0,
+      "m_PathID": 6227630232862653676
+    },
+    "m_Name": "RecipeMapManagerPouringSettings",
+    "standardSpeedByPouring": {
+      "m_Curve": [
+        {
+          "time": 0.0,
+          "value": 0.03999999910593033,
+          "inSlope": 0.024504834786057472,
+          "outSlope": 0.024504834786057472,
+          "weightedMode": 0,
+          "inWeight": 0.0,
+          "outWeight": 0.7533783912658691
+        },
+        {
+          "time": 1.0,
+          "value": 2.0,
+          "inSlope": 4.5336151123046875,
+          "outSlope": 4.5336151123046875,
+          "weightedMode": 0,
+          "inWeight": 0.016891896724700928,
+          "outWeight": 0.0
+        }
+      ],
+      "m_PreInfinity": 2,
+      "m_PostInfinity": 2,
+      "m_RotationOrder": 4
+    },
+    "timeBeforePouringSpeedWillStartGrow": 1.0,
+    "speedIncreasingRate": 1.0,
+    "maxSpeedByPouring": 6.0,
+    "thresholdForResettingSpeed": 0.05000000074505806
+  },
+  "PotionManagerSettings": {
+    "asset_id": 9056378178883460774,
+    "m_GameObject": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "m_Enabled": 1,
+    "m_Script": {
+      "m_FileID": 0,
+      "m_PathID": -3726020626358409612
+    },
+    "m_Name": "PotionManagerSettings",
+    "labelEffectContourIconColor": {
+      "m_FileID": 0,
+      "m_PathID": 3810064383872040302
+    },
+    "potionVisualObjectPrefab": {
+      "m_FileID": 0,
+      "m_PathID": -6848495116059238748
+    },
+    "ingredientTooltipObject": {
+      "m_FileID": 0,
+      "m_PathID": 7556061916489475867
+    },
+    "recipePanelReagentTooltipObject": {
+      "m_FileID": 0,
+      "m_PathID": 3693691969808568947
+    },
+    "collectedFloatingTextPrefab": {
+      "m_FileID": 0,
+      "m_PathID": -1900705075727842812
+    },
+    "emptyPotion": {
+      "m_FileID": 0,
+      "m_PathID": 1909235556702519624
+    },
+    "minRecipeBookPagesCount": 12,
+    "effectTierPriceMultiplier": [
+      0.4000000059604645,
+      0.699999988079071,
+      1.0
+    ],
+    "defaultPotion": {
+      "m_FileID": 0,
+      "m_PathID": -5910929036440998143
+    },
+    "missingIngredientsSpriteColor": {
+      "r": 0.8627451062202454,
+      "g": 0.7843137383460999,
+      "b": 0.6745098233222961,
+      "a": 0.45098039507865906
+    },
+    "missingIngredientsTextColor": {
+      "r": 0.6352941393852234,
+      "g": 0.4941176474094391,
+      "b": 0.38823530077934265,
+      "a": 1.0
+    },
+    "filledReagentsSpriteColor": {
+      "r": 0.8627451062202454,
+      "g": 0.7843137383460999,
+      "b": 0.6745098233222961,
+      "a": 0.22745098173618317
+    },
+    "filledReagentsTextColor": {
+      "r": 0.7137255072593689,
+      "g": 0.5803921818733215,
+      "b": 0.4274509847164154,
+      "a": 1.0
+    },
+    "defaultBottleWeakPotion": {
+      "m_FileID": 0,
+      "m_PathID": -6924667231379327923
+    },
+    "defaultStickerWeakPotion": {
+      "m_FileID": 0,
+      "m_PathID": 4722826430349970075
+    },
+    "defaultStickerAngleWeakPotion": 0,
+    "defaultBottleNormalPotion": {
+      "m_FileID": 0,
+      "m_PathID": -3394979485552786406
+    },
+    "defaultStickerNormalPotion": {
+      "m_FileID": 0,
+      "m_PathID": -2932422494466340864
+    },
+    "defaultStickerAngleNormalPotion": 0,
+    "defaultBottleStrongPotion": {
+      "m_FileID": 0,
+      "m_PathID": 8515460240828423809
+    },
+    "defaultStickerStrongPotion": {
+      "m_FileID": 0,
+      "m_PathID": -7748957498306291181
+    },
+    "defaultStickerAngleStrongPotion": 0,
+    "minColorValue": 0.5,
+    "maxColorValue": 0.8999999761581421,
+    "minColorSaturation": 0.0,
+    "maxColorSaturationBottom": 0.5,
+    "maxColorSaturationTop": 0.699999988079071,
+    "instantAppearing": 1,
+    "appearingSpeed": 10.0,
+    "coolOnEffectApply": 0
+  }
+}

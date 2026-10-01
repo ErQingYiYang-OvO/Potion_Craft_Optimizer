@@ -1,0 +1,133 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Oil",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "StinkMushroom",
+      "grind": 0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.04580972264861953
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.04800900170118807
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.05043010048097004
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.05310836043403816
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.05608705179653089
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.05941972922744652
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.06317348032256899
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.06743348848015207
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.07230957539988489
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.07794580334388407
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.08453494775747362
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.0923409883866091
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.10173532924271886
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.11325763169217262
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.12772326635108508
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.14642516694993354
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.17154344444143776
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.207063898873707
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.2611356685357014
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.3534284406694482
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.546619218815287
+    },
+    {
+      "kind": "stir",
+      "fraction": 1
+    },
+    {
+      "kind": "add",
+      "name": "SulphurShelf",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.9600000000000001
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Fire",
+    "tier": 1
+  },
+  "objective": "P2",
+  "mode": "with_salt",
+  "costs": {
+    "ingredient_count": 2,
+    "ingredient_value": 19.199999809265137,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 2.0,
+    "P2": 19.199999809265137,
+    "P1_exact": "2",
+    "P2_exact": "19199999809265137/1000000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "当前最好可行解",
+  "gameVerified": false
+}

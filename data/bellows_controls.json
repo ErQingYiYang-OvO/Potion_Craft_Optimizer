@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Coals",
+    "asset_id": 1525545316453838287,
+    "source": "CAB-20e222f0620fcea0d9db9f1d6b28318a",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 262111977303895503
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": 8195481261775250608
+      },
+      "m_Name": "",
+      "heatIncreasingSpeed": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 0.019999999552965164,
+            "outSlope": 0.019999999552965164,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.3333333432674408
+          },
+          {
+            "time": 50.0,
+            "value": 1.0,
+            "inSlope": 0.019999999552965164,
+            "outSlope": 0.019999999552965164,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "heatDecreasingSpeed": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.07999999821186066,
+            "inSlope": 0.10000000149011612,
+            "outSlope": 0.10000000149011612,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.3333333432674408
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "disableCoolingDown": 0,
+      "heatOnEffectApply": 0.0,
+      "sparksContainer": {
+        "m_FileID": 0,
+        "m_PathID": -7037148690435215921
+      },
+      "sparkGameObject": {
+        "m_FileID": 0,
+        "m_PathID": -1541443531564766287
+      },
+      "top": {
+        "m_FileID": 0,
+        "m_PathID": 5042351114777325007
+      },
+      "currentInflatingAngularVelocity": 0.0,
+      "soundPreset": {
+        "m_FileID": 0,
+        "m_PathID": -5061965091836292821
+      }
+    }
+  }
+]

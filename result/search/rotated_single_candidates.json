@@ -1,0 +1,1095 @@
+{
+  "records": {
+    "P1:Healing:2": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "salt",
+          "salt": "moon",
+          "amount": 1,
+          "deferred": true
+        },
+        {
+          "kind": "wait",
+          "seconds": 0.025
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.99533525
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.4894408,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Lifeleaf": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 6.0,
+      "salts": {
+        "moon": 1
+      },
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 6.0,
+        "salt_equivalent": 0.01,
+        "salt_detail": {
+          "moon": {
+            "amount": 1,
+            "equivalent": 0.01,
+            "value": 0.26399999618530273
+          }
+        },
+        "P1": 1.01,
+        "P2": 6.263999996185302,
+        "P1_exact": "101/100",
+        "P2_exact": "626399999618530273/100000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        2.999795231579465,
+        -2.9980744881139403
+      ],
+      "rotation": 0.2924911443138285,
+      "effects": [
+        [
+          "Healing",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Healing",
+        "distance": 0.0019363693163768074,
+        "angle": 24.707505040988906,
+        "score": 0.9781237712449947,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Healing",
+      "tier": 2,
+      "objective": "P1"
+    },
+    "P2:Healing:2": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "salt",
+          "salt": "moon",
+          "amount": 1,
+          "deferred": true
+        },
+        {
+          "kind": "wait",
+          "seconds": 0.025
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.99533525
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.4894408,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Lifeleaf": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 6.0,
+      "salts": {
+        "moon": 1
+      },
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 6.0,
+        "salt_equivalent": 0.01,
+        "salt_detail": {
+          "moon": {
+            "amount": 1,
+            "equivalent": 0.01,
+            "value": 0.26399999618530273
+          }
+        },
+        "P1": 1.01,
+        "P2": 6.263999996185302,
+        "P1_exact": "101/100",
+        "P2_exact": "626399999618530273/100000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        2.999795231579465,
+        -2.9980744881139403
+      ],
+      "rotation": 0.2924911443138285,
+      "effects": [
+        [
+          "Healing",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Healing",
+        "distance": 0.0019363693163768074,
+        "angle": 24.707505040988906,
+        "score": 0.9781237712449947,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Healing",
+      "tier": 2,
+      "objective": "P2"
+    },
+    "P1:Healing:1": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "salt",
+          "salt": "moon",
+          "amount": 1,
+          "deferred": true
+        },
+        {
+          "kind": "wait",
+          "seconds": 0.025
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.99533525
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.4894408,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Lifeleaf": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 6.0,
+      "salts": {
+        "moon": 1
+      },
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 6.0,
+        "salt_equivalent": 0.01,
+        "salt_detail": {
+          "moon": {
+            "amount": 1,
+            "equivalent": 0.01,
+            "value": 0.26399999618530273
+          }
+        },
+        "P1": 1.01,
+        "P2": 6.263999996185302,
+        "P1_exact": "101/100",
+        "P2_exact": "626399999618530273/100000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        2.8229678276628567,
+        -2.821348515987279
+      ],
+      "rotation": 0.27524981758151057,
+      "effects": [
+        [
+          "Healing",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Healing",
+        "distance": 0.2515089318142707,
+        "angle": 24.724746367721224,
+        "score": 0.888248909630022,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Healing",
+      "tier": 1,
+      "objective": "P1"
+    },
+    "P2:Healing:1": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "salt",
+          "salt": "moon",
+          "amount": 1,
+          "deferred": true
+        },
+        {
+          "kind": "wait",
+          "seconds": 0.025
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.99533525
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.4894408,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Lifeleaf": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 6.0,
+      "salts": {
+        "moon": 1
+      },
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 6.0,
+        "salt_equivalent": 0.01,
+        "salt_detail": {
+          "moon": {
+            "amount": 1,
+            "equivalent": 0.01,
+            "value": 0.26399999618530273
+          }
+        },
+        "P1": 1.01,
+        "P2": 6.263999996185302,
+        "P1_exact": "101/100",
+        "P2_exact": "626399999618530273/100000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        2.8229678276628567,
+        -2.821348515987279
+      ],
+      "rotation": 0.27524981758151057,
+      "effects": [
+        [
+          "Healing",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Healing",
+        "distance": 0.2515089318142707,
+        "angle": 24.724746367721224,
+        "score": 0.888248909630022,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Healing",
+      "tier": 1,
+      "objective": "P2"
+    },
+    "P1:Frost:2": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1.0
+        },
+        {
+          "kind": "salt",
+          "salt": "moon",
+          "amount": 1,
+          "deferred": true
+        },
+        {
+          "kind": "wait",
+          "seconds": 0.025
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.98433541
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.0953482,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Tangleweed": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 12.899999618530273,
+      "salts": {
+        "moon": 1
+      },
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 12.899999618530273,
+        "salt_equivalent": 0.01,
+        "salt_detail": {
+          "moon": {
+            "amount": 1,
+            "equivalent": 0.01,
+            "value": 0.26399999618530273
+          }
+        },
+        "P1": 1.01,
+        "P2": 13.163999614715575,
+        "P1_exact": "101/100",
+        "P2_exact": "1316399961471557573/100000000000000000"
+      },
+      "health": 0.24299575079716015,
+      "minimum_action_endpoint_health": 0.22869352022884068,
+      "position": [
+        7.86531964148286,
+        0.33892833036959247
+      ],
+      "rotation": 0.35148605872666394,
+      "effects": [
+        [
+          "Frost",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Frost",
+        "distance": 0.0048013714785402175,
+        "angle": 69.6485063118788,
+        "score": 0.9021906985142166,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Frost",
+      "tier": 2,
+      "objective": "P1"
+    },
+    "P2:Frost:2": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1.0
+        },
+        {
+          "kind": "salt",
+          "salt": "moon",
+          "amount": 1,
+          "deferred": true
+        },
+        {
+          "kind": "wait",
+          "seconds": 0.025
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.98433541
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.0953482,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Tangleweed": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 12.899999618530273,
+      "salts": {
+        "moon": 1
+      },
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 12.899999618530273,
+        "salt_equivalent": 0.01,
+        "salt_detail": {
+          "moon": {
+            "amount": 1,
+            "equivalent": 0.01,
+            "value": 0.26399999618530273
+          }
+        },
+        "P1": 1.01,
+        "P2": 13.163999614715575,
+        "P1_exact": "101/100",
+        "P2_exact": "1316399961471557573/100000000000000000"
+      },
+      "health": 0.24299575079716015,
+      "minimum_action_endpoint_health": 0.22869352022884068,
+      "position": [
+        7.86531964148286,
+        0.33892833036959247
+      ],
+      "rotation": 0.35148605872666394,
+      "effects": [
+        [
+          "Frost",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Frost",
+        "distance": 0.0048013714785402175,
+        "angle": 69.6485063118788,
+        "score": 0.9021906985142166,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Frost",
+      "tier": 2,
+      "objective": "P2"
+    },
+    "P1:Frost:1": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1.0
+        },
+        {
+          "kind": "salt",
+          "salt": "moon",
+          "amount": 1,
+          "deferred": true
+        },
+        {
+          "kind": "wait",
+          "seconds": 0.025
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.98433541
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.0953482,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Tangleweed": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 12.899999618530273,
+      "salts": {
+        "moon": 1
+      },
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 12.899999618530273,
+        "salt_equivalent": 0.01,
+        "salt_detail": {
+          "moon": {
+            "amount": 1,
+            "equivalent": 0.01,
+            "value": 0.26399999618530273
+          }
+        },
+        "P1": 1.01,
+        "P2": 13.163999614715575,
+        "P1_exact": "101/100",
+        "P2_exact": "1316399961471557573/100000000000000000"
+      },
+      "health": 0.24674575094617177,
+      "minimum_action_endpoint_health": 0.22869352022884068,
+      "position": [
+        7.815365998842315,
+        0.33677575355545464
+      ],
+      "rotation": 0.3492537261869586,
+      "effects": [
+        [
+          "Frost",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Frost",
+        "distance": 0.0547289444990242,
+        "angle": 69.65073864441851,
+        "score": 0.8842130509582176,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Frost",
+      "tier": 1,
+      "objective": "P1"
+    },
+    "P2:Frost:1": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1.0
+        },
+        {
+          "kind": "salt",
+          "salt": "moon",
+          "amount": 1,
+          "deferred": true
+        },
+        {
+          "kind": "wait",
+          "seconds": 0.025
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.98433541
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.0953482,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Tangleweed": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 12.899999618530273,
+      "salts": {
+        "moon": 1
+      },
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 12.899999618530273,
+        "salt_equivalent": 0.01,
+        "salt_detail": {
+          "moon": {
+            "amount": 1,
+            "equivalent": 0.01,
+            "value": 0.26399999618530273
+          }
+        },
+        "P1": 1.01,
+        "P2": 13.163999614715575,
+        "P1_exact": "101/100",
+        "P2_exact": "1316399961471557573/100000000000000000"
+      },
+      "health": 0.24674575094617177,
+      "minimum_action_endpoint_health": 0.22869352022884068,
+      "position": [
+        7.815365998842315,
+        0.33677575355545464
+      ],
+      "rotation": 0.3492537261869586,
+      "effects": [
+        [
+          "Frost",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Frost",
+        "distance": 0.0547289444990242,
+        "angle": 69.65073864441851,
+        "score": 0.8842130509582176,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Frost",
+      "tier": 1,
+      "objective": "P2"
+    },
+    "P1:Fire:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 1.0
+        },
+        {
+          "kind": "salt",
+          "salt": "sun",
+          "amount": 80,
+          "deferred": true
+        },
+        {
+          "kind": "wait",
+          "seconds": 0.025
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.43650315
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 31.5,
+      "salts": {
+        "sun": 80
+      },
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 31.5,
+        "salt_equivalent": 0.8,
+        "salt_detail": {
+          "sun": {
+            "amount": 80,
+            "equivalent": 0.8,
+            "value": 21.11999969482422
+          }
+        },
+        "P1": 1.8,
+        "P2": 52.619999694824216,
+        "P1_exact": "9/5",
+        "P2_exact": "65774999618530273/1250000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -10.815419969701457,
+        -2.07916929754174
+      ],
+      "rotation": 331.201171875,
+      "effects": [
+        [
+          "Fire",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Fire",
+        "distance": 1.3801073483492694,
+        "angle": 31.201171875,
+        "score": 0.47115942062739047,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Fire",
+      "tier": 1,
+      "objective": "P1"
+    },
+    "P2:Fire:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 1.0
+        },
+        {
+          "kind": "salt",
+          "salt": "sun",
+          "amount": 80,
+          "deferred": true
+        },
+        {
+          "kind": "wait",
+          "seconds": 0.025
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.43650315
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 31.5,
+      "salts": {
+        "sun": 80
+      },
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 31.5,
+        "salt_equivalent": 0.8,
+        "salt_detail": {
+          "sun": {
+            "amount": 80,
+            "equivalent": 0.8,
+            "value": 21.11999969482422
+          }
+        },
+        "P1": 1.8,
+        "P2": 52.619999694824216,
+        "P1_exact": "9/5",
+        "P2_exact": "65774999618530273/1250000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -10.815419969701457,
+        -2.07916929754174
+      ],
+      "rotation": 331.201171875,
+      "effects": [
+        [
+          "Fire",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Fire",
+        "distance": 1.3801073483492694,
+        "angle": 31.201171875,
+        "score": 0.47115942062739047,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Fire",
+      "tier": 1,
+      "objective": "P2"
+    }
+  },
+  "runs": [
+    {
+      "base": "Wine",
+      "effect": "Healing",
+      "solver_sha256": "6ec8f8d6add68290c462e35091be94e908307bbd3cae9f0ef475f8801219bfbb",
+      "refinements": 52,
+      "successful_variants": 140,
+      "units_grid": [
+        1,
+        20,
+        40,
+        60,
+        80,
+        100
+      ],
+      "waits": [
+        0.025,
+        0.06
+      ],
+      "iterations": 45,
+      "scope": "one ordinary herb; rotation before stirring; optional opposite salt; numerical macro search, no proof"
+    },
+    {
+      "base": "Wine",
+      "effect": "Frost",
+      "solver_sha256": "6ec8f8d6add68290c462e35091be94e908307bbd3cae9f0ef475f8801219bfbb",
+      "refinements": 170,
+      "successful_variants": 289,
+      "units_grid": [
+        1,
+        20,
+        40,
+        60,
+        80,
+        100
+      ],
+      "waits": [
+        0.025,
+        0.06
+      ],
+      "iterations": 45,
+      "scope": "one ordinary herb; rotation before stirring; optional opposite salt; numerical macro search, no proof"
+    },
+    {
+      "base": "Oil",
+      "effect": "Fire",
+      "solver_sha256": "6ec8f8d6add68290c462e35091be94e908307bbd3cae9f0ef475f8801219bfbb",
+      "refinements": 14,
+      "successful_variants": 8,
+      "units_grid": [
+        1,
+        20,
+        40,
+        60,
+        80,
+        100
+      ],
+      "waits": [
+        0.025,
+        0.06
+      ],
+      "iterations": 45,
+      "scope": "one ordinary herb; rotation before stirring; optional opposite salt; numerical macro search, no proof"
+    },
+    {
+      "base": "Oil",
+      "effect": "Healing",
+      "solver_sha256": "6ec8f8d6add68290c462e35091be94e908307bbd3cae9f0ef475f8801219bfbb",
+      "refinements": 38,
+      "successful_variants": 100,
+      "units_grid": [
+        1,
+        20,
+        40,
+        60,
+        80,
+        100
+      ],
+      "waits": [
+        0.025,
+        0.06
+      ],
+      "iterations": 45,
+      "scope": "one ordinary herb; rotation before stirring; optional opposite salt; numerical macro search, no proof"
+    },
+    {
+      "base": "Oil",
+      "effect": "Lightning",
+      "solver_sha256": "6ec8f8d6add68290c462e35091be94e908307bbd3cae9f0ef475f8801219bfbb",
+      "refinements": 0,
+      "successful_variants": 0,
+      "units_grid": [
+        1,
+        20,
+        40,
+        60,
+        80,
+        100
+      ],
+      "waits": [
+        0.025,
+        0.06
+      ],
+      "iterations": 45,
+      "scope": "one ordinary herb; rotation before stirring; optional opposite salt; numerical macro search, no proof"
+    },
+    {
+      "base": "Water",
+      "effect": "Healing",
+      "solver_sha256": "6ec8f8d6add68290c462e35091be94e908307bbd3cae9f0ef475f8801219bfbb",
+      "refinements": 0,
+      "successful_variants": 0,
+      "units_grid": [
+        1,
+        20,
+        40,
+        60,
+        80,
+        100
+      ],
+      "waits": [
+        0.025,
+        0.06
+      ],
+      "iterations": 45,
+      "scope": "one ordinary herb; rotation before stirring; optional opposite salt; numerical macro search, no proof"
+    },
+    {
+      "base": "Water",
+      "effect": "Fire",
+      "solver_sha256": "6ec8f8d6add68290c462e35091be94e908307bbd3cae9f0ef475f8801219bfbb",
+      "refinements": 0,
+      "successful_variants": 0,
+      "units_grid": [
+        1,
+        20,
+        40,
+        60,
+        80,
+        100
+      ],
+      "waits": [
+        0.025,
+        0.06
+      ],
+      "iterations": 45,
+      "scope": "one ordinary herb; rotation before stirring; optional opposite salt; numerical macro search, no proof"
+    },
+    {
+      "base": "Water",
+      "effect": "Frost",
+      "solver_sha256": "6ec8f8d6add68290c462e35091be94e908307bbd3cae9f0ef475f8801219bfbb",
+      "refinements": 6,
+      "successful_variants": 4,
+      "units_grid": [
+        1,
+        20,
+        40,
+        60,
+        80,
+        100
+      ],
+      "waits": [
+        0.025,
+        0.06
+      ],
+      "iterations": 45,
+      "scope": "one ordinary herb; rotation before stirring; optional opposite salt; numerical macro search, no proof"
+    },
+    {
+      "base": "Water",
+      "effect": "Lightning",
+      "solver_sha256": "6ec8f8d6add68290c462e35091be94e908307bbd3cae9f0ef475f8801219bfbb",
+      "refinements": 0,
+      "successful_variants": 0,
+      "units_grid": [
+        1,
+        20,
+        40,
+        60,
+        80,
+        100
+      ],
+      "waits": [
+        0.025,
+        0.06
+      ],
+      "iterations": 45,
+      "scope": "one ordinary herb; rotation before stirring; optional opposite salt; numerical macro search, no proof"
+    }
+  ]
+}

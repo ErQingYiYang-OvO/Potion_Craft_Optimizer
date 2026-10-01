@@ -1,0 +1,72 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Oil",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "HealersHeather",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "HealersHeather",
+      "grind": 0.93616104
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "HealersHeather",
+      "grind": 0.93367375
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "EvergreenFern",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.50339744
+    },
+    {
+      "kind": "pour",
+      "seconds": 0.1337206,
+      "strength": 1.0
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "AcidProtection",
+    "tier": 3
+  },
+  "objective": "P1",
+  "mode": "no_salt",
+  "costs": {
+    "ingredient_count": 4,
+    "ingredient_value": 79.49999809265137,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 4.0,
+    "P2": 79.49999809265137,
+    "P1_exact": "4",
+    "P2_exact": "9937499761581421/125000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "当前最好可行解",
+  "gameVerified": false
+}

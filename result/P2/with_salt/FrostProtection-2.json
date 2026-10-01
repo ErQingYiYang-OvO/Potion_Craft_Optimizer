@@ -1,0 +1,76 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Oil",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "Lavaroot",
+      "grind": 0.75
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "SulphurShelf",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "SulphurShelf",
+      "grind": 0.90772282
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "StinkMushroom",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "GoblinMushroom",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.71109335
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "FrostProtection",
+    "tier": 2
+  },
+  "objective": "P2",
+  "mode": "with_salt",
+  "costs": {
+    "ingredient_count": 5,
+    "ingredient_value": 55.79999923706055,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 5.0,
+    "P2": 55.79999923706055,
+    "P1_exact": "5",
+    "P2_exact": "55799999237060547/1000000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "当前最好可行解",
+  "gameVerified": false
+}

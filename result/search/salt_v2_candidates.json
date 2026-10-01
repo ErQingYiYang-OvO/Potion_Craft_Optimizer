@@ -1,0 +1,3155 @@
+{
+  "records": {
+    "P1:Slipperiness:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Watercap",
+          "grind": 0.75
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010063930353896891
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010166242712516467
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010270656701359421
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010377237747775209
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010486054023412171
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010597176589626636
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010710679552236589
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010826640226328144
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010945139311884964
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.011066261081079066
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01119009357813643
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01131672883277356
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.011446263088292349
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01157879704552133
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.011714436123902723
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.011853290741147948
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.011995476613020722
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.012141115074958379
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.012290333427410174
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.012443265306958419
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01260005108549648
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.012760838299969861
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.012925782115445707
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01309504582456582
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.013268801386762539
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01344723001098035
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.013630522786054332
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.013818881363355327
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.0140125186968286
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.014211659846135543
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.014416542849266557
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01462741967173838
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.014844557240333883
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.015068238570301734
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.015298763996024575
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.015536452516408552
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01578164326766757
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01603469713780144
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.016295998538931256
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01656595735579733
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01684501109119195
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.017133627231946436
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.017432305862385825
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.017741582555984518
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01806203158039693
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.018394269456213388
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.018738958915840268
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01909681331599211
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.019468601565614075
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01985515364087227
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02025736677045924
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.020676212388231557
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.021112743966582984
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02156810586352372
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.022043543339885542
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.022540413931278643
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.023060200393486056
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02360452548127746
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02417516887090492
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.024774086598034838
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.025403433458421176
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.026065588911899168
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.026763187146019538
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.027499152100029477
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.028276738431037323
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.029099579632766187
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.029971744807525732
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.030897805962960018
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03188291818249569
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.032932915637269806
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.034054427215844764
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.035255016613088594
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03654335313495955
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03792942137445077
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03942478048610339
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.04104288730876744
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.042799502465323006
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.0447132054105232
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.04680605412298008
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.04910443915998071
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.05164020233368421
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.05445212087306763
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.05758790440452974
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.06110692410854763
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.06508400762304947
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.06961481903585641
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.07482365418128835
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.08087501860531797
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.08799131809321312
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.09648078997367078
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.10678333000895396
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.11954919069079199
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.13578179431124465
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.15711517463697827
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.1864017122022696
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.2291077980348594
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.297198230116771
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.42287632566171646
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.7327308590252799
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.9999999999996071
+        },
+        {
+          "kind": "add",
+          "name": "FrostSapphire",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "EvergreenFern",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.34
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Watercap": 1,
+        "FrostSapphire": 1,
+        "EvergreenFern": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 141.8000030517578,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 141.8000030517578,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 141.8000030517578,
+        "P1_exact": "3",
+        "P2_exact": "14180000305175781/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        23.532373090543985,
+        -3.1647196221909137
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Slipperiness",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Slipperiness",
+        "distance": 1.5023014432635213,
+        "angle": 0.0,
+        "score": 0.4791714994656962,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Slipperiness",
+      "tier": 1,
+      "objective": "P1"
+    },
+    "P2:Slipperiness:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 0.998
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MossShroom",
+          "grind": 0.72728141
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Goodberry",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 2.2e-06,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Tangleweed": 2,
+        "MossShroom": 1,
+        "Goodberry": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 47.89999961853027,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 47.89999961853027,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 47.89999961853027,
+        "P1_exact": "4",
+        "P2_exact": "47899999618530273/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.9400032743707772,
+      "position": [
+        23.400386436098614,
+        -4.794087569671685
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Slipperiness",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Slipperiness",
+        "distance": 1.4686636847277899,
+        "angle": 0.0,
+        "score": 0.49128109301975154,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Slipperiness",
+      "tier": 1,
+      "objective": "P2"
+    },
+    "P1:Slipperiness:2": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Coldleaf",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01558358274017189
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.015830275142657176
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01608490359216425
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.016347857300785848
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.016619551354736157
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01690042890076956
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01719096355811928
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.017491662083568848
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.017803067321202348
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.018125761472953392
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01846036973140741
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.018807564322548893
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01916806901345857
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01954266414856511
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01993219228819798
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.020337564535186963
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.020759767649494037
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.021199872067820997
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.021659040965399154
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.022138540521467773
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.022639751579199854
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.023164182926183798
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02371348646446423
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02428947459141674
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.024894140176714204
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02552967959932644
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.026198519405731497
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.026903347271297725
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.027647148097629245
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02843324626809976
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02926535532312564
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.030147636620991423
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.031084768939424683
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.032082031474930245
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03314540334840297
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03428168357806009
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03549863660562673
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.036805169959217315
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03821155264886434
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03972968562276131
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.04137343936173544
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.04315907889531929
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.04510580384197174
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.04723644150676883
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.049578346154917956
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.05216457974662179
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.05503548256582033
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.058240792696910716
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.061842551944561876
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.06591916108830749
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.0705711522410743
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.07592959096464255
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.08216862072653744
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.08952474559279129
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.09832748903327304
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.10905011280409486
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.12239758304174585
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.13946814716619912
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.1620720333674103
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.1934200072337183
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.239802634541376
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.3154478631962951
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.46080911334113583
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.8546307527498712
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.9999999999996213
+        },
+        {
+          "kind": "add",
+          "name": "FrostSapphire",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Watercap",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.008194052083825306
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.00826174928779299
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.00833057440494999
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.00840055586058957
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.008471723043249835
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.008544106345864068
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.008617737209038806
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.008692648166589104
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.008768872893469577
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.008846446256249542
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.008925404366291233
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009005784635801494
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009087625836939716
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009170968164178258
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009255853300126016
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009342324485041737
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009430426590280505
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.00952020619593561
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009611711672958052
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009704993270057844
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009800103205715182
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009897095765655452
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009996027406170442
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010096956863698901
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010199945271113422
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01030505628119738
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010412356197835957
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010521914115489469
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010633802067565503
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010748095184359333
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010864871861290351
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01098421393822618
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01110620689075645
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.011230940034355685
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.011358506742460079
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.011489004679577211
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.011622536050651703
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.011759207868024929
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01189913223745427
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.012042426664798555
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.012189214385133025
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.012339624716231254
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01249379343854501
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.012651863204028875
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.012813983976396867
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.012980313505667094
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.013151017840150873
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01332627187937929
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.013506259971837574
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.013691176561801596
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.013881226890047671
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.014076627753744141
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.014277608331439573
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.014484411079747777
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.014697292709105844
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01491652524686173
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.015142397196948012
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01537521480653699
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.015615303451371076
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01586300915294621
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.016118700242425395
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.016382769188109374
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.016655634605533307
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.016937743471842574
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01722957356908498
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.017531636184512464
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.017844479099995723
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.018168689907321216
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.018504899691583684
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.018853787131254015
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01921608307097059
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01959257563188721
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01998411593477571
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.020391624523348733
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02081609858983364
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.021258620122180768
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.021720365113033817
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.022202613995479382
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02270676350056916
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02323434016785236
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.023787015784159597
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.024366625079533154
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.024975186074912118
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02561492355704394
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.026288296256088587
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.026998028425672966
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.027747146680483985
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.028539023141714876
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.029377426187524654
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03026658041975478
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03121123786045844
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03221676291076017
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03328923427900772
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.0344355679686467
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03566366658328661
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03698260176190565
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03840283865023398
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03993651415976419
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.04159778467651254
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.043403264319951645
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.045372582511580606
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.04752910054789099
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.04990084271890217
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.05252172085038325
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.05543316612758942
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.05868633551353039
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.06234514352402025
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.0664905035082249
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.07122638147560686
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.07668863548123728
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.08305826011489413
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.09058182925046185
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.09960415589211796
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.11062262952891176
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.12438210505661615
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.14205066590679818
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.16556999377700612
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.19842286655827593
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.24754057754405862
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.32897531768040744
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.49025814749943963
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.9617773096214405
+        },
+        {
+          "kind": "stir",
+          "fraction": 1
+        },
+        {
+          "kind": "add",
+          "name": "Mudshroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.24
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Coldleaf": 1,
+        "FrostSapphire": 1,
+        "Watercap": 1,
+        "Mudshroom": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 161.2000026702881,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 161.2000026702881,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 161.2000026702881,
+        "P1_exact": "4",
+        "P2_exact": "161200002670288083/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.6594238565752447,
+      "position": [
+        24.724792525843274,
+        -3.8592155415064298
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Slipperiness",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Slipperiness",
+        "distance": 0.25200702985529094,
+        "angle": 0.0,
+        "score": 0.9292775061782642,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Slipperiness",
+      "tier": 2,
+      "objective": "P1"
+    },
+    "P2:Slipperiness:2": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MossShroom",
+          "grind": 0.76568254
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 0.70985625
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Waterbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.98385973
+        },
+        {
+          "kind": "pour",
+          "seconds": 1.1011069,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Tangleweed": 2,
+        "MossShroom": 1,
+        "Lifeleaf": 1,
+        "Waterbloom": 1
+      },
+      "ingredient_count": 5,
+      "ingredient_value": 53.09999942779541,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 5,
+        "ingredient_value": 53.09999942779541,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 5.0,
+        "P2": 53.09999942779541,
+        "P1_exact": "5",
+        "P2_exact": "5309999942779541/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.7749297803896826,
+      "position": [
+        24.637297718800315,
+        -4.115472105362803
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Slipperiness",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Slipperiness",
+        "distance": 0.062941355405046,
+        "angle": 0.0,
+        "score": 0.9973411516849585,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Slipperiness",
+      "tier": 2,
+      "objective": "P2"
+    },
+    "P1:Slipperiness:3": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Coldleaf",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01558358274017189
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.015830275142657176
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01608490359216425
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.016347857300785848
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.016619551354736157
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01690042890076956
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01719096355811928
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.017491662083568848
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.017803067321202348
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.018125761472953392
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01846036973140741
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.018807564322548893
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01916806901345857
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01954266414856511
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01993219228819798
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.020337564535186963
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.020759767649494037
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.021199872067820997
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.021659040965399154
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.022138540521467773
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.022639751579199854
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.023164182926183798
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02371348646446423
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02428947459141674
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.024894140176714204
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02552967959932644
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.026198519405731497
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.026903347271297725
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.027647148097629245
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02843324626809976
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02926535532312564
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.030147636620991423
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.031084768939424683
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.032082031474930245
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03314540334840297
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03428168357806009
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03549863660562673
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.036805169959217315
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03821155264886434
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03972968562276131
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.04137343936173544
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.04315907889531929
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.04510580384197174
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.04723644150676883
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.049578346154917956
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.05216457974662179
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.05503548256582033
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.058240792696910716
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.061842551944561876
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.06591916108830749
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.0705711522410743
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.07592959096464255
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.08216862072653744
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.08952474559279129
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.09832748903327304
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.10905011280409486
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.12239758304174585
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.13946814716619912
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.1620720333674103
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.1934200072337183
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.239802634541376
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.3154478631962951
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.46080911334113583
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.8546307527498712
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.9999999999996213
+        },
+        {
+          "kind": "add",
+          "name": "FrostSapphire",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Watercap",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.008194052083825306
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.00826174928779299
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.00833057440494999
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.00840055586058957
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.008471723043249835
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.008544106345864068
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.008617737209038806
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.008692648166589104
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.008768872893469577
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.008846446256249542
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.008925404366291233
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009005784635801494
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009087625836939716
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009170968164178258
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009255853300126016
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009342324485041737
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009430426590280505
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.00952020619593561
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009611711672958052
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009704993270057844
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009800103205715182
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009897095765655452
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.009996027406170442
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010096956863698901
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010199945271113422
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01030505628119738
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010412356197835957
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010521914115489469
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010633802067565503
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010748095184359333
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.010864871861290351
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01098421393822618
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01110620689075645
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.011230940034355685
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.011358506742460079
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.011489004679577211
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.011622536050651703
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.011759207868024929
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01189913223745427
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.012042426664798555
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.012189214385133025
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.012339624716231254
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01249379343854501
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.012651863204028875
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.012813983976396867
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.012980313505667094
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.013151017840150873
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01332627187937929
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.013506259971837574
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.013691176561801596
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.013881226890047671
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.014076627753744141
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.014277608331439573
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.014484411079747777
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.014697292709105844
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01491652524686173
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.015142397196948012
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01537521480653699
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.015615303451371076
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01586300915294621
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.016118700242425395
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.016382769188109374
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.016655634605533307
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.016937743471842574
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01722957356908498
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.017531636184512464
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.017844479099995723
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.018168689907321216
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.018504899691583684
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.018853787131254015
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01921608307097059
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01959257563188721
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.01998411593477571
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.020391624523348733
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02081609858983364
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.021258620122180768
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.021720365113033817
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.022202613995479382
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02270676350056916
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02323434016785236
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.023787015784159597
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.024366625079533154
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.024975186074912118
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.02561492355704394
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.026288296256088587
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.026998028425672966
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.027747146680483985
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.028539023141714876
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.029377426187524654
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03026658041975478
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03121123786045844
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03221676291076017
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03328923427900772
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.0344355679686467
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03566366658328661
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03698260176190565
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03840283865023398
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.03993651415976419
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.04159778467651254
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.043403264319951645
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.045372582511580606
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.04752910054789099
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.04990084271890217
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.05252172085038325
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.05543316612758942
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.05868633551353039
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.06234514352402025
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.0664905035082249
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.07122638147560686
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.07668863548123728
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.08305826011489413
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.09058182925046185
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.09960415589211796
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.11062262952891176
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.12438210505661615
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.14205066590679818
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.16556999377700612
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.19842286655827593
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.24754057754405862
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.32897531768040744
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.49025814749943963
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.9617773096214405
+        },
+        {
+          "kind": "stir",
+          "fraction": 1
+        },
+        {
+          "kind": "add",
+          "name": "Mudshroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.26
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Coldleaf": 1,
+        "FrostSapphire": 1,
+        "Watercap": 1,
+        "Mudshroom": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 161.2000026702881,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 161.2000026702881,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 161.2000026702881,
+        "P1_exact": "4",
+        "P2_exact": "161200002670288083/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.6594238565752447,
+      "position": [
+        24.724792507175536,
+        -4.116254464797836
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Slipperiness",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Slipperiness",
+        "distance": 0.02556848141893199,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Slipperiness",
+      "tier": 3,
+      "objective": "P1"
+    },
+    "P2:Slipperiness:3": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MossShroom",
+          "grind": 0.76568254
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 0.70985625
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Waterbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.98385973
+        },
+        {
+          "kind": "pour",
+          "seconds": 1.1011069,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Tangleweed": 2,
+        "MossShroom": 1,
+        "Lifeleaf": 1,
+        "Waterbloom": 1
+      },
+      "ingredient_count": 5,
+      "ingredient_value": 53.09999942779541,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 5,
+        "ingredient_value": 53.09999942779541,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 5.0,
+        "P2": 53.09999942779541,
+        "P1_exact": "5",
+        "P2_exact": "5309999942779541/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.7749297803896826,
+      "position": [
+        24.68661440724589,
+        -4.123710080888494
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Slipperiness",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Slipperiness",
+        "distance": 0.01916134587535227,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Slipperiness",
+      "tier": 3,
+      "objective": "P2"
+    },
+    "P1:Stench:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.27447013
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Marshroom",
+          "grind": 0.76704338
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "PlagueStibnite",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 1,
+        "Marshroom": 1,
+        "PlagueStibnite": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 128.7999973297119,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 128.7999973297119,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 128.7999973297119,
+        "P1_exact": "3",
+        "P2_exact": "128799997329711917/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.39096099102419357,
+      "position": [
+        -16.596144014126537,
+        -19.352807210791685
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Stench",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Stench",
+        "distance": 0.604278264336294,
+        "angle": 0.0,
+        "score": 0.8024598567258227,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Stench",
+      "tier": 1,
+      "objective": "P1"
+    },
+    "P2:Stench:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Marshroom",
+          "grind": 0.75
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Poopshroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Marshroom",
+          "grind": 0.79710472
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "HairyBanana",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.59831721
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Marshroom": 2,
+        "Poopshroom": 1,
+        "HairyBanana": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 50.80000114440918,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 50.80000114440918,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 50.80000114440918,
+        "P1_exact": "4",
+        "P2_exact": "50800001144409181/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.6544414974005406,
+      "position": [
+        -16.665453795080758,
+        -19.427093856558162
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Stench",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Stench",
+        "distance": 0.5101701916500072,
+        "angle": 0.0,
+        "score": 0.8363387642391127,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Stench",
+      "tier": 1,
+      "objective": "P2"
+    },
+    "P1:Stench:3": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.25
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "PlagueStibnite",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "PlagueStibnite",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "GoblinMushroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 1.6207523,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 1,
+        "PlagueStibnite": 2,
+        "GoblinMushroom": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 210.39999389648438,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 210.39999389648438,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 210.39999389648438,
+        "P1_exact": "4",
+        "P2_exact": "10519999694824219/50000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -16.794233096807773,
+        -19.942385441745486
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Stench",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Stench",
+        "distance": 0.04825031219274878,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Stench",
+      "tier": 3,
+      "objective": "P1"
+    },
+    "P2:Stench:3": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Marshroom",
+          "grind": 0.75
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Poopshroom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Marshroom",
+          "grind": 0.68520072
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Poopshroom",
+          "grind": 0.92291297
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Firebell",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.9323063
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.42536989999999997,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Marshroom": 2,
+        "Poopshroom": 2,
+        "Firebell": 1
+      },
+      "ingredient_count": 5,
+      "ingredient_value": 52.40000057220459,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 5,
+        "ingredient_value": 52.40000057220459,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 5.0,
+        "P2": 52.40000057220459,
+        "P1_exact": "5",
+        "P2_exact": "52400000572204591/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.964103809082629,
+      "position": [
+        -16.854433239974163,
+        -19.915144308508488
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Stench",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Stench",
+        "distance": 0.024969029292897602,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Stench",
+      "tier": 3,
+      "objective": "P2"
+    },
+    "P1:Stench:2": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.25
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "PlagueStibnite",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "PlagueStibnite",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "GoblinMushroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 1.6207523,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 1,
+        "PlagueStibnite": 2,
+        "GoblinMushroom": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 210.39999389648438,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 210.39999389648438,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 210.39999389648438,
+        "P1_exact": "4",
+        "P2_exact": "10519999694824219/50000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -16.762025585390894,
+        -19.90414049164313
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Stench",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Stench",
+        "distance": 0.06822640778621827,
+        "angle": 0.0,
+        "score": 0.9954385327521332,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Stench",
+      "tier": 2,
+      "objective": "P1"
+    },
+    "P2:Stench:2": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Marshroom",
+          "grind": 0.75
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Poopshroom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Marshroom",
+          "grind": 0.68520072
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Poopshroom",
+          "grind": 0.92291297
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Firebell",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.9323063
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.42536989999999997,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Marshroom": 2,
+        "Poopshroom": 2,
+        "Firebell": 1
+      },
+      "ingredient_count": 5,
+      "ingredient_value": 52.40000057220459,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 5,
+        "ingredient_value": 52.40000057220459,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 5.0,
+        "P2": 52.40000057220459,
+        "P1_exact": "5",
+        "P2_exact": "52400000572204591/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.964103809082629,
+      "position": [
+        -16.789831963821342,
+        -19.838811647612722
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Stench",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Stench",
+        "distance": 0.08173875942279354,
+        "angle": 0.0,
+        "score": 0.9905740859696703,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Stench",
+      "tier": 2,
+      "objective": "P2"
+    }
+  },
+  "runs": [
+    {
+      "effect": "Slipperiness",
+      "base": "Oil",
+      "objective": "P1",
+      "nodes": 400,
+      "elapsed_seconds": 433.68928503990173,
+      "scope": "cold routes; integer final rotation; ordinary life support; void tail trim; unrotated variants",
+      "version": "salt.v2",
+      "solver_sha256": "bbd11f044592da2ebbbad7d16dae6e82090bef74339c04841d9ee27355a0c89e",
+      "node_limit": 400,
+      "alternatives": 6
+    },
+    {
+      "effect": "Slipperiness",
+      "base": "Oil",
+      "objective": "P2",
+      "nodes": 13,
+      "elapsed_seconds": 1783.8603007793427,
+      "scope": "cold routes; integer final rotation; ordinary life support; void tail trim; unrotated variants",
+      "version": "salt.v2",
+      "solver_sha256": "bbd11f044592da2ebbbad7d16dae6e82090bef74339c04841d9ee27355a0c89e",
+      "node_limit": 400,
+      "alternatives": 6
+    },
+    {
+      "effect": "Slipperiness",
+      "base": "Water",
+      "objective": "P1",
+      "nodes": 400,
+      "elapsed_seconds": 2119.8674306869507,
+      "scope": "cold routes; integer final rotation; ordinary life support; void tail trim; unrotated variants",
+      "version": "salt.v2",
+      "solver_sha256": "bbd11f044592da2ebbbad7d16dae6e82090bef74339c04841d9ee27355a0c89e",
+      "node_limit": 400,
+      "alternatives": 6
+    },
+    {
+      "effect": "Slipperiness",
+      "base": "Water",
+      "objective": "P2",
+      "nodes": 400,
+      "elapsed_seconds": 2126.929375886917,
+      "scope": "cold routes; integer final rotation; ordinary life support; void tail trim; unrotated variants",
+      "version": "salt.v2",
+      "solver_sha256": "bbd11f044592da2ebbbad7d16dae6e82090bef74339c04841d9ee27355a0c89e",
+      "node_limit": 400,
+      "alternatives": 6
+    },
+    {
+      "effect": "Stench",
+      "base": "Oil",
+      "objective": "P1",
+      "nodes": 166,
+      "elapsed_seconds": 480.9355933666229,
+      "scope": "cold routes; integer final rotation; ordinary life support; void tail trim; unrotated variants",
+      "version": "salt.v2",
+      "solver_sha256": "bbd11f044592da2ebbbad7d16dae6e82090bef74339c04841d9ee27355a0c89e",
+      "node_limit": 400,
+      "alternatives": 6
+    },
+    {
+      "effect": "Stench",
+      "base": "Oil",
+      "objective": "P2",
+      "nodes": 14,
+      "elapsed_seconds": 1108.875432729721,
+      "scope": "cold routes; integer final rotation; ordinary life support; void tail trim; unrotated variants",
+      "version": "salt.v2",
+      "solver_sha256": "bbd11f044592da2ebbbad7d16dae6e82090bef74339c04841d9ee27355a0c89e",
+      "node_limit": 400,
+      "alternatives": 6
+    },
+    {
+      "effect": "Stench",
+      "base": "Water",
+      "objective": "P1",
+      "nodes": 400,
+      "elapsed_seconds": 1326.8014035224915,
+      "scope": "cold routes; integer final rotation; ordinary life support; void tail trim; unrotated variants",
+      "version": "salt.v2",
+      "solver_sha256": "bbd11f044592da2ebbbad7d16dae6e82090bef74339c04841d9ee27355a0c89e",
+      "node_limit": 400,
+      "alternatives": 6
+    },
+    {
+      "effect": "Stench",
+      "base": "Water",
+      "objective": "P2",
+      "nodes": 400,
+      "elapsed_seconds": 1332.3783638477325,
+      "scope": "cold routes; integer final rotation; ordinary life support; void tail trim; unrotated variants",
+      "version": "salt.v2",
+      "solver_sha256": "bbd11f044592da2ebbbad7d16dae6e82090bef74339c04841d9ee27355a0c89e",
+      "node_limit": 400,
+      "alternatives": 6
+    }
+  ]
+}

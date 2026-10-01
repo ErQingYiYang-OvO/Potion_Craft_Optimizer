@@ -1,0 +1,68 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Oil",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "GraveTruffle",
+      "grind": 0.22814928
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Poopshroom",
+      "grind": 0.98170463
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "GraveTruffle",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.41434964
+    },
+    {
+      "kind": "pour",
+      "seconds": 0.1482914,
+      "strength": 1.0
+    },
+    {
+      "kind": "pour",
+      "seconds": 0.025,
+      "strength": 1.0
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Stench",
+    "tier": 2
+  },
+  "objective": "P1",
+  "mode": "no_salt",
+  "costs": {
+    "ingredient_count": 3,
+    "ingredient_value": 72.0,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 3.0,
+    "P2": 72.0,
+    "P1_exact": "3",
+    "P2_exact": "72"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "当前最好可行解",
+  "gameVerified": false
+}

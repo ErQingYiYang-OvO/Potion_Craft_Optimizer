@@ -1,0 +1,45 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Wine",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "Lifeleaf",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "pour",
+      "seconds": 0.4958378,
+      "strength": 1.0
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Healing",
+    "tier": 2
+  },
+  "objective": "P1",
+  "mode": "with_salt",
+  "costs": {
+    "ingredient_count": 1,
+    "ingredient_value": 6.0,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 1.0,
+    "P2": 6.0,
+    "P1_exact": "1",
+    "P2_exact": "6"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "药材等价消耗已达资源下界（当前引擎模型）",
+  "gameVerified": false
+}

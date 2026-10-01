@@ -1,0 +1,25 @@
+{
+  "gameVersion": "2.0.2",
+  "dataFingerprint": "8572de028143c7f6dbd450b6d2e766c067d8fd496a721a354e28ac9697d1198f",
+  "auditedAt": "2026-10-01T12:27:12.733241+00:00",
+  "snapshot": "delivery_snapshot.json",
+  "snapshotSha256": "dc396463707f868ec6bb14d5c75ae10cb8066839663ea8b71fd367b470584e66",
+  "targetCounts": {
+    "P1:no_salt": 123,
+    "P1:with_salt": 123,
+    "P2:no_salt": 123,
+    "P2:with_salt": 123
+  },
+  "deliveredRows": 492,
+  "uniqueReplayedRecipes": 262,
+  "sampledAlternativeRows": 104,
+  "candidateCoverageComplete": true,
+  "failures": [],
+  "actualGameVerified": false,
+  "objectiveComplete": false,
+  "remaining": [
+    "Complete legal control/action coverage",
+    "Global optimality certificates beyond simple resource bounds",
+    "Resolve engine calibration gaps under the prohibition on launching the game"
+  ]
+}

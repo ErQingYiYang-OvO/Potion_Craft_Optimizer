@@ -1,0 +1,67 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Water",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "WitchMushroom",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "WitchMushroom",
+      "grind": 0.75902129
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Waterbloom",
+      "grind": 0.80724824
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Windbloom",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.9041699
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Mana",
+    "tier": 3
+  },
+  "objective": "P2",
+  "mode": "no_salt",
+  "costs": {
+    "ingredient_count": 4,
+    "ingredient_value": 39.10000038146973,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 4.0,
+    "P2": 39.10000038146973,
+    "P1_exact": "4",
+    "P2_exact": "1221875011920929/31250000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "当前最好可行解",
+  "gameVerified": false
+}

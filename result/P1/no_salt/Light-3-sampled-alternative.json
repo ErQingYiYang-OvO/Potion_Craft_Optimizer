@@ -1,0 +1,58 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Water",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "MagmaMorel",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "MagmaMorel",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "MadMushroom",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.82179174
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Light",
+    "tier": 3
+  },
+  "objective": "P1",
+  "mode": "no_salt",
+  "costs": {
+    "ingredient_count": 3,
+    "ingredient_value": 62.30000114440918,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 3.0,
+    "P2": 62.30000114440918,
+    "P1_exact": "3",
+    "P2_exact": "62300001144409181/1000000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "容错采样通过的备选；非最低成本声明",
+  "gameVerified": false
+}

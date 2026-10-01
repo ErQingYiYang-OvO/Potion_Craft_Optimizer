@@ -1,0 +1,45 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Water",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "HealersHeather",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.9058165
+    },
+    {
+      "kind": "pour",
+      "seconds": 1.1748688,
+      "strength": 1.0
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Healing",
+    "tier": 3
+  },
+  "objective": "P1",
+  "mode": "with_salt",
+  "costs": {
+    "ingredient_count": 1,
+    "ingredient_value": 19.299999237060547,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 1.0,
+    "P2": 19.299999237060547,
+    "P1_exact": "1",
+    "P2_exact": "19299999237060547/1000000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "药材等价消耗已达资源下界（当前引擎模型）",
+  "gameVerified": false
+}

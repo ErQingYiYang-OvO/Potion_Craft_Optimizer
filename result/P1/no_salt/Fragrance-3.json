@@ -1,0 +1,72 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Wine",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "Watercap",
+      "grind": 0.75
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Coldleaf",
+      "grind": 0.99977052
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "LifeCrystal",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "DryadsSaddle",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.52003994
+    },
+    {
+      "kind": "pour",
+      "seconds": 0.8875997,
+      "strength": 1.0
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Fragrance",
+    "tier": 3
+  },
+  "objective": "P1",
+  "mode": "no_salt",
+  "costs": {
+    "ingredient_count": 4,
+    "ingredient_value": 121.50000190734863,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 4.0,
+    "P2": 121.50000190734863,
+    "P1_exact": "4",
+    "P2_exact": "121500001907348629/1000000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "当前最好可行解",
+  "gameVerified": false
+}

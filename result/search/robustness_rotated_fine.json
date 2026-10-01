@@ -1,0 +1,83 @@
+{
+  "920892799571e503bca06e8a4754df0de9a4999f35a3a4951d27f70274a4f023": {
+    "passed": 3,
+    "samples": 8,
+    "model_fingerprint": "e83fbf89dba0249ce3cf101d1ec6c3d9a9681f6c88708a139bb04098f10d895b",
+    "sampler_version": 2,
+    "method": "8 deterministic joint perturbations; empirical only",
+    "parameters": {
+      "grind_absolute": 0.001,
+      "partial_stir_absolute": 0.001,
+      "pour_seconds": 0.005,
+      "wait_seconds": 0.005,
+      "salt_units": 1
+    },
+    "outcomes": [
+      {
+        "passed": false,
+        "effects": [],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Fire",
+            1
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": false,
+        "effects": [],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": false,
+        "effects": [],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Fire",
+            1
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": false,
+        "effects": [],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Fire",
+            1
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": false,
+        "effects": [],
+        "failure": null,
+        "health": 1.0
+      }
+    ],
+    "certified": false,
+    "game_verified": false
+  }
+}

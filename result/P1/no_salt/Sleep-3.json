@@ -1,0 +1,63 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Water",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "Coldleaf",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Tangleweed",
+      "grind": 0.91752437
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "HealersHeather",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.76224615
+    },
+    {
+      "kind": "pour",
+      "seconds": 0.174441,
+      "strength": 1.0
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Sleep",
+    "tier": 3
+  },
+  "objective": "P1",
+  "mode": "no_salt",
+  "costs": {
+    "ingredient_count": 3,
+    "ingredient_value": 51.599998474121094,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 3.0,
+    "P2": 51.599998474121094,
+    "P1_exact": "3",
+    "P2_exact": "51599998474121093/1000000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "当前最好可行解",
+  "gameVerified": false
+}

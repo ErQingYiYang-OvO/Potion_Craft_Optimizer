@@ -1,0 +1,16 @@
+{
+  "snapshot": {
+    "id": "aefcea16f018589b55d4756ef211487ef224c391625a6981abb2e249d42485e8",
+    "archive": "result/search/snapshots/aefcea16f018589b55d4756ef211487ef224c391625a6981abb2e249d42485e8.zip",
+    "file_count": 92,
+    "archive_sha256": "8c008155ae383a1ebd1fe41acd4b3e5bf582c50a64ea141f62772abfab59b6c4",
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "platform": "Windows"
+  },
+  "restoredModelTests": 69,
+  "restoredModelTestFailures": 0,
+  "solverLaunchSucceeded": true,
+  "solverScope": "Water Fire; one salt grain; 20 iterations; no geometric refinement seeds",
+  "actualGameVerified": false
+}

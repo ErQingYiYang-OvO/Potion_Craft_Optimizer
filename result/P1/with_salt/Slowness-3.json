@@ -1,0 +1,60 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Wine",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "Mudshroom",
+      "grind": 0.93453622
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "EarthPyrite",
+      "grind": 0.68001297
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "salt",
+      "salt": "sun",
+      "amount": 139
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Slowness",
+    "tier": 3
+  },
+  "objective": "P1",
+  "mode": "with_salt",
+  "costs": {
+    "ingredient_count": 2,
+    "ingredient_value": 98.40000343322754,
+    "salt_equivalent": 1.39,
+    "salt_detail": {
+      "sun": {
+        "amount": 139.0,
+        "equivalent": 1.39,
+        "value": 36.695999469757076
+      }
+    },
+    "P1": 3.39,
+    "P2": 135.09600290298462,
+    "P1_exact": "339/100",
+    "P2_exact": "13509600290298461647/100000000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "当前最好可行解",
+  "gameVerified": false
+}

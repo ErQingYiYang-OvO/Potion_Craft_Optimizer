@@ -1,0 +1,1254 @@
+{
+  "records": {
+    "P1:Lightning:1": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "LustMushroom",
+          "grind": 0.7544813380213536
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.177593,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 12.0,
+          "seconds": 0.2
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        },
+        {
+          "kind": "add",
+          "name": "FrostSapphire",
+          "grind": 0.86970291
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Mageberry",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.49615327
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "LustMushroom": 1,
+        "FrostSapphire": 1,
+        "Mageberry": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 162.50000190734863,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 162.50000190734863,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 162.50000190734863,
+        "P1_exact": "3",
+        "P2_exact": "162500001907348631/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.806666666269302,
+      "position": [
+        9.205409130080099,
+        18.693617263666788
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Lightning",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Lightning",
+        "distance": 1.475737776159872,
+        "angle": 0.0,
+        "score": 0.48873442000300643,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Lightning",
+      "tier": 1
+    },
+    "P2:Lightning:1": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "LustMushroom",
+          "grind": 0.7544813380213536
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.177593,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 12.0,
+          "seconds": 0.2
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        },
+        {
+          "kind": "add",
+          "name": "FrostSapphire",
+          "grind": 0.86970291
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Mageberry",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.49615327
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "LustMushroom": 1,
+        "FrostSapphire": 1,
+        "Mageberry": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 162.50000190734863,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 162.50000190734863,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 162.50000190734863,
+        "P1_exact": "3",
+        "P2_exact": "162500001907348631/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.806666666269302,
+      "position": [
+        9.205409130080099,
+        18.693617263666788
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Lightning",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Lightning",
+        "distance": 1.475737776159872,
+        "angle": 0.0,
+        "score": 0.48873442000300643,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Lightning",
+      "tier": 1
+    },
+    "P1:Levitation:2": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "LustMushroom",
+          "grind": 0.7544813380213536
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.177593,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 12.0,
+          "seconds": 0.2
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        },
+        {
+          "kind": "add",
+          "name": "CloudCrystal",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "CloudCrystal",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "CloudCrystal",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "WitchMushroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.25681659
+        },
+        {
+          "kind": "pour",
+          "seconds": 8.5e-06,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "LustMushroom": 1,
+        "CloudCrystal": 3,
+        "WitchMushroom": 1
+      },
+      "ingredient_count": 5,
+      "ingredient_value": 373.6000099182129,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 5,
+        "ingredient_value": 373.6000099182129,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 5.0,
+        "P2": 373.6000099182129,
+        "P1_exact": "5",
+        "P2_exact": "93400002479553221/250000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.033333331346511445,
+      "position": [
+        -4.094069769826731,
+        36.233930623583625
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Levitation",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Levitation",
+        "distance": 0.18539944593510316,
+        "angle": 0.0,
+        "score": 0.953256237342361,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Levitation",
+      "tier": 2
+    },
+    "P2:Levitation:2": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "LustMushroom",
+          "grind": 0.7544813380213536
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.177593,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 12.0,
+          "seconds": 0.2
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        },
+        {
+          "kind": "add",
+          "name": "Windbloom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Windbloom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MadMushroom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "WitchMushroom",
+          "grind": 0.7569398
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "WitchMushroom",
+          "grind": 0.80296792
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MadMushroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.93755635
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "LustMushroom": 1,
+        "Windbloom": 2,
+        "MadMushroom": 2,
+        "WitchMushroom": 2
+      },
+      "ingredient_count": 7,
+      "ingredient_value": 89.4000015258789,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 7,
+        "ingredient_value": 89.4000015258789,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 7.0,
+        "P2": 89.4000015258789,
+        "P1_exact": "7",
+        "P2_exact": "89400001525878909/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -4.2289124904007656,
+        36.30718303756018
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Levitation",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Levitation",
+        "distance": 0.06344503766895543,
+        "angle": 0.0,
+        "score": 0.9971598260627459,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Levitation",
+      "tier": 2
+    },
+    "P1:Levitation:1": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "LustMushroom",
+          "grind": 0.7544813380213536
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.177593,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 12.0,
+          "seconds": 0.2
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        },
+        {
+          "kind": "add",
+          "name": "CloudCrystal",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "CloudCrystal",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "CloudCrystal",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "WitchMushroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.25681659
+        },
+        {
+          "kind": "pour",
+          "seconds": 8.5e-06,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "LustMushroom": 1,
+        "CloudCrystal": 3,
+        "WitchMushroom": 1
+      },
+      "ingredient_count": 5,
+      "ingredient_value": 373.6000099182129,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 5,
+        "ingredient_value": 373.6000099182129,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 5.0,
+        "P2": 373.6000099182129,
+        "P1_exact": "5",
+        "P2_exact": "93400002479553221/250000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.033333331346511445,
+      "position": [
+        -4.0716146656497365,
+        36.03519520073103
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Levitation",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Levitation",
+        "distance": 0.3662126207270594,
+        "angle": 0.0,
+        "score": 0.8881634918307035,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Levitation",
+      "tier": 1
+    },
+    "P2:Levitation:1": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "LustMushroom",
+          "grind": 0.7544813380213536
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.177593,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 12.0,
+          "seconds": 0.2
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        },
+        {
+          "kind": "add",
+          "name": "Windbloom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Windbloom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MadMushroom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "WitchMushroom",
+          "grind": 0.7569398
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "WitchMushroom",
+          "grind": 0.80296792
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MadMushroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.93755635
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "LustMushroom": 1,
+        "Windbloom": 2,
+        "MadMushroom": 2,
+        "WitchMushroom": 2
+      },
+      "ingredient_count": 7,
+      "ingredient_value": 89.4000015258789,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 7,
+        "ingredient_value": 89.4000015258789,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 7.0,
+        "P2": 89.4000015258789,
+        "P1_exact": "7",
+        "P2_exact": "89400001525878909/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -4.194204358079538,
+        36.009197558801944
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Levitation",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Levitation",
+        "distance": 0.3617223177194079,
+        "angle": 0.0,
+        "score": 0.8897800009776923,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Levitation",
+      "tier": 1
+    },
+    "P1:Levitation:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "LustMushroom",
+          "grind": 0.7544813380213536
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.177593,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 12.0,
+          "seconds": 0.2
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        },
+        {
+          "kind": "add",
+          "name": "Windbloom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Windbloom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MadMushroom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "WitchMushroom",
+          "grind": 0.7569398
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "WitchMushroom",
+          "grind": 0.80296792
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MadMushroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.93755635
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "LustMushroom": 1,
+        "Windbloom": 2,
+        "MadMushroom": 2,
+        "WitchMushroom": 2
+      },
+      "ingredient_count": 7,
+      "ingredient_value": 89.4000015258789,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 7,
+        "ingredient_value": 89.4000015258789,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 7.0,
+        "P2": 89.4000015258789,
+        "P1_exact": "7",
+        "P2_exact": "89400001525878909/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -4.23469717912097,
+        36.356847284019885
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Levitation",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Levitation",
+        "distance": 0.019722552646691295,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Levitation",
+      "tier": 3
+    },
+    "P2:Levitation:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "LustMushroom",
+          "grind": 0.7544813380213536
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.177593,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 12.0,
+          "seconds": 0.2
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        },
+        {
+          "kind": "add",
+          "name": "Windbloom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Windbloom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MadMushroom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "WitchMushroom",
+          "grind": 0.7569398
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "WitchMushroom",
+          "grind": 0.80296792
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MadMushroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.93755635
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "LustMushroom": 1,
+        "Windbloom": 2,
+        "MadMushroom": 2,
+        "WitchMushroom": 2
+      },
+      "ingredient_count": 7,
+      "ingredient_value": 89.4000015258789,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 7,
+        "ingredient_value": 89.4000015258789,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 7.0,
+        "P2": 89.4000015258789,
+        "P1_exact": "7",
+        "P2_exact": "89400001525878909/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -4.23469717912097,
+        36.356847284019885
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Levitation",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Levitation",
+        "distance": 0.019722552646691295,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Levitation",
+      "tier": 3
+    }
+  },
+  "runs": [
+    {
+      "base": "Water",
+      "effect": "Lightning",
+      "objective": "P1",
+      "nodes": 220,
+      "prefix_cost": 1.0,
+      "solver_sha256": "dcdd9a8b741441fc6de50657eece6d15d1ac899cc5564daf8db507ff87b611a3",
+      "scope": "one deliberate portal; cold continuation; bounded macro controls"
+    },
+    {
+      "base": "Water",
+      "effect": "Lightning",
+      "objective": "P2",
+      "nodes": 220,
+      "prefix_cost": 30.600000381469727,
+      "solver_sha256": "dcdd9a8b741441fc6de50657eece6d15d1ac899cc5564daf8db507ff87b611a3",
+      "scope": "one deliberate portal; cold continuation; bounded macro controls"
+    },
+    {
+      "base": "Water",
+      "effect": "MagicalVision",
+      "objective": "P1",
+      "nodes": 220,
+      "prefix_cost": 1.0,
+      "solver_sha256": "dcdd9a8b741441fc6de50657eece6d15d1ac899cc5564daf8db507ff87b611a3",
+      "scope": "one deliberate portal; cold continuation; bounded macro controls"
+    },
+    {
+      "base": "Water",
+      "effect": "MagicalVision",
+      "objective": "P2",
+      "nodes": 220,
+      "prefix_cost": 30.600000381469727,
+      "solver_sha256": "dcdd9a8b741441fc6de50657eece6d15d1ac899cc5564daf8db507ff87b611a3",
+      "scope": "one deliberate portal; cold continuation; bounded macro controls"
+    },
+    {
+      "base": "Water",
+      "effect": "Levitation",
+      "objective": "P1",
+      "nodes": 220,
+      "prefix_cost": 1.0,
+      "solver_sha256": "dcdd9a8b741441fc6de50657eece6d15d1ac899cc5564daf8db507ff87b611a3",
+      "scope": "one deliberate portal; cold continuation; bounded macro controls"
+    },
+    {
+      "base": "Water",
+      "effect": "Levitation",
+      "objective": "P2",
+      "nodes": 41,
+      "prefix_cost": 30.600000381469727,
+      "solver_sha256": "dcdd9a8b741441fc6de50657eece6d15d1ac899cc5564daf8db507ff87b611a3",
+      "scope": "one deliberate portal; cold continuation; bounded macro controls"
+    },
+    {
+      "base": "Water",
+      "effect": "Lightning",
+      "objective": "P1",
+      "nodes": 220,
+      "prefix_cost": 1.0,
+      "solver_sha256": "dcdd9a8b741441fc6de50657eece6d15d1ac899cc5564daf8db507ff87b611a3",
+      "scope": "one deliberate portal; cold continuation; bounded macro controls"
+    },
+    {
+      "base": "Water",
+      "effect": "Lightning",
+      "objective": "P2",
+      "nodes": 220,
+      "prefix_cost": 30.600000381469727,
+      "solver_sha256": "dcdd9a8b741441fc6de50657eece6d15d1ac899cc5564daf8db507ff87b611a3",
+      "scope": "one deliberate portal; cold continuation; bounded macro controls"
+    },
+    {
+      "base": "Water",
+      "effect": "MagicalVision",
+      "objective": "P1",
+      "nodes": 220,
+      "prefix_cost": 1.0,
+      "solver_sha256": "dcdd9a8b741441fc6de50657eece6d15d1ac899cc5564daf8db507ff87b611a3",
+      "scope": "one deliberate portal; cold continuation; bounded macro controls"
+    },
+    {
+      "base": "Water",
+      "effect": "MagicalVision",
+      "objective": "P2",
+      "nodes": 220,
+      "prefix_cost": 30.600000381469727,
+      "solver_sha256": "dcdd9a8b741441fc6de50657eece6d15d1ac899cc5564daf8db507ff87b611a3",
+      "scope": "one deliberate portal; cold continuation; bounded macro controls"
+    },
+    {
+      "base": "Water",
+      "effect": "Levitation",
+      "objective": "P1",
+      "nodes": 220,
+      "prefix_cost": 1.0,
+      "solver_sha256": "dcdd9a8b741441fc6de50657eece6d15d1ac899cc5564daf8db507ff87b611a3",
+      "scope": "one deliberate portal; cold continuation; bounded macro controls"
+    },
+    {
+      "base": "Water",
+      "effect": "Levitation",
+      "objective": "P2",
+      "nodes": 41,
+      "prefix_cost": 30.600000381469727,
+      "solver_sha256": "dcdd9a8b741441fc6de50657eece6d15d1ac899cc5564daf8db507ff87b611a3",
+      "scope": "one deliberate portal; cold continuation; bounded macro controls"
+    },
+    {
+      "base": "Water",
+      "effect": "Lightning",
+      "objective": "P1",
+      "nodes": 220,
+      "prefix_cost": 1.0,
+      "solver_sha256": "dcdd9a8b741441fc6de50657eece6d15d1ac899cc5564daf8db507ff87b611a3",
+      "scope": "one deliberate portal; cold continuation; bounded macro controls"
+    },
+    {
+      "base": "Water",
+      "effect": "Lightning",
+      "objective": "P2",
+      "nodes": 220,
+      "prefix_cost": 30.600000381469727,
+      "solver_sha256": "dcdd9a8b741441fc6de50657eece6d15d1ac899cc5564daf8db507ff87b611a3",
+      "scope": "one deliberate portal; cold continuation; bounded macro controls"
+    },
+    {
+      "base": "Water",
+      "effect": "MagicalVision",
+      "objective": "P1",
+      "nodes": 220,
+      "prefix_cost": 1.0,
+      "solver_sha256": "dcdd9a8b741441fc6de50657eece6d15d1ac899cc5564daf8db507ff87b611a3",
+      "scope": "one deliberate portal; cold continuation; bounded macro controls"
+    },
+    {
+      "base": "Water",
+      "effect": "MagicalVision",
+      "objective": "P2",
+      "nodes": 220,
+      "prefix_cost": 30.600000381469727,
+      "solver_sha256": "dcdd9a8b741441fc6de50657eece6d15d1ac899cc5564daf8db507ff87b611a3",
+      "scope": "one deliberate portal; cold continuation; bounded macro controls"
+    },
+    {
+      "base": "Water",
+      "effect": "Levitation",
+      "objective": "P1",
+      "nodes": 220,
+      "prefix_cost": 1.0,
+      "solver_sha256": "dcdd9a8b741441fc6de50657eece6d15d1ac899cc5564daf8db507ff87b611a3",
+      "scope": "one deliberate portal; cold continuation; bounded macro controls"
+    },
+    {
+      "base": "Water",
+      "effect": "Levitation",
+      "objective": "P2",
+      "nodes": 41,
+      "prefix_cost": 30.600000381469727,
+      "solver_sha256": "dcdd9a8b741441fc6de50657eece6d15d1ac899cc5564daf8db507ff87b611a3",
+      "scope": "one deliberate portal; cold continuation; bounded macro controls"
+    }
+  ]
+}

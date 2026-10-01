@@ -1,0 +1,3528 @@
+{
+  "records": {
+    "P1:Healing:2": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "LifeCrystal",
+          "grind": 0.64310722
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.49991,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "LifeCrystal": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 67.30000305175781,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 67.30000305175781,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 67.30000305175781,
+        "P1_exact": "1",
+        "P2_exact": "6730000305175781/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        2.9862375353129083,
+        -2.9912451385746994
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Healing",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Healing",
+        "distance": 0.016311132175286402,
+        "angle": 24.999996185302734,
+        "score": 0.9724613711524241,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Healing",
+      "tier": 2,
+      "objective": "P1"
+    },
+    "P2:Healing:2": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "LifeCrystal",
+          "grind": 0.64310722
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.49991,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "LifeCrystal": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 67.30000305175781,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 67.30000305175781,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 67.30000305175781,
+        "P1_exact": "1",
+        "P2_exact": "6730000305175781/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        2.9862375353129083,
+        -2.9912451385746994
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Healing",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Healing",
+        "distance": 0.016311132175286402,
+        "angle": 24.999996185302734,
+        "score": 0.9724613711524241,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Healing",
+      "tier": 2,
+      "objective": "P2"
+    },
+    "P1:Healing:1": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "LifeCrystal",
+          "grind": 0.64310722
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.49991,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "LifeCrystal": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 67.30000305175781,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 67.30000305175781,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 67.30000305175781,
+        "P1_exact": "1",
+        "P2_exact": "6730000305175781/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        2.809608995701654,
+        -2.8143204116573037
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Healing",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Healing",
+        "distance": 0.26594293381258693,
+        "angle": 24.999996185302734,
+        "score": 0.8825939189919845,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Healing",
+      "tier": 1,
+      "objective": "P1"
+    },
+    "P2:Healing:1": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "LifeCrystal",
+          "grind": 0.64310722
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.49991,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "LifeCrystal": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 67.30000305175781,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 67.30000305175781,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 67.30000305175781,
+        "P1_exact": "1",
+        "P2_exact": "6730000305175781/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        2.809608995701654,
+        -2.8143204116573037
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Healing",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Healing",
+        "distance": 0.26594293381258693,
+        "angle": 24.999996185302734,
+        "score": 0.8825939189919845,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Healing",
+      "tier": 1,
+      "objective": "P2"
+    },
+    "P1:Frost:1": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "FrostSapphire",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "FrostSapphire": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 93.80000305175781,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 93.80000305175781,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 93.80000305175781,
+        "P1_exact": "1",
+        "P2_exact": "9380000305175781/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        7.399999618530271,
+        -8.046627094551034e-07
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Frost",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Frost",
+        "distance": 0.5800868905692655,
+        "angle": 69.99999237060547,
+        "score": 0.6945020932870133,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Frost",
+      "tier": 1,
+      "objective": "P1"
+    },
+    "P2:Frost:1": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "FrostSapphire",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "FrostSapphire": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 93.80000305175781,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 93.80000305175781,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 93.80000305175781,
+        "P1_exact": "1",
+        "P2_exact": "9380000305175781/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        7.399999618530271,
+        -8.046627094551034e-07
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Frost",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Frost",
+        "distance": 0.5800868905692655,
+        "angle": 69.99999237060547,
+        "score": 0.6945020932870133,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Frost",
+      "tier": 1,
+      "objective": "P2"
+    },
+    "P1:Poison:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "PlagueStibnite",
+          "grind": 0.34126295
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "PlagueStibnite": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 84.19999694824219,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 84.19999694824219,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 84.19999694824219,
+        "P1_exact": "1",
+        "P2_exact": "8419999694824219/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -3.0638104310603,
+        -2.9486775282090076
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Poison",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Poison",
+        "distance": 1.1154753057824833,
+        "angle": 14.999995231628418,
+        "score": 0.5934289217427656,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Poison",
+      "tier": 1,
+      "objective": "P1"
+    },
+    "P2:Poison:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "PlagueStibnite",
+          "grind": 0.34126295
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "PlagueStibnite": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 84.19999694824219,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 84.19999694824219,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 84.19999694824219,
+        "P1_exact": "1",
+        "P2_exact": "8419999694824219/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -3.0638104310603,
+        -2.9486775282090076
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Poison",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Poison",
+        "distance": 1.1154753057824833,
+        "angle": 14.999995231628418,
+        "score": 0.5934289217427656,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Poison",
+      "tier": 1,
+      "objective": "P2"
+    },
+    "P1:Poison:2": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "PlagueStibnite",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.9931957,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "PlagueStibnite": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 84.19999694824219,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 84.19999694824219,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 84.19999694824219,
+        "P1_exact": "1",
+        "P2_exact": "8419999694824219/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -3.7754099529822884,
+        -3.7754099529822893
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Poison",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Poison",
+        "distance": 0.08256830494813294,
+        "angle": 14.999995231628418,
+        "score": 0.9652754568189849,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Poison",
+      "tier": 2,
+      "objective": "P1"
+    },
+    "P2:Poison:2": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "PlagueStibnite",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.9931957,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "PlagueStibnite": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 84.19999694824219,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 84.19999694824219,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 84.19999694824219,
+        "P1_exact": "1",
+        "P2_exact": "8419999694824219/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -3.7754099529822884,
+        -3.7754099529822893
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Poison",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Poison",
+        "distance": 0.08256830494813294,
+        "angle": 14.999995231628418,
+        "score": 0.9652754568189849,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Poison",
+      "tier": 2,
+      "objective": "P2"
+    }
+  },
+  "runs": [
+    {
+      "base": "Wine",
+      "effect": "Healing",
+      "refinements": 4,
+      "successful_variants": 8,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Wine",
+      "effect": "Frost",
+      "refinements": 1,
+      "successful_variants": 1,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Wine",
+      "effect": "Strength",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Wine",
+      "effect": "Dexterity",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Wine",
+      "effect": "Swiftness",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Wine",
+      "effect": "Mana",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Wine",
+      "effect": "Sleep",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Wine",
+      "effect": "Charm",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Wine",
+      "effect": "Slowness",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Wine",
+      "effect": "Rage",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Wine",
+      "effect": "MagicalVision",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Wine",
+      "effect": "Acid",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Wine",
+      "effect": "Libido",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Wine",
+      "effect": "Levitation",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Wine",
+      "effect": "Necromancy",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Wine",
+      "effect": "Inspiration",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Wine",
+      "effect": "Fragrance",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Wine",
+      "effect": "Fear",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Wine",
+      "effect": "Hallucinations",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Wine",
+      "effect": "Luck",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Wine",
+      "effect": "Curse",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "AcidProtection",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "AntiMagic",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "Enlargement",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "Explosion",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "Fire",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "FireProtection",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "FrostProtection",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "Gluing",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "Healing",
+      "refinements": 1,
+      "successful_variants": 2,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "Invisibility",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "Light",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "Lightning",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "LightningProtection",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "Poison",
+      "refinements": 3,
+      "successful_variants": 5,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "PoisonProtection",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "Rejuvenation",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "Shrinking",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "Slipperiness",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "Stench",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "StoneSkin",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "WildGrowth",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Healing",
+      "refinements": 1,
+      "successful_variants": 1,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Poison",
+      "refinements": 1,
+      "successful_variants": 1,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Fire",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Frost",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Explosion",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "WildGrowth",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Strength",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Dexterity",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Swiftness",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Lightning",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Mana",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "StoneSkin",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Sleep",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Light",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Charm",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Slowness",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Rage",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "MagicalVision",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Acid",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Libido",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Invisibility",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Levitation",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Necromancy",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "PoisonProtection",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "LightningProtection",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "FireProtection",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "FrostProtection",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Gluing",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Slipperiness",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Stench",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "AcidProtection",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "AntiMagic",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Shrinking",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Enlargement",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Rejuvenation",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Inspiration",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Fragrance",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Fear",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Hallucinations",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Luck",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Curse",
+      "refinements": 0,
+      "successful_variants": 0,
+      "snapshot": {
+        "id": "a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87",
+        "archive": "result/search/snapshots/a8f69c53a9fb88a02e311a8ce2fc0eeb4019619f91b78264f92e85ccf758af87.zip",
+        "file_count": 112,
+        "archive_sha256": "3c15762d3d7c040f859166d1a37f2b07cd44f068b0f42bb6c56d19864f99f66a",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": null,
+        "iterations": 160,
+        "ingredients": [
+          "ArcaneCrystal",
+          "BloodRuby",
+          "CloudCrystal",
+          "EarthPyrite",
+          "FableBismuth",
+          "FireCitrine",
+          "FrostSapphire",
+          "LifeCrystal",
+          "PlagueStibnite"
+        ],
+        "output": "result/search/crystal_single_candidates.json"
+      },
+      "iterations": 160,
+      "solver_sha256": "205a8e6cfbcea328feed185384c366597c9dcae365d588c971f9e2754d4423e4",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    }
+  ]
+}

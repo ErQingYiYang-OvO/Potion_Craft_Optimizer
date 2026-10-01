@@ -1,0 +1,49 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Oil",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "Spellbloom",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "CloudCrystal",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Lightning",
+    "tier": 1
+  },
+  "objective": "P1",
+  "mode": "no_salt",
+  "costs": {
+    "ingredient_count": 2,
+    "ingredient_value": 143.8000030517578,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 2.0,
+    "P2": 143.8000030517578,
+    "P1_exact": "2",
+    "P2_exact": "14380000305175781/100000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "当前最好可行解",
+  "gameVerified": false
+}

@@ -1,0 +1,703 @@
+{
+  "TagManager": {
+    "object_id": 3,
+    "data": {
+      "tags": [
+        "ViscousMedium"
+      ],
+      "layers": [
+        "Default",
+        "TransparentFX",
+        "Ignore Raycast",
+        "Passepartout",
+        "Water",
+        "UI",
+        "",
+        "",
+        "RecipeMapContent",
+        "Equipment",
+        "",
+        "",
+        "Surfaces",
+        "SurfacesNearGui",
+        "IngredientsOuter",
+        "IngredientsInner",
+        "DebugButtons",
+        "BellowsColliders",
+        "Jug",
+        "Spoon",
+        "Pestle",
+        "Mortar",
+        "IngredientsInEquipmentOuter",
+        "IngredientsInEquipmentInner",
+        "ThrowVacuumingPhysics",
+        "IngredientZones",
+        "PhysicalParticles",
+        "PhysicalParticlesCollider",
+        "WateringPot",
+        "WateringSurface",
+        "PlantDropReceiver",
+        "OutlineRt"
+      ],
+      "m_SortingLayers": [
+        {
+          "name": "Default",
+          "uniqueID": 0
+        },
+        {
+          "name": "Environment",
+          "uniqueID": 1339807135
+        },
+        {
+          "name": "Background",
+          "uniqueID": 2316306205
+        },
+        {
+          "name": "BackgroundShelves",
+          "uniqueID": 2485030311
+        },
+        {
+          "name": "ForegroundShelves",
+          "uniqueID": 2881179045
+        },
+        {
+          "name": "Npc",
+          "uniqueID": 690776641
+        },
+        {
+          "name": "ScalesIdle",
+          "uniqueID": 4021863
+        },
+        {
+          "name": "GrowingPots",
+          "uniqueID": 2779049155
+        },
+        {
+          "name": "SceneButtons",
+          "uniqueID": 3413302155
+        },
+        {
+          "name": "Shelf",
+          "uniqueID": 2149185125
+        },
+        {
+          "name": "ScalesActive",
+          "uniqueID": 2779493259
+        },
+        {
+          "name": "GuiTradingPanelBackground",
+          "uniqueID": 4076790265
+        },
+        {
+          "name": "GuiTradingPanelItems",
+          "uniqueID": 1170047369
+        },
+        {
+          "name": "GuiTradingPanelForeground",
+          "uniqueID": 829061543
+        },
+        {
+          "name": "Dialogues",
+          "uniqueID": 3153370401
+        },
+        {
+          "name": "RecipeMapBookmarks",
+          "uniqueID": 2662480789
+        },
+        {
+          "name": "RecipeMapContent",
+          "uniqueID": 2435572521
+        },
+        {
+          "name": "RecipeMapPath",
+          "uniqueID": 2219252969
+        },
+        {
+          "name": "RecipeMapIndicator",
+          "uniqueID": 1035671427
+        },
+        {
+          "name": "RecipeMapFloatingText",
+          "uniqueID": 3958219781
+        },
+        {
+          "name": "RecipeMapForeground",
+          "uniqueID": 1812034761
+        },
+        {
+          "name": "PotionCraftPanel",
+          "uniqueID": 2644271769
+        },
+        {
+          "name": "RecipeMapScratches",
+          "uniqueID": 3357259297
+        },
+        {
+          "name": "Haggle",
+          "uniqueID": 1803983209
+        },
+        {
+          "name": "Drawers",
+          "uniqueID": 1914097999
+        },
+        {
+          "name": "Ladle",
+          "uniqueID": 2922312891
+        },
+        {
+          "name": "SpoonInCauldron",
+          "uniqueID": 3186207015
+        },
+        {
+          "name": "IngredientsInCauldron",
+          "uniqueID": 228795827
+        },
+        {
+          "name": "SparksBack",
+          "uniqueID": 992864223
+        },
+        {
+          "name": "Coals",
+          "uniqueID": 2899514589
+        },
+        {
+          "name": "Bellows",
+          "uniqueID": 3704271467
+        },
+        {
+          "name": "PhysicalParticlesCauldron",
+          "uniqueID": 193796623
+        },
+        {
+          "name": "Cauldron",
+          "uniqueID": 823247583
+        },
+        {
+          "name": "CaveBackground",
+          "uniqueID": 1651067919
+        },
+        {
+          "name": "GrottoBackground",
+          "uniqueID": 1723385125
+        },
+        {
+          "name": "GardenBackground",
+          "uniqueID": 2731763001
+        },
+        {
+          "name": "PondBackground",
+          "uniqueID": 2248792389
+        },
+        {
+          "name": "GardenTreeBackground",
+          "uniqueID": 944359875
+        },
+        {
+          "name": "GardenTreeBuildableItemsBackground",
+          "uniqueID": 4285408849
+        },
+        {
+          "name": "GardenTreeMiddleground",
+          "uniqueID": 113029533
+        },
+        {
+          "name": "GardenTreeBuildableItemsForeground",
+          "uniqueID": 1899329799
+        },
+        {
+          "name": "GardenTreeForeground",
+          "uniqueID": 624937091
+        },
+        {
+          "name": "GardenRocksGrass",
+          "uniqueID": 191487581
+        },
+        {
+          "name": "Watering Pot Drops Background",
+          "uniqueID": 2881430571
+        },
+        {
+          "name": "BackgroundEffects",
+          "uniqueID": 388270991
+        },
+        {
+          "name": "EquipmentBG",
+          "uniqueID": 1968548287
+        },
+        {
+          "name": "PhysicalParticlesMortar",
+          "uniqueID": 3903807193
+        },
+        {
+          "name": "IngredientsInMortar",
+          "uniqueID": 3011189761
+        },
+        {
+          "name": "EquipmentMG",
+          "uniqueID": 3692767985
+        },
+        {
+          "name": "EquipmentFG",
+          "uniqueID": 1455466471
+        },
+        {
+          "name": "FinishLegendarySubstanceMenu",
+          "uniqueID": 3406426025
+        },
+        {
+          "name": "SparksFront",
+          "uniqueID": 352726559
+        },
+        {
+          "name": "BuildableItemForegroundChests",
+          "uniqueID": 2688271293
+        },
+        {
+          "name": "GardenPondForegroundFurniture",
+          "uniqueID": 2569253855
+        },
+        {
+          "name": "UnderGrass",
+          "uniqueID": 2158507347
+        },
+        {
+          "name": "CaveForegroundFurniture",
+          "uniqueID": 3688683147
+        },
+        {
+          "name": "CaveBuildableItems",
+          "uniqueID": 2710287533
+        },
+        {
+          "name": "GrottoForegroundFurniture",
+          "uniqueID": 95175415
+        },
+        {
+          "name": "GrottoBuildableItems",
+          "uniqueID": 2801406939
+        },
+        {
+          "name": "NavigationButtonsBackground",
+          "uniqueID": 502388649
+        },
+        {
+          "name": "ForegroundChests",
+          "uniqueID": 1217117595
+        },
+        {
+          "name": "Ingredients",
+          "uniqueID": 1986693301
+        },
+        {
+          "name": "WateringPotReleased",
+          "uniqueID": 3056368733
+        },
+        {
+          "name": "BasementForeground",
+          "uniqueID": 1524429671
+        },
+        {
+          "name": "PestleOuter",
+          "uniqueID": 4072828095
+        },
+        {
+          "name": "Effects",
+          "uniqueID": 2863913877
+        },
+        {
+          "name": "CaveForeground",
+          "uniqueID": 527900031
+        },
+        {
+          "name": "GrottoForeground",
+          "uniqueID": 4156513197
+        },
+        {
+          "name": "PondMiddleground",
+          "uniqueID": 3448633383
+        },
+        {
+          "name": "Water",
+          "uniqueID": 150811063
+        },
+        {
+          "name": "PondForeground",
+          "uniqueID": 1647830303
+        },
+        {
+          "name": "NearRoots",
+          "uniqueID": 2972598081
+        },
+        {
+          "name": "Surfaces",
+          "uniqueID": 2900846597
+        },
+        {
+          "name": "NavigationButtonsForeground",
+          "uniqueID": 2890306417
+        },
+        {
+          "name": "BuildModeGrid",
+          "uniqueID": 4208141663
+        },
+        {
+          "name": "ForegroundEffects",
+          "uniqueID": 1486821529
+        },
+        {
+          "name": "SceneDebugButtons",
+          "uniqueID": 1426722743
+        },
+        {
+          "name": "GuiLeftPanelBackground",
+          "uniqueID": 312875971
+        },
+        {
+          "name": "GuiLeftPanelItems",
+          "uniqueID": 349587667
+        },
+        {
+          "name": "GuiLeftPanelForeground",
+          "uniqueID": 1350505945
+        },
+        {
+          "name": "DarkScreenLower",
+          "uniqueID": 140884321
+        },
+        {
+          "name": "GuiBackground",
+          "uniqueID": 2536900591
+        },
+        {
+          "name": "GuiItems",
+          "uniqueID": 279602235
+        },
+        {
+          "name": "GuiForeground",
+          "uniqueID": 1671037801
+        },
+        {
+          "name": "Watering Pot Drops Foreground",
+          "uniqueID": 1104130701
+        },
+        {
+          "name": "WateringPotInHand",
+          "uniqueID": 1074009251
+        },
+        {
+          "name": "ChangingElementsWindow",
+          "uniqueID": 1253140373
+        },
+        {
+          "name": "DescriptionWindow",
+          "uniqueID": 3236176763
+        },
+        {
+          "name": "LegendaryRecipe",
+          "uniqueID": 2833400713
+        },
+        {
+          "name": "RecipeBook",
+          "uniqueID": 468365501
+        },
+        {
+          "name": "TalentsWindow",
+          "uniqueID": 434402145
+        },
+        {
+          "name": "CalendarWindow",
+          "uniqueID": 2853198513
+        },
+        {
+          "name": "UpgradesWindow",
+          "uniqueID": 2970201061
+        },
+        {
+          "name": "GoalsBook",
+          "uniqueID": 568723397
+        },
+        {
+          "name": "DarkScreenMiddle",
+          "uniqueID": 1718469423
+        },
+        {
+          "name": "HaggleHelpWindow",
+          "uniqueID": 3372392193
+        },
+        {
+          "name": "ManualWindow",
+          "uniqueID": 3726851329
+        },
+        {
+          "name": "TutorialHint",
+          "uniqueID": 271077635
+        },
+        {
+          "name": "MenuElements",
+          "uniqueID": 3257031021
+        },
+        {
+          "name": "SelectLanguageWindow",
+          "uniqueID": 2291531489
+        },
+        {
+          "name": "SaveLoadWindow",
+          "uniqueID": 930557713
+        },
+        {
+          "name": "SaveLoadConfirmationWindow",
+          "uniqueID": 2228333693
+        },
+        {
+          "name": "CreateNewSaveWindow",
+          "uniqueID": 1742462569
+        },
+        {
+          "name": "SaveCorruptedWindow",
+          "uniqueID": 3308893263
+        },
+        {
+          "name": "MailSubscriptionWindow",
+          "uniqueID": 3393426077
+        },
+        {
+          "name": "DarkScreenUpper",
+          "uniqueID": 201325041
+        },
+        {
+          "name": "ConfirmationWindow",
+          "uniqueID": 4214792323
+        },
+        {
+          "name": "SkipTutorialConfirmationWindow",
+          "uniqueID": 4290342945
+        },
+        {
+          "name": "DarkScreenRadialMenu",
+          "uniqueID": 694951255
+        },
+        {
+          "name": "RadialMenuWindow",
+          "uniqueID": 2784850797
+        },
+        {
+          "name": "FloatingText",
+          "uniqueID": 1576535069
+        },
+        {
+          "name": "ScreenBorders",
+          "uniqueID": 2284806327
+        },
+        {
+          "name": "FloatingTextAboveScreenBorders",
+          "uniqueID": 1959302757
+        },
+        {
+          "name": "GrabbedItems",
+          "uniqueID": 370419103
+        },
+        {
+          "name": "GrabbedItemsEffects",
+          "uniqueID": 673012577
+        },
+        {
+          "name": "Debug",
+          "uniqueID": 2207220381
+        },
+        {
+          "name": "Tooltip",
+          "uniqueID": 1514356439
+        },
+        {
+          "name": "Cursor",
+          "uniqueID": 1553116931
+        }
+      ]
+    }
+  },
+  "TimeManager": {
+    "object_id": 8,
+    "data": {
+      "Fixed Timestep": {
+        "m_Count": 705599,
+        "m_Rate": {
+          "m_Denominator": 1,
+          "m_Numerator": 141120000
+        }
+      },
+      "Maximum Allowed Timestep": 0.03333333879709244,
+      "m_TimeScale": 1.0,
+      "Maximum Particle Timestep": 0.029999999329447746
+    }
+  },
+  "PhysicsManager": {
+    "object_id": 10,
+    "data": {
+      "m_Gravity": {
+        "x": 0.0,
+        "y": -9.8100004196167,
+        "z": 0.0
+      },
+      "m_DefaultMaterial": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_BounceThreshold": 2.0,
+      "m_DefaultMaxDepenetrationVelocity": 10.0,
+      "m_SleepThreshold": 0.004999999888241291,
+      "m_DefaultContactOffset": 0.009999999776482582,
+      "m_DefaultSolverIterations": 6,
+      "m_DefaultSolverVelocityIterations": 1,
+      "m_QueriesHitBackfaces": false,
+      "m_QueriesHitTriggers": true,
+      "m_EnableAdaptiveForce": false,
+      "m_ClothInterCollisionDistance": 0.0,
+      "m_ClothInterCollisionStiffness": 0.0,
+      "m_LayerCollisionMatrix": [
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295,
+        4294967295
+      ],
+      "m_SimulationMode": 0,
+      "m_AutoSyncTransforms": false,
+      "m_ReuseCollisionCallbacks": true,
+      "m_InvokeCollisionCallbacks": true,
+      "m_ClothInterCollisionSettingsToggle": false,
+      "m_ClothGravity": {
+        "x": 0.0,
+        "y": -9.8100004196167,
+        "z": 0.0
+      },
+      "m_ContactPairsMode": 0,
+      "m_BroadphaseType": 0,
+      "m_FrictionType": 0,
+      "m_EnableEnhancedDeterminism": false,
+      "m_EnableUnifiedHeightmaps": true,
+      "m_ImprovedPatchFriction": false,
+      "m_SolverType": 0,
+      "m_DefaultMaxAngularSpeed": 7.0,
+      "m_ScratchBufferChunkCount": 4
+    }
+  },
+  "Physics2DSettings": {
+    "object_id": 15,
+    "data": {
+      "m_Gravity": {
+        "x": 0.0,
+        "y": -75.0
+      },
+      "m_DefaultMaterial": {
+        "m_FileID": 0,
+        "m_PathID": 0
+      },
+      "m_VelocityIterations": 8,
+      "m_PositionIterations": 8,
+      "m_BounceThreshold": 1.0,
+      "m_MaxLinearCorrection": 0.20000000298023224,
+      "m_MaxAngularCorrection": 8.0,
+      "m_MaxTranslationSpeed": 100.0,
+      "m_MaxRotationSpeed": 360.0,
+      "m_BaumgarteScale": 0.20000000298023224,
+      "m_BaumgarteTimeOfImpactScale": 0.75,
+      "m_TimeToSleep": 0.5,
+      "m_LinearSleepTolerance": 0.009999999776482582,
+      "m_AngularSleepTolerance": 2.0,
+      "m_DefaultContactOffset": 0.009999999776482582,
+      "m_JobOptions": {
+        "useMultithreading": false,
+        "useConsistencySorting": false,
+        "m_InterpolationPosesPerJob": 100,
+        "m_NewContactsPerJob": 30,
+        "m_CollideContactsPerJob": 100,
+        "m_ClearFlagsPerJob": 200,
+        "m_ClearBodyForcesPerJob": 200,
+        "m_SyncDiscreteFixturesPerJob": 50,
+        "m_SyncContinuousFixturesPerJob": 50,
+        "m_FindNearestContactsPerJob": 100,
+        "m_UpdateTriggerContactsPerJob": 100,
+        "m_IslandSolverCostThreshold": 100,
+        "m_IslandSolverBodyCostScale": 1,
+        "m_IslandSolverContactCostScale": 10,
+        "m_IslandSolverJointCostScale": 10,
+        "m_IslandSolverBodiesPerJob": 50,
+        "m_IslandSolverContactsPerJob": 50
+      },
+      "m_SimulationMode": 0,
+      "m_SimulationLayers": {
+        "m_Bits": 4294967295
+      },
+      "m_MaxSubStepCount": 4,
+      "m_MinSubStepFPS": 30.0,
+      "m_UseSubStepping": false,
+      "m_UseSubStepContacts": false,
+      "m_QueriesHitTriggers": true,
+      "m_QueriesStartInColliders": true,
+      "m_CallbacksOnDisable": true,
+      "m_ReuseCollisionCallbacks": true,
+      "m_AutoSyncTransforms": false,
+      "m_LayerCollisionMatrix": [
+        1107296448,
+        1073742016,
+        1074528960,
+        1073744064,
+        1073742016,
+        1073742016,
+        4294967295,
+        4294967295,
+        1073742272,
+        1073757892,
+        2752,
+        4292871880,
+        1411146432,
+        1411175104,
+        1124085952,
+        1073750208,
+        1073742016,
+        1073873088,
+        1074016452,
+        1074278596,
+        1076900032,
+        1078986944,
+        1109395648,
+        1082132672,
+        1073760448,
+        1077954753,
+        1207974080,
+        1140852928,
+        1610627264,
+        3489663168,
+        4294966271,
+        1610614976
+      ]
+    }
+  }
+}

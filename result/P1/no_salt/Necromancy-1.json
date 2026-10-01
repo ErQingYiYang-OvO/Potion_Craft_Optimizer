@@ -1,0 +1,58 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Wine",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "Mudshroom",
+      "grind": 0.56993279
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Thornstick",
+      "grind": 0.66761971
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "PlagueStibnite",
+      "grind": 0.93343658
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Necromancy",
+    "tier": 1
+  },
+  "objective": "P1",
+  "mode": "no_salt",
+  "costs": {
+    "ingredient_count": 3,
+    "ingredient_value": 123.99999809265137,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 3.0,
+    "P2": 123.99999809265137,
+    "P1_exact": "3",
+    "P2_exact": "12399999809265137/100000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "当前最好可行解",
+  "gameVerified": false
+}

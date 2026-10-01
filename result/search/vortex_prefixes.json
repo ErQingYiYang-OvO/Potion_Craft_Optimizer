@@ -1,0 +1,152 @@
+{
+  "base": "Water",
+  "prefixes": [
+    {
+      "operations": [
+        {
+          "kind": "add",
+          "name": "LustMushroom",
+          "grind": 0.7544813380213536
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.177593,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 12.0,
+          "seconds": 0.2
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        }
+      ],
+      "position": [
+        -4.565000534057617,
+        12.604999542236328
+      ],
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 30.600000381469727,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 30.600000381469727,
+        "P1_exact": "1",
+        "P2_exact": "30600000381469727/1000000000000000"
+      }
+    },
+    {
+      "operations": [
+        {
+          "kind": "add",
+          "name": "LustMushroom",
+          "grind": 0.7544813380213536
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.177593,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 12.0,
+          "seconds": 0.2
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        }
+      ],
+      "position": [
+        -4.565000534057617,
+        12.604999542236328
+      ],
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 30.600000381469727,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 30.600000381469727,
+        "P1_exact": "1",
+        "P2_exact": "30600000381469727/1000000000000000"
+      }
+    },
+    {
+      "operations": [
+        {
+          "kind": "add",
+          "name": "LustMushroom",
+          "grind": 0.7544813380213536
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.177593,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 12.0,
+          "seconds": 0.2
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "wait",
+          "seconds": 3.0
+        }
+      ],
+      "position": [
+        -4.565000534057617,
+        12.604999542236328
+      ],
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 30.600000381469727,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 30.600000381469727,
+        "P1_exact": "1",
+        "P2_exact": "30600000381469727/1000000000000000"
+      }
+    }
+  ]
+}

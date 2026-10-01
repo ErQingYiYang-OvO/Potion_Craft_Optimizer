@@ -1,0 +1,29 @@
+{
+  "records": {},
+  "runs": [
+    {
+      "base": "Water",
+      "effect": "Fire",
+      "solver_sha256": "4bb1f1a2a066eba986e6b2f7f7e13ff7f3e5df1ae3d00c68056d86ad9ca6ec0c",
+      "refinements": 0,
+      "successful_variants": 0,
+      "resource_pruned": 0,
+      "units_grid": [
+        1,
+        5,
+        10,
+        15,
+        20,
+        25,
+        30,
+        35,
+        40
+      ],
+      "waits": [
+        0.06
+      ],
+      "iterations": 35,
+      "scope": "one ordinary herb; rotation before stirring; optional opposite salt; numerical macro search, no proof"
+    }
+  ]
+}

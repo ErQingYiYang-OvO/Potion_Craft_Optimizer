@@ -1,0 +1,819 @@
+[
+  {
+    "name": "WaterStream",
+    "asset_id": 103308837908508111,
+    "source": "CAB-20e222f0620fcea0d9db9f1d6b28318a",
+    "data": {
+      "m_GameObject": {
+        "m_FileID": 0,
+        "m_PathID": 124611261469748687
+      },
+      "m_Enabled": 1,
+      "m_Script": {
+        "m_FileID": 0,
+        "m_PathID": -4939888404513044859
+      },
+      "m_Name": "",
+      "pouringStartsAt": -10.0,
+      "waterLevelResetsAt": -6.0,
+      "minStreamThickness": 0.10000000149011612,
+      "fixingWaterLevel": 0,
+      "pouringInOutAnimationThreshold": 0.0,
+      "heatCoolingDependence": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.017999999225139618,
+            "inSlope": 0.8819999694824219,
+            "outSlope": 0.8819999694824219,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.3333333432674408
+          },
+          {
+            "time": 1.0,
+            "value": 0.8999999761581421,
+            "inSlope": 0.8819999694824219,
+            "outSlope": 0.8819999694824219,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "waterLevelYDependence": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": -0.029999999329447746,
+            "inSlope": 0.4376715421676636,
+            "outSlope": 0.4376715421676636,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.058277033269405365
+          },
+          {
+            "time": 1.0009765625,
+            "value": 0.47999998927116394,
+            "inSlope": 0.5118719935417175,
+            "outSlope": 0.5118719935417175,
+            "weightedMode": 0,
+            "inWeight": 0.04327303171157837,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "pouringThicknessDependence": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 0.0,
+            "inSlope": 1.3359190225601196,
+            "outSlope": 1.3359190225601196,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.05645161122083664
+          },
+          {
+            "time": 0.15000000596046448,
+            "value": 1.0,
+            "inSlope": 6.666666507720947,
+            "outSlope": 6.666666507720947,
+            "weightedMode": 0,
+            "inWeight": 0.3333333432674408,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "loopAnimationFps": 12.0,
+      "streamOutAnimationFps": 40.0,
+      "streamInAnimationFps": {
+        "m_Curve": [
+          {
+            "time": 0.0,
+            "value": 40.0,
+            "inSlope": 472.5205993652344,
+            "outSlope": 472.5205993652344,
+            "weightedMode": 0,
+            "inWeight": 0.0,
+            "outWeight": 0.06589987874031067
+          },
+          {
+            "time": 0.800000011920929,
+            "value": 600.0,
+            "inSlope": 12.750776290893555,
+            "outSlope": 12.750776290893555,
+            "weightedMode": 0,
+            "inWeight": 0.10487236082553864,
+            "outWeight": 0.0
+          }
+        ],
+        "m_PreInfinity": 2,
+        "m_PostInfinity": 2,
+        "m_RotationOrder": 4
+      },
+      "backgroundMaskSprites": [
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 1941646470706268072
+            }
+          ]
+        },
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 5356699963486337745
+            }
+          ]
+        },
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": -4503936227026902677
+            }
+          ]
+        },
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": -5411921641830184022
+            }
+          ]
+        },
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 1447791584913666938
+            }
+          ]
+        },
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": -8872404179212597656
+            }
+          ]
+        },
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": -3934152316283859830
+            }
+          ]
+        },
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": -2983850037941321765
+            }
+          ]
+        }
+      ],
+      "foregroundSprites": [
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": -3919104032558080734
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 1279429135437247029
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 6601335051040523719
+            }
+          ]
+        },
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": -6088283849249286655
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 8777307360462015262
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 4877492549669600016
+            }
+          ]
+        },
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 8011347980839022555
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": -8297717598048061993
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": -4639124456595254306
+            }
+          ]
+        },
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 6767293901719042302
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": -3353384445387833305
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": -6033882484951087291
+            }
+          ]
+        },
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 7276402267239122498
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": -5696913808937460456
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 6899892139469376246
+            }
+          ]
+        },
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": -4968922177759414558
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": -8632985020634683311
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": -7935123914978819396
+            }
+          ]
+        },
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 4187753895160162805
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": -7988937584943440669
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": -8747393544295309690
+            }
+          ]
+        },
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 2395506368106105982
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": -1341638724292705446
+            },
+            {
+              "m_FileID": 0,
+              "m_PathID": 4864476892508974507
+            }
+          ]
+        }
+      ],
+      "scratchesMaskSprites": [
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": -3461472519295348641
+            }
+          ]
+        },
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": -5942086937336118265
+            }
+          ]
+        },
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 4334655349658253933
+            }
+          ]
+        },
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 4823455776857306981
+            }
+          ]
+        },
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 3760701924774550495
+            }
+          ]
+        },
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": -8918670147716459178
+            }
+          ]
+        },
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": 5602548085967216510
+            }
+          ]
+        },
+        {
+          "sprites": [
+            {
+              "m_FileID": 0,
+              "m_PathID": -8511038811274934703
+            }
+          ]
+        }
+      ],
+      "streamInBackgroundMaskSprites": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -1033310996129014373
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8574609646170733313
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2838299582041520406
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2888077747848184134
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 922356665974586340
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 837553419381743491
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7068882894116006187
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8087238834772504105
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1585500784104698831
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8554336779714481154
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5375213168690016663
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8627707642192014714
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5174582784388626249
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 302495702430519789
+        }
+      ],
+      "streamInForegroundSprites": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -5261856883388366508
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 360855317573281025
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -3206151118545145058
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -406988195148137821
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -1521671555191708522
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5479236963470392361
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5680520869405119050
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5014302788844532656
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2422973686502274792
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 4027052929191798076
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -4152493013949165283
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6254914967645381801
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 8040915569325111574
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7356285824040951909
+        }
+      ],
+      "streamInScratchesMaskSprites": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -3514011378769042326
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7558821348743629290
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7692850797895400999
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2786641009320556222
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1855464446610561045
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -3363714447498638828
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7030962579943509107
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2058216115930740180
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5530582477628501545
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5120803853141207783
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5648229171753531428
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1176489748943117115
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6907473196647066461
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2818098243109007365
+        }
+      ],
+      "streamOutBackgroundMaskSprites": [
+        {
+          "m_FileID": 0,
+          "m_PathID": 3664644998064656106
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5965096089701648865
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5932280556692425960
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5999270154361851181
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -1344062211922226539
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6286091894794197285
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2563012115018027839
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2875300807516820709
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -4497217861811581776
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -9050422236570080849
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2570671431433367259
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7557757826241383732
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -888332337923507566
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -1026672037942356605
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 4986122765843148912
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1168852806383700580
+        }
+      ],
+      "streamOutForegroundSprites": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -7161443335413114578
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5676107475685957974
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -1518608693818546348
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2455439777637334251
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 3292456639271961030
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 483308599849245217
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7583434029765069111
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 7125744271625711037
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7067411537296214678
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -8075586160623290772
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5968474490457125119
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6492407678193617545
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2466879217497195277
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -5458525074933186491
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 5402200355523121780
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2739677882190519633
+        }
+      ],
+      "streamOutScratchesMaskSprites": [
+        {
+          "m_FileID": 0,
+          "m_PathID": -6388163870154265020
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7991977225833753608
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -1386502335119070314
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 311188210478256286
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1015683786356162963
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 4429532669333836012
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -6753902612269768575
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 1363682426505573036
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 4283429993139620409
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 6559183543869989712
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -9204278794922010379
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": 2576772387140505832
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -3028983024170541205
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -7508313063521235749
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -3860111261794466965
+        },
+        {
+          "m_FileID": 0,
+          "m_PathID": -2369197123745632472
+        }
+      ],
+      "animatorStream1": {
+        "backgroundAnimator": {
+          "m_FileID": 0,
+          "m_PathID": -1758885767324832305
+        },
+        "backgroundMaskAnimator": {
+          "m_FileID": 0,
+          "m_PathID": 1615098712519601615
+        },
+        "foregroundAnimator": {
+          "m_FileID": 0,
+          "m_PathID": 3831957084385439183
+        },
+        "scratchesAnimator": {
+          "m_FileID": 0,
+          "m_PathID": 2284317680410291663
+        },
+        "scratchesMaskAnimator": {
+          "m_FileID": 0,
+          "m_PathID": -4232169736092848689
+        },
+        "isPouringStartAnimationPlaying": 0,
+        "isPouringFinishAnimationPlaying": 0,
+        "isLoopAnimationPlaying": 0
+      },
+      "animatorStream2": {
+        "backgroundAnimator": {
+          "m_FileID": 0,
+          "m_PathID": 5029114786554834383
+        },
+        "backgroundMaskAnimator": {
+          "m_FileID": 0,
+          "m_PathID": -1536657495808676401
+        },
+        "foregroundAnimator": {
+          "m_FileID": 0,
+          "m_PathID": 8164901720576355791
+        },
+        "scratchesAnimator": {
+          "m_FileID": 0,
+          "m_PathID": 8001846758770470351
+        },
+        "scratchesMaskAnimator": {
+          "m_FileID": 0,
+          "m_PathID": -624157601285870129
+        },
+        "isPouringStartAnimationPlaying": 0,
+        "isPouringFinishAnimationPlaying": 0,
+        "isLoopAnimationPlaying": 0
+      },
+      "ladle": {
+        "m_FileID": 0,
+        "m_PathID": 1721025602696572367
+      },
+      "streamAnchor": {
+        "m_FileID": 0,
+        "m_PathID": 6135147996879121871
+      },
+      "isPouring": 0
+    }
+  }
+]

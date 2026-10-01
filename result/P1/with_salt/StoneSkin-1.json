@@ -1,0 +1,385 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Oil",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "Goldthorn",
+      "grind": 0.25
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.011821578392497418
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.011962999934026958
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01210784609607552
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01225624279758481
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.012408322207267746
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.012564223136226047
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.012724091460542045
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01288808057654889
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.013056351891765742
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.013229075354800706
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.013406430027878372
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.013588604706046482
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01377579858756299
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.013968222000467802
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.014166097190910642
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01436965917944695
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.014579156692238167
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.014794853174913894
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.015017027897785213
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.015245977162158341
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.015482015618705299
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01572547771022663
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01597671925271779
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.016236119170457867
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.016504081402914525
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.016781037003648053
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.017067446454152976
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.017363802218762204
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.017670631570431798
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.017988499721515512
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01831801329863676
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01865982420660355
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.019014633933149026
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.019383198354309843
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.019766333109712767
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.020164919628214643
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.020579911897585186
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.021012344087671206
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.02146333915527217
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.02193411858145796
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.02242601341910191
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.022940476861027917
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.02347909857869016
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.02404362112937544
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.02463595878864861
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.025258219236842103
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.025912728617282207
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.02660206059411809
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.027329070174891456
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.028096933234969163
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.028909192897692473
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.029769814198896846
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.03068324881514215
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.03165451208558611
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.03268927514059306
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.03379397571069447
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.03497595218944292
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.036243606849794295
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.037606605888574965
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.03907612637272623
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.0406651634382051
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.042388915619854785
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.04426527252166553
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.046315438007005966
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.04856473497926477
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.05104365663617311
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.05378925700126031
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.05684701574069103
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.06027337737295608
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.06413926765686323
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.06853505595461436
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.0735777083107005
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.07942134917385683
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.08627329028604208
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.09441914017491065
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.10426362168602754
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.11639989645422347
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.13173368358279416
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.1517203663115448
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.17885654716457172
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.21781400868140122
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.2784683068974595
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.3859405062306598
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.6285067003224789
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.9999999999997912
+    },
+    {
+      "kind": "add",
+      "name": "EvergreenFern",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.54
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "StoneSkin",
+    "tier": 1
+  },
+  "objective": "P1",
+  "mode": "with_salt",
+  "costs": {
+    "ingredient_count": 2,
+    "ingredient_value": 40.80000114440918,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 2.0,
+    "P2": 40.80000114440918,
+    "P1_exact": "2",
+    "P2_exact": "2040000057220459/50000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "当前最好可行解",
+  "gameVerified": false
+}

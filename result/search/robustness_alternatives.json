@@ -1,0 +1,320 @@
+{
+  "d44692e9bf1386d6974dc33b83e9f56d0e666f1bc732776cb880672abf21a5eb": {
+    "passed": 8,
+    "samples": 8,
+    "model_fingerprint": "e83fbf89dba0249ce3cf101d1ec6c3d9a9681f6c88708a139bb04098f10d895b",
+    "sampler_version": 2,
+    "method": "8 deterministic joint perturbations; empirical only",
+    "parameters": {
+      "grind_absolute": 0.001,
+      "partial_stir_absolute": 0.001,
+      "pour_seconds": 0.005,
+      "wait_seconds": 0.005,
+      "salt_units": 1
+    },
+    "outcomes": [
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            1
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            1
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            1
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            1
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            1
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            1
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            1
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            1
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      }
+    ],
+    "certified": false,
+    "game_verified": false
+  },
+  "5b8be202898a363b0acfb22f3941c029224b5f843b10c73ffee1e219d07af879": {
+    "passed": 8,
+    "samples": 8,
+    "model_fingerprint": "e83fbf89dba0249ce3cf101d1ec6c3d9a9681f6c88708a139bb04098f10d895b",
+    "sampler_version": 2,
+    "method": "8 deterministic joint perturbations; empirical only",
+    "parameters": {
+      "grind_absolute": 0.001,
+      "partial_stir_absolute": 0.001,
+      "pour_seconds": 0.005,
+      "wait_seconds": 0.005,
+      "salt_units": 1
+    },
+    "outcomes": [
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            2
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            2
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            2
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            2
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            2
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            2
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            2
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            2
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      }
+    ],
+    "certified": false,
+    "game_verified": false
+  },
+  "28a7c8e4cd89aecc01763335875bc81241443876a6d415b5c23966fe85a98088": {
+    "passed": 8,
+    "samples": 8,
+    "model_fingerprint": "e83fbf89dba0249ce3cf101d1ec6c3d9a9681f6c88708a139bb04098f10d895b",
+    "sampler_version": 2,
+    "method": "8 deterministic joint perturbations; empirical only",
+    "parameters": {
+      "grind_absolute": 0.001,
+      "partial_stir_absolute": 0.001,
+      "pour_seconds": 0.005,
+      "wait_seconds": 0.005,
+      "salt_units": 1
+    },
+    "outcomes": [
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            3
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            3
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            3
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            3
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            3
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            3
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            3
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      },
+      {
+        "passed": true,
+        "effects": [
+          [
+            "Frost",
+            3
+          ]
+        ],
+        "failure": null,
+        "health": 1.0
+      }
+    ],
+    "certified": false,
+    "game_verified": false
+  }
+}

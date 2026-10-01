@@ -1,0 +1,504 @@
+{
+  "gameVersion": "2.0.2",
+  "locale": "zh",
+  "source": "Installed game LocalizationData, Ingredient.inventoryIconObject, PotionEffect.icon",
+  "ingredients": {
+    "HairyBanana": {
+      "name": "毛蕉",
+      "icon": "assets/ingredients/HairyBanana.png",
+      "spriteId": 4200266347166420669
+    },
+    "Icefruit": {
+      "name": "冰果",
+      "icon": "assets/ingredients/Icefruit.png",
+      "spriteId": 2458459755463830810
+    },
+    "Mageberry": {
+      "name": "法师莓",
+      "icon": "assets/ingredients/Mageberry.png",
+      "spriteId": 6811424035841030769
+    },
+    "TerrorBud": {
+      "name": "恐怖芽",
+      "icon": "assets/ingredients/TerrorBud.png",
+      "spriteId": 789996271128915647
+    },
+    "PlagueStibnite": {
+      "name": "瘟疫辉锑矿",
+      "icon": "assets/ingredients/PlagueStibnite.png",
+      "spriteId": -2170393450257570467
+    },
+    "DragonPepper": {
+      "name": "龙椒",
+      "icon": "assets/ingredients/DragonPepper.png",
+      "spriteId": 9115550699189927289
+    },
+    "Marshroom": {
+      "name": "沼泽菇",
+      "icon": "assets/ingredients/Marshroom.png",
+      "spriteId": 2768742858244947763
+    },
+    "SulphurShelf": {
+      "name": "硫磺架",
+      "icon": "assets/ingredients/SulphurShelf.png",
+      "spriteId": -2182946405218684601
+    },
+    "CloudCrystal": {
+      "name": "云晶",
+      "icon": "assets/ingredients/CloudCrystal.png",
+      "spriteId": -8491049047127602829
+    },
+    "Mudshroom": {
+      "name": "泥浆菇",
+      "icon": "assets/ingredients/Mudshroom.png",
+      "spriteId": 6959980357527734646
+    },
+    "Whirlweed": {
+      "name": "漩涡草",
+      "icon": "assets/ingredients/Whirlweed.png",
+      "spriteId": -4021665080704821822
+    },
+    "Lavaroot": {
+      "name": "熔岩根茎",
+      "icon": "assets/ingredients/Lavaroot.png",
+      "spriteId": 7816059859324671238
+    },
+    "FireCitrine": {
+      "name": "火黄晶",
+      "icon": "assets/ingredients/FireCitrine.png",
+      "spriteId": 5494450367505140651
+    },
+    "StinkMushroom": {
+      "name": "恶臭磨菇",
+      "icon": "assets/ingredients/StinkMushroom.png",
+      "spriteId": -572268075547622773
+    },
+    "PhantomSkirt": {
+      "name": "幻影裙",
+      "icon": "assets/ingredients/PhantomSkirt.png",
+      "spriteId": -915034260935953764
+    },
+    "GraspingRoot": {
+      "name": "掌握根茎",
+      "icon": "assets/ingredients/GraspingRoot.png",
+      "spriteId": -6358603505239800286
+    },
+    "EvergreenFern": {
+      "name": "常青蕨",
+      "icon": "assets/ingredients/EvergreenFern.png",
+      "spriteId": -8145523743030819707
+    },
+    "MagmaMorel": {
+      "name": "岩浆羊肚菌",
+      "icon": "assets/ingredients/MagmaMorel.png",
+      "spriteId": -6472969823103470381
+    },
+    "BloodRuby": {
+      "name": "血红石",
+      "icon": "assets/ingredients/BloodRuby.png",
+      "spriteId": 8893666663861092187
+    },
+    "WitchMushroom": {
+      "name": "巫术蘑菇",
+      "icon": "assets/ingredients/WitchMushroom.png",
+      "spriteId": -6785471482513423551
+    },
+    "DryadsSaddle": {
+      "name": "树仙鞍菇",
+      "icon": "assets/ingredients/DryadsSaddle.png",
+      "spriteId": -8956535807861380679
+    },
+    "HealersHeather": {
+      "name": "治疗师的石楠",
+      "icon": "assets/ingredients/HealersHeather.png",
+      "spriteId": -5494884291902253976
+    },
+    "GraveTruffle": {
+      "name": "墓穴松露",
+      "icon": "assets/ingredients/GraveTruffle.png",
+      "spriteId": -8832665031653498874
+    },
+    "MossShroom": {
+      "name": "苔藓菇",
+      "icon": "assets/ingredients/MossShroom.png",
+      "spriteId": 6575098343391010726
+    },
+    "FoggyParasol": {
+      "name": "迷雾伞",
+      "icon": "assets/ingredients/FoggyParasol.png",
+      "spriteId": 6131208574142145153
+    },
+    "Windbloom": {
+      "name": "风之花",
+      "icon": "assets/ingredients/Windbloom.png",
+      "spriteId": -7235289129867963741
+    },
+    "ThunderThistle": {
+      "name": "雷蓟",
+      "icon": "assets/ingredients/ThunderThistle.png",
+      "spriteId": -4941722597020970416
+    },
+    "FableBismuth": {
+      "name": "寓言之铋",
+      "icon": "assets/ingredients/FableBismuth.png",
+      "spriteId": -3323246637724969321
+    },
+    "Featherbloom": {
+      "name": "羽之花",
+      "icon": "assets/ingredients/Featherbloom.png",
+      "spriteId": -6775722048416466977
+    },
+    "Flameweed": {
+      "name": "火焰草",
+      "icon": "assets/ingredients/Flameweed.png",
+      "spriteId": 8864830653920451413
+    },
+    "Fluffbloom": {
+      "name": "绒之花",
+      "icon": "assets/ingredients/Fluffbloom.png",
+      "spriteId": 1604372384226985661
+    },
+    "Firebell": {
+      "name": "火铃铛",
+      "icon": "assets/ingredients/Firebell.png",
+      "spriteId": 1081583168102457155
+    },
+    "Terraria": {
+      "name": "泰拉瑞亚",
+      "icon": "assets/ingredients/Terraria.png",
+      "spriteId": -3427800967475623442
+    },
+    "Goodberry": {
+      "name": "神莓",
+      "icon": "assets/ingredients/Goodberry.png",
+      "spriteId": 3674889539176576885
+    },
+    "Poopshroom": {
+      "name": "屎壳菌",
+      "icon": "assets/ingredients/Poopshroom.png",
+      "spriteId": -37295695582335910
+    },
+    "Lifeleaf": {
+      "name": "生命叶",
+      "icon": "assets/ingredients/Lifeleaf.png",
+      "spriteId": -8048422708373539491
+    },
+    "LustMushroom": {
+      "name": "淫欲磨菇",
+      "icon": "assets/ingredients/LustMushroom.png",
+      "spriteId": -5925533344838577480
+    },
+    "MadMushroom": {
+      "name": "疯癫磨菇",
+      "icon": "assets/ingredients/MadMushroom.png",
+      "spriteId": -1987756560946957687
+    },
+    "FrostSapphire": {
+      "name": "冰霜蓝宝石",
+      "icon": "assets/ingredients/FrostSapphire.png",
+      "spriteId": -4309247699790113875
+    },
+    "Tangleweed": {
+      "name": "缠枝草",
+      "icon": "assets/ingredients/Tangleweed.png",
+      "spriteId": 8181857164679751636
+    },
+    "KrakenMushroom": {
+      "name": "海怪磨菇",
+      "icon": "assets/ingredients/KrakenMushroom.png",
+      "spriteId": -3286803142457640929
+    },
+    "Spellbloom": {
+      "name": "咒之花",
+      "icon": "assets/ingredients/Spellbloom.png",
+      "spriteId": -1510144230673340311
+    },
+    "DruidsRosemary": {
+      "name": "德魯伊的迷迭香",
+      "icon": "assets/ingredients/DruidsRosemary.png",
+      "spriteId": 1376470676043612366
+    },
+    "RainbowCap": {
+      "name": "彩虹盖",
+      "icon": "assets/ingredients/RainbowCap.png",
+      "spriteId": -2598128313397445663
+    },
+    "Goldthorn": {
+      "name": "金棘",
+      "icon": "assets/ingredients/Goldthorn.png",
+      "spriteId": -1881518955826346891
+    },
+    "Weirdshroom": {
+      "name": "奇异菇",
+      "icon": "assets/ingredients/Weirdshroom.png",
+      "spriteId": 1996851196811530374
+    },
+    "Bloodthorn": {
+      "name": "血棘",
+      "icon": "assets/ingredients/Bloodthorn.png",
+      "spriteId": -2215359840528486541
+    },
+    "GoblinMushroom": {
+      "name": "地精菇",
+      "icon": "assets/ingredients/GoblinMushroom.png",
+      "spriteId": 2308501200061979742
+    },
+    "EarthPyrite": {
+      "name": "土黄铁矿",
+      "icon": "assets/ingredients/EarthPyrite.png",
+      "spriteId": -8721323345534913168
+    },
+    "Thornstick": {
+      "name": "棘条",
+      "icon": "assets/ingredients/Thornstick.png",
+      "spriteId": -6597055576042580734
+    },
+    "Coldleaf": {
+      "name": "寒叶",
+      "icon": "assets/ingredients/Coldleaf.png",
+      "spriteId": -2689919767785997806
+    },
+    "Waterbloom": {
+      "name": "水之花",
+      "icon": "assets/ingredients/Waterbloom.png",
+      "spriteId": -9160090160297072696
+    },
+    "Boombloom": {
+      "name": "繁之花",
+      "icon": "assets/ingredients/Boombloom.png",
+      "spriteId": 8449124873167984734
+    },
+    "ArcaneCrystal": {
+      "name": "奥术水晶",
+      "icon": "assets/ingredients/ArcaneCrystal.png",
+      "spriteId": 5264616193918810033
+    },
+    "Watercap": {
+      "name": "水之盖",
+      "icon": "assets/ingredients/Watercap.png",
+      "spriteId": -916044676763199495
+    },
+    "DreamBeet": {
+      "name": "幻梦甜菜",
+      "icon": "assets/ingredients/DreamBeet.png",
+      "spriteId": -2442391958625231823
+    },
+    "ShadowChanterelle": {
+      "name": "影子鸡油菇",
+      "icon": "assets/ingredients/ShadowChanterelle.png",
+      "spriteId": 5501054470941732403
+    },
+    "LifeCrystal": {
+      "name": "生命水晶",
+      "icon": "assets/ingredients/LifeCrystal.png",
+      "spriteId": -968596809026750058
+    }
+  },
+  "effects": {
+    "Healing": {
+      "name": "治疗",
+      "icon": "assets/effects/Healing.png",
+      "spriteId": -9001383399738290628
+    },
+    "Frost": {
+      "name": "冰霜",
+      "icon": "assets/effects/Frost.png",
+      "spriteId": 4593223044155754031
+    },
+    "Strength": {
+      "name": "力量",
+      "icon": "assets/effects/Strength.png",
+      "spriteId": -7396756410080326193
+    },
+    "Dexterity": {
+      "name": "灵巧",
+      "icon": "assets/effects/Dexterity.png",
+      "spriteId": -3762251060922909702
+    },
+    "Swiftness": {
+      "name": "加速",
+      "icon": "assets/effects/Swiftness.png",
+      "spriteId": -8494072509244729111
+    },
+    "Mana": {
+      "name": "法力",
+      "icon": "assets/effects/Mana.png",
+      "spriteId": 4947237074877601337
+    },
+    "Sleep": {
+      "name": "睡眠",
+      "icon": "assets/effects/Sleep.png",
+      "spriteId": -6975341766263648
+    },
+    "Charm": {
+      "name": "魅力",
+      "icon": "assets/effects/Charm.png",
+      "spriteId": -962592951682280790
+    },
+    "Slowness": {
+      "name": "减速",
+      "icon": "assets/effects/Slowness.png",
+      "spriteId": 7658664017874798338
+    },
+    "Rage": {
+      "name": "狂怒",
+      "icon": "assets/effects/Rage.png",
+      "spriteId": -1088981251695784986
+    },
+    "MagicalVision": {
+      "name": "透视",
+      "icon": "assets/effects/MagicalVision.png",
+      "spriteId": -3086545559852343499
+    },
+    "Acid": {
+      "name": "酸",
+      "icon": "assets/effects/Acid.png",
+      "spriteId": -5530533840025044626
+    },
+    "Libido": {
+      "name": "性欲",
+      "icon": "assets/effects/Libido.png",
+      "spriteId": -842885990772001915
+    },
+    "Levitation": {
+      "name": "悬浮",
+      "icon": "assets/effects/Levitation.png",
+      "spriteId": -3543290363567769184
+    },
+    "Necromancy": {
+      "name": "死灵术",
+      "icon": "assets/effects/Necromancy.png",
+      "spriteId": 6064998652372686764
+    },
+    "Inspiration": {
+      "name": "灵感",
+      "icon": "assets/effects/Inspiration.png",
+      "spriteId": 3474487225530112394
+    },
+    "Fragrance": {
+      "name": "香气",
+      "icon": "assets/effects/Fragrance.png",
+      "spriteId": -4296018910330803443
+    },
+    "Fear": {
+      "name": "恐忧",
+      "icon": "assets/effects/Fear.png",
+      "spriteId": 3444530826673055910
+    },
+    "Hallucinations": {
+      "name": "致幻",
+      "icon": "assets/effects/Hallucinations.png",
+      "spriteId": -2310251174475370110
+    },
+    "Luck": {
+      "name": "幸运",
+      "icon": "assets/effects/Luck.png",
+      "spriteId": 4436969661113468022
+    },
+    "Curse": {
+      "name": "诅咒",
+      "icon": "assets/effects/Curse.png",
+      "spriteId": -6575011967563613869
+    },
+    "AcidProtection": {
+      "name": "防酸",
+      "icon": "assets/effects/AcidProtection.png",
+      "spriteId": 6405676371245831221
+    },
+    "AntiMagic": {
+      "name": "反魔法",
+      "icon": "assets/effects/AntiMagic.png",
+      "spriteId": 3994005126679271012
+    },
+    "Enlargement": {
+      "name": "巨化",
+      "icon": "assets/effects/Enlargement.png",
+      "spriteId": 7901647758704458698
+    },
+    "Explosion": {
+      "name": "爆炸",
+      "icon": "assets/effects/Explosion.png",
+      "spriteId": 6601413780911683737
+    },
+    "Fire": {
+      "name": "火",
+      "icon": "assets/effects/Fire.png",
+      "spriteId": 8376823125638704960
+    },
+    "FireProtection": {
+      "name": "防火",
+      "icon": "assets/effects/FireProtection.png",
+      "spriteId": -987510429518144388
+    },
+    "FrostProtection": {
+      "name": "防冻",
+      "icon": "assets/effects/FrostProtection.png",
+      "spriteId": -3053736183708921599
+    },
+    "Gluing": {
+      "name": "胶着",
+      "icon": "assets/effects/Gluing.png",
+      "spriteId": 8502573317171127808
+    },
+    "Invisibility": {
+      "name": "隐形",
+      "icon": "assets/effects/Invisibility.png",
+      "spriteId": -1126766643335380656
+    },
+    "Light": {
+      "name": "光",
+      "icon": "assets/effects/Light.png",
+      "spriteId": -6508152698311167112
+    },
+    "Lightning": {
+      "name": "闪电",
+      "icon": "assets/effects/Lightning.png",
+      "spriteId": 3499794512755567234
+    },
+    "LightningProtection": {
+      "name": "防电",
+      "icon": "assets/effects/LightningProtection.png",
+      "spriteId": -2152654986555490278
+    },
+    "Poison": {
+      "name": "中毒",
+      "icon": "assets/effects/Poison.png",
+      "spriteId": -1949459801678981973
+    },
+    "PoisonProtection": {
+      "name": "防毒",
+      "icon": "assets/effects/PoisonProtection.png",
+      "spriteId": -3896629275359715887
+    },
+    "Rejuvenation": {
+      "name": "回春",
+      "icon": "assets/effects/Rejuvenation.png",
+      "spriteId": -2683943202987810764
+    },
+    "Shrinking": {
+      "name": "缩小",
+      "icon": "assets/effects/Shrinking.png",
+      "spriteId": -7910987223420798018
+    },
+    "Slipperiness": {
+      "name": "滑润",
+      "icon": "assets/effects/Slipperiness.png",
+      "spriteId": -1030757504489793730
+    },
+    "Stench": {
+      "name": "臭味",
+      "icon": "assets/effects/Stench.png",
+      "spriteId": 794399481702711341
+    },
+    "StoneSkin": {
+      "name": "石肤",
+      "icon": "assets/effects/StoneSkin.png",
+      "spriteId": 6688594766429542215
+    },
+    "WildGrowth": {
+      "name": "疯长",
+      "icon": "assets/effects/WildGrowth.png",
+      "spriteId": -1347977558058899552
+    }
+  }
+}

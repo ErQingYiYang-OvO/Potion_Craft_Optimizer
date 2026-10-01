@@ -1,0 +1,94 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Oil",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "Lavaroot",
+      "grind": 0.75
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "SulphurShelf",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Lavaroot",
+      "grind": 0.75
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "SulphurShelf",
+      "grind": 0.5
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Firebell",
+      "grind": 0.9477162
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "SulphurShelf",
+      "grind": 0.9630364
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Firebell",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.99388224
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Enlargement",
+    "tier": 3
+  },
+  "objective": "P2",
+  "mode": "with_salt",
+  "costs": {
+    "ingredient_count": 7,
+    "ingredient_value": 80.29999828338623,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 7.0,
+    "P2": 80.29999828338623,
+    "P1_exact": "7",
+    "P2_exact": "80299998283386231/1000000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "当前最好可行解",
+  "gameVerified": false
+}

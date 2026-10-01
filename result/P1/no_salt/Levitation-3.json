@@ -1,0 +1,81 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Water",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "Whirlweed",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Whirlweed",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "CloudCrystal",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Windbloom",
+      "grind": 0.26392514
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "GraspingRoot",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.80777563
+    },
+    {
+      "kind": "pour",
+      "seconds": 0.9642715000000001,
+      "strength": 1.0
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Levitation",
+    "tier": 3
+  },
+  "objective": "P1",
+  "mode": "no_salt",
+  "costs": {
+    "ingredient_count": 5,
+    "ingredient_value": 191.40000247955322,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 5.0,
+    "P2": 191.40000247955322,
+    "P1_exact": "5",
+    "P2_exact": "9570000123977661/50000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "当前最好可行解",
+  "gameVerified": false
+}

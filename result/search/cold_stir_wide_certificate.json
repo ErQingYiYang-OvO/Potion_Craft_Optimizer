@@ -1,0 +1,140 @@
+{
+  "scope": "adaptive fixed-state cold ordinary stir; no recipe exclusion",
+  "supported": true,
+  "parameterLeaves": [
+    {
+      "parameter": [
+        "3602879701896397/72057594037927936",
+        "1080863910568919/18014398509481984"
+      ],
+      "complete": true
+    }
+  ],
+  "parameterBoxesAttempted": 1,
+  "processedNodes": 10,
+  "loopEnclosureComplete": true,
+  "brewingRecipeExcluded": false,
+  "globalOptimalityProved": false,
+  "parameters": {
+    "base": "Water",
+    "ingredient": "Firebell",
+    "grind": 1.0,
+    "fractions": [
+      0.05,
+      0.06
+    ],
+    "nodes": 100,
+    "subdivisions": 32
+  },
+  "terminal": [
+    {
+      "position": [
+        [
+          "-4957783092638049/18014398509481984",
+          "-4656720944161697/18014398509481984"
+        ],
+        [
+          "3658825328463865/18014398509481984",
+          "7790740866988731/36028797018963968"
+        ]
+      ],
+      "remainingBudget": [
+        "0",
+        "3206239566419281/72057594037927936"
+      ],
+      "elapsed": [
+        "5922166219894793/144115188075855872",
+        "6305039572269619/144115188075855872"
+      ],
+      "pendingCount": 125
+    },
+    {
+      "position": [
+        [
+          "-4957783092638049/18014398509481984",
+          "-4656720944161697/18014398509481984"
+        ],
+        [
+          "3658825328463865/18014398509481984",
+          "7790740866988731/36028797018963968"
+        ]
+      ],
+      "remainingBudget": [
+        "0",
+        "0"
+      ],
+      "elapsed": [
+        "5922166219894793/144115188075855872",
+        "6305039572269619/144115188075855872"
+      ],
+      "pendingCount": 126
+    },
+    {
+      "position": [
+        [
+          "-2927993414309321/9007199254740992",
+          "-4656720945155689/18014398509481984"
+        ],
+        [
+          "7317650658489689/36028797018963968",
+          "2300544982817777/9007199254740992"
+        ]
+      ],
+      "remainingBudget": [
+        "0",
+        "0"
+      ],
+      "elapsed": [
+        "740270777712029/18014398509481984",
+        "888324932984305/18014398509481984"
+      ],
+      "pendingCount": 125
+    }
+  ],
+  "unresolved": [],
+  "inputSha256": {
+    "data/bases.json": "f99f376ba17a8d9931be04ab7a9de963c87293143f3fbaac45c3ecd4bda85928",
+    "data/bases_full.json": "b787c3ec0a774a447f655570ba4652a85f0dfcfc62702ab26ab5c2a94afdb88b",
+    "data/bellows_controls.json": "84866e82398127b73bfb941b4baa67132b7828ad5d2dcdc9e2a230485dc5e068",
+    "data/brewing_settings.json": "3edaba92f01eb772694ca9305aaf2029f07c74b5879aa2270daa94611ad43c59",
+    "data/geometry.json": "00e4b9530d266e9cce7c8b887b8d11ef20541b3713377ef7f50ecc4852fa98dc",
+    "data/ingredients.json": "84216d1e642e338abc395132ac3c354a81e1405a6e9ed87778fa6fbe610805ae",
+    "data/ingredients_full.json": "44a05bb15b32c9f1a0c85a16e7ce6c3d94eb11c78f1b734721aef73135b70608",
+    "data/level6_boundaries.json": "4e7756349fbadffd7b99acfd1301e811ab9891b7c4a843ceac7a8533c75367a7",
+    "data/level6_effect_colliders.json": "31dc2736b0da4598d739e4bf836dd854ac91f2c53d7492ec1d198f5d3c15224f",
+    "data/level6_markers.json": "9c6ccf656a9b37cdcc073794dd78ce00a7e204e83000239836c8c508d4d5234c",
+    "data/level6_transform_audit.json": "a6acf2590c4a1c295a05ead49110105f6e1295a1b825e333488c79ae084877e4",
+    "data/level6_vortices.json": "cd57e3db2f2eafd635feb97d7bc0aee723bf4c15b63da0621caec03477aaddf5",
+    "data/level6_zone_metadata.json": "d5c619cdd1ff7341c2ec28c47411f85d1a5e5bc52fc920d7474bb84c63304b30",
+    "data/level6_zones.json": "7bef3ef17480d0ebc02bc38722d3b866596d1ba541a7d4d6194635cd4b7e5727",
+    "data/level7_boundaries.json": "1465f1f13a61a1faad0db22381fc8ab4ea7becbd9fc6968fbf2282ea132955bf",
+    "data/level7_effect_colliders.json": "7586dbeaffacd554a6377cb3fba19e3af78665bba83a62354748915eb411b8a7",
+    "data/level7_markers.json": "e634999f0ca6656d88f7da1e9ddf5daeca11989495e83c549268a0f2d8e1babf",
+    "data/level7_transform_audit.json": "dcd7b2626fd30d4b81cb08cf8a07f82489f2498b435514a8ff174eb95e579759",
+    "data/level7_vortices.json": "15e0a82eff0c7175894f61a4c49033272cfc88e8527fc06798f8302381194437",
+    "data/level7_zone_metadata.json": "d19b567af95c448e8ebaf9165a04fa84f7b8f738933a8471023dd91f8613f7b7",
+    "data/level7_zones.json": "102a1d240f6915fb43fcf34e93c6aa926acad06143b8db1479d29e3b89d89593",
+    "data/level8_boundaries.json": "c4a4e0421770e0cfb0688c16dac6490a1bf6797f9e1854af7fdfdc3f970c2b66",
+    "data/level8_effect_colliders.json": "1c0e8c72bd7d009a89855c466b7638ebf0afc735d064e9a9a890f472d5339f52",
+    "data/level8_markers.json": "5d3d8621aeccb1d4c49786d8ebd67e908d06b4a0a62d39b1244c848efa4c8ec4",
+    "data/level8_transform_audit.json": "705aa2419fa2b6859bf54ff9624c5120714e4d08ab04c020a76699e8e0d37965",
+    "data/level8_vortices.json": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "data/level8_zone_metadata.json": "5116e92af85c264a328842c0d0a5835e9d33de5d47169dc945c0d17b3d431625",
+    "data/level8_zones.json": "b204961ac2105625c842ef97234bedfa028007e813b4aaf4a240ab537efb829c",
+    "data/potion_effects_full.json": "9315eb6095b071bbaf153a542f4c226ba3e79ed521d5dbd3ec7f5dfa3fcf236f",
+    "data/pouring_controls.json": "0dab5b09c7eaf0991e093ba660f76674b520d528066c88e763279ead76d8de31",
+    "data/salts_full.json": "a32938310d5269c11a008dfc6bf252485d3d957987342a19c8e67fa6a1f389ae",
+    "data/ui_manifest.json": "6b2cb543483e8602644a365c25093fb16cfd91f804003f1eb8992339cfe56d55",
+    "data/unity_simulation_settings.json": "664bd29359150578223e1bbdc63733bb1a9579e48ee996af8b6fa4e500cd3d3e",
+    "engine/__init__.py": "c318251353ffeb2c2707d8cadeb7834ca2182d16612233e85992f3ea86e87d74",
+    "engine/brew.py": "8d5a51ed9da59fb0eceb194cd13acfeb6999a8482bdd337c4fcc9840527f1626",
+    "engine/rotation.py": "54fce99393e30c4b7721b01c08926648eeb74dba16e07c21c34bc927dad66e49",
+    "optimizer/cold_stir.py": "f2d73919d8dbbd8b6435c2da35d65cacd3fb9d748f1db56115a7a1551b43ead5",
+    "optimizer/intervals.py": "f8745dedaaf1436fb554d15e4ba2fe42d3de7f93d788db36cf5578c46483ee6e",
+    "optimizer/ordinary_stir.py": "2f1966735c3942cae67205f7fc153184cfab1dafb9e2864872f1aede8ecf9c2f"
+  },
+  "runtime": {
+    "implementation": "cpython",
+    "version": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]"
+  }
+}

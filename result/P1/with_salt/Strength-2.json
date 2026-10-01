@@ -1,0 +1,45 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Wine",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "Mudshroom",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.91510816
+    },
+    {
+      "kind": "pour",
+      "seconds": 0.7050686,
+      "strength": 1.0
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Strength",
+    "tier": 2
+  },
+  "objective": "P1",
+  "mode": "with_salt",
+  "costs": {
+    "ingredient_count": 1,
+    "ingredient_value": 21.600000381469727,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 1.0,
+    "P2": 21.600000381469727,
+    "P1_exact": "1",
+    "P2_exact": "21600000381469727/1000000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "药材等价消耗已达资源下界（当前引擎模型）",
+  "gameVerified": false
+}

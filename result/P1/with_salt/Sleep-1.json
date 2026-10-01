@@ -1,0 +1,445 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Wine",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "Watercap",
+      "grind": 0.75
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.010063930353896891
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.010166242712516467
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.010270656701359421
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.010377237747775209
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.010486054023412171
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.010597176589626636
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.010710679552236589
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.010826640226328144
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.010945139311884964
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.011066261081079066
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01119009357813643
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01131672883277356
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.011446263088292349
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01157879704552133
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.011714436123902723
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.011853290741147948
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.011995476613020722
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.012141115074958379
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.012290333427410174
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.012443265306958419
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01260005108549648
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.012760838299969861
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.012925782115445707
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01309504582456582
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.013268801386762539
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01344723001098035
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.013630522786054332
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.013818881363355327
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.0140125186968286
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.014211659846135543
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.014416542849266557
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01462741967173838
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.014844557240333883
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.015068238570301734
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.015298763996024575
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.015536452516408552
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01578164326766757
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01603469713780144
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.016295998538931256
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01656595735579733
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01684501109119195
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.017133627231946436
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.017432305862385825
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.017741582555984518
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01806203158039693
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.018394269456213388
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.018738958915840268
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01909681331599211
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.019468601565614075
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01985515364087227
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.02025736677045924
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.020676212388231557
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.021112743966582984
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.02156810586352372
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.022043543339885542
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.022540413931278643
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.023060200393486056
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.02360452548127746
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.02417516887090492
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.024774086598034838
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.025403433458421176
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.026065588911899168
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.026763187146019538
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.027499152100029484
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.02827673843103733
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.0290995796327662
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.029971744807525746
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.030897805962960035
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.031882918182495716
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.03293291563726983
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.034054427215844785
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.03525501661308861
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.03654335313495958
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.037929421374450815
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.039424780486103456
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.041042887308767505
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.042799502465323075
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.04471320541052326
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.04680605412298015
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.04910443915998079
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.051640202333684285
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.054452120873067736
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.05758790440452988
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.061106924108547796
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.06508400762304965
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.06961481903585658
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.0748236541812885
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.0808750186053181
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.08799131809321321
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.096480789973671
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.10678333000895418
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.11954919069079252
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.13578179431124562
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.1571151746369793
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.1864017122022712
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.22910779803486192
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.29719823011677415
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.4228763256617228
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.7327308590252998
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.9999999999997076
+    },
+    {
+      "kind": "add",
+      "name": "HealersHeather",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.42000000000000004
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Sleep",
+    "tier": 1
+  },
+  "objective": "P1",
+  "mode": "with_salt",
+  "costs": {
+    "ingredient_count": 2,
+    "ingredient_value": 45.69999885559082,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 2.0,
+    "P2": 45.69999885559082,
+    "P1_exact": "2",
+    "P2_exact": "2284999942779541/50000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "当前最好可行解",
+  "gameVerified": false
+}

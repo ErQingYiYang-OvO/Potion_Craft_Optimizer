@@ -1,0 +1,98 @@
+{
+  "records": {},
+  "runs": [
+    {
+      "base": "Water",
+      "effect": "Fire",
+      "solver_sha256": "a1a352d49ac44ec8337b49985911a62c2c8865428e010563b1d0964a99dccfa0",
+      "refinements": 0,
+      "snapshot": {
+        "id": "8f5d50580bf0f91cc0376973bd6ec654a8967fbb7a0e79577d55d8bb32a45a5c",
+        "archive": "result/search/snapshots/8f5d50580bf0f91cc0376973bd6ec654a8967fbb7a0e79577d55d8bb32a45a5c.zip",
+        "file_count": 69,
+        "archive_sha256": "ebf54299e4ecc56ced6477b5752abd09886c1b3c6ea5b1eb7c379cbe9a116899",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": [
+          "Fire"
+        ],
+        "bases": [
+          "Water"
+        ],
+        "max_units": 1,
+        "step": 1,
+        "iterations": 20,
+        "waits": [
+          0.06
+        ],
+        "output": "result/search/snapshot_pilot_candidates.json",
+        "pre_stirs": [
+          0.0
+        ]
+      },
+      "successful_variants": 0,
+      "resource_pruned": 0,
+      "units_grid": [
+        1
+      ],
+      "pre_stirs": [
+        0.0
+      ],
+      "waits": [
+        0.06
+      ],
+      "iterations": 20,
+      "scope": "one ordinary herb; optional partial stirring before paid path rotation; optional opposite salt; numerical macro search, no proof"
+    },
+    {
+      "base": "Water",
+      "effect": "Fire",
+      "solver_sha256": "3dcda3472b6f80ad01c46f59a6e20e53050112fdc4b91fc809c6a88f1c4952b0",
+      "refinements": 0,
+      "snapshot": {
+        "id": "aefcea16f018589b55d4756ef211487ef224c391625a6981abb2e249d42485e8",
+        "archive": "result/search/snapshots/aefcea16f018589b55d4756ef211487ef224c391625a6981abb2e249d42485e8.zip",
+        "file_count": 92,
+        "archive_sha256": "8c008155ae383a1ebd1fe41acd4b3e5bf582c50a64ea141f62772abfab59b6c4",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": [
+          "Fire"
+        ],
+        "bases": [
+          "Water"
+        ],
+        "ingredients": null,
+        "max_units": 1,
+        "step": 1,
+        "iterations": 20,
+        "waits": [
+          0.06
+        ],
+        "output": "result/search/snapshot_pilot_candidates.json",
+        "pre_stirs": [
+          0.0
+        ]
+      },
+      "successful_variants": 0,
+      "resource_pruned": 0,
+      "units_grid": [
+        1
+      ],
+      "pre_stirs": [
+        0.0
+      ],
+      "waits": [
+        0.06
+      ],
+      "iterations": 20,
+      "scope": "one ordinary herb; optional partial stirring before paid path rotation; optional opposite salt; numerical macro search, no proof"
+    }
+  ]
+}

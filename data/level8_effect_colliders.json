@@ -1,0 +1,233 @@
+{
+  "Mana": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Necromancy": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Rage": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Dexterity": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Fear": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Libido": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Curse": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Sleep": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Charm": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Strength": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Swiftness": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Hallucinations": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Frost": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "MagicalVision": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Slowness": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Healing": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Inspiration": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Fragrance": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Levitation": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Luck": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Acid": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ]
+}

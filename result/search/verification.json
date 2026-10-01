@@ -1,0 +1,7 @@
+{
+  "source": "result/search/rotated_fire_fine_candidates.json",
+  "records": 2,
+  "failures": [],
+  "dispatcher": "playground.serve.replay",
+  "actualGameVerified": false
+}

@@ -1,0 +1,60 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Wine",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "Watercap",
+      "grind": 0.85055055
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "ArcaneCrystal",
+      "grind": 0.50324613
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "salt",
+      "salt": "sun",
+      "amount": 83
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Dexterity",
+    "tier": 3
+  },
+  "objective": "P1",
+  "mode": "with_salt",
+  "costs": {
+    "ingredient_count": 2,
+    "ingredient_value": 144.2000026702881,
+    "salt_equivalent": 0.83,
+    "salt_detail": {
+      "sun": {
+        "amount": 83.0,
+        "equivalent": 0.83,
+        "value": 21.911999683380127
+      }
+    },
+    "P1": 2.83,
+    "P2": 166.1120023536682,
+    "P1_exact": "283/100",
+    "P2_exact": "16611200235366820959/100000000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "当前最好可行解",
+  "gameVerified": false
+}

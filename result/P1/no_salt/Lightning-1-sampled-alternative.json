@@ -1,0 +1,546 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Oil",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "Featherbloom",
+      "grind": 0.75
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.022132011300513694
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.02263292341735015
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.02315703481284212
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.023705995372966988
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.024281615231288068
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.024885884708469315
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.025520997305047893
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.026189376307204956
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.02689370568570305
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.027636966118540836
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.028422477156726283
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.029253946791141586
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.030135529981750574
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.031071898098487438
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.03206832172326215
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.03313076991173092
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.034266029862907395
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.03548185206537065
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.03678712748054529
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.03819210532799672
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.03970866275850338
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.04135064143405611
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.043134271216655355
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.04507870845317097
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.04720672672419968
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.04954561293437572
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.05212834367290351
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.05499514973883215
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.058195626957505374
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.06179162958174072
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.06586130707210981
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.07050484855271262
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.07585284166671742
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.0820787479382824
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.08941807127128562
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.09819882039183929
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.10889187396550917
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.12219827289656479
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.13920942409146764
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.16172275578707088
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.19292275545295856
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.23903877448711014
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.3141274042261448
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.45799672732473257
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.8450073097605335
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.9999999999999515
+    },
+    {
+      "kind": "add",
+      "name": "Spellbloom",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.012965217162052255
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.013135522058072087
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.013310360593245559
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01348991624281004
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.013674382517645224
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.013863963659942002
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.014058875397553332
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01425934576288435
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.014465615982857016
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.014677941447251819
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.014896592763599486
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01512185690778417
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.015354038480645099
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.015593461082146823
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.015840468816154488
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.016095427940529105
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01635872867918357
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.016630787214954246
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01691204788469371
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01720298560093644
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.017504108527899114
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.017815961043533956
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01813912702395648
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.018474233491936956
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01882195467742231
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.01918301654541638
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.019558201855203343
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.019948355825110273
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.02035439248908653
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.020777301845718514
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.021218157917377994
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.021678127857613968
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.02215848226938027
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.022660606926167146
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.023186016123730783
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.023736367933352296
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.024313481680255676
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.024919358035331452
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.025556202187669304
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.0262264506634904
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.026932802478933694
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.027678255466370934
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.02846614880514343
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.029300213029256644
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.030184629091857148
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.031124098459681067
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.03212392671775609
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.033190123823206005
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.03432952500904816
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.0355499374767255
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.03686031953144033
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.038271000851619025
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.039793955350736335
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.0414431418886474
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.04323493336671017
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.04518866216431511
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.0473273204597113
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.049678469296032556
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.05227543277824332
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.05515888749353427
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.058379008664440186
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.06199841465050349
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.06609627917356141
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.0707741897795106
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.07616468354738991
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.08244400510672288
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.08985174263540409
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.0987220948986671
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.10953568742769468
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.12300963203261496
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.14026337862491747
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.1631469163202296
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.19495287703648986
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.2421633112839859
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.31954551012075955
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.4696059984518126
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.8853908548759222
+    },
+    {
+      "kind": "stir",
+      "fraction": 1
+    },
+    {
+      "kind": "add",
+      "name": "Fluffbloom",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.382
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Lightning",
+    "tier": 1
+  },
+  "objective": "P1",
+  "mode": "no_salt",
+  "costs": {
+    "ingredient_count": 3,
+    "ingredient_value": 78.69999885559082,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 3.0,
+    "P2": 78.69999885559082,
+    "P1_exact": "3",
+    "P2_exact": "3934999942779541/50000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "容错采样通过的备选；非最低成本声明",
+  "gameVerified": false
+}

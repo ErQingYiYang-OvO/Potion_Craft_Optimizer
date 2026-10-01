@@ -1,0 +1,69 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Wine",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "DragonPepper",
+      "grind": 0.5
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Flameweed",
+      "grind": 0.50374446
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "BloodRuby",
+      "grind": 0.74211906
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "salt",
+      "salt": "moon",
+      "amount": 56
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Libido",
+    "tier": 3
+  },
+  "objective": "P1",
+  "mode": "with_salt",
+  "costs": {
+    "ingredient_count": 3,
+    "ingredient_value": 146.80000114440918,
+    "salt_equivalent": 0.56,
+    "salt_detail": {
+      "moon": {
+        "amount": 56.0,
+        "equivalent": 0.56,
+        "value": 14.783999786376953
+      }
+    },
+    "P1": 3.56,
+    "P2": 161.58400093078615,
+    "P1_exact": "89/25",
+    "P2_exact": "2019800011634826661/12500000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "当前最好可行解",
+  "gameVerified": false
+}

@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Potion Craft 2.0.2 酿药实验台</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <div>
+      <h1>Potion Craft 酿药实验台</h1>
+      <p>数据来自本机 2.0.2 游戏资源 · 用于路线观察与游戏画面对照</p>
+    </div>
+    <div class="headerTools"><a href="/result/index.html" target="_blank" rel="noopener">查看 P1 / P2 配方结果 ↗</a><span id="status">正在读取数据…</span></div>
+  </header>
+  <main>
+    <aside>
+      <details class="panel" id="panel-map" open>
+        <summary>地图</summary><div class="panelBody">
+        <label>基液 <select id="base"></select></label>
+        <label class="check"><input id="showZones" type="checkbox" checked>显示碰撞区</label>
+        <label class="check"><input id="showVortices" type="checkbox" checked>显示漩涡</label>
+        <div class="row"><button id="focusPath">聚焦当前路线</button><button id="fitMap">整张地图</button></div>
+        <button id="focusHistory">聚焦全部行进轨迹</button>
+      </div></details>
+      <details class="panel" id="panel-ingredient" open>
+        <summary>加入药材</summary><div class="panelBody">
+        <select id="ingredient" hidden aria-hidden="true" tabindex="-1"></select>
+        <div class="ingredientPicker">
+          <button id="ingredientTrigger" class="ingredientTrigger" aria-haspopup="dialog" aria-expanded="false" aria-controls="ingredientPopover">
+            <img id="selectedIngredientIcon" alt=""><span><strong id="selectedIngredientName">读取药材…</strong><small id="selectedIngredientPrice"></small></span><span class="pickerChevron">⌄</span>
+          </button>
+          <div id="ingredientPopover" class="ingredientPopover" role="dialog" aria-label="选择药材" hidden>
+            <input id="ingredientSearch" type="search" placeholder="搜索药材名称…" aria-label="搜索药材" autocomplete="off">
+            <div id="ingredientOptions" role="listbox" aria-label="药材列表"></div>
+            <p id="ingredientCount" class="pickerCount" aria-live="polite"></p>
+          </div>
+        </div>
+        <label>研磨 <output id="grindValue">0%</output><input id="grind" type="range" min="0" max="100" value="0"></label>
+        <button id="add">加入当前药材</button>
+        <p id="ingredientHint" class="hint">虚线路径是预览。加入后用“搅拌”沿路径前进。</p>
+      </div></details>
+      <details class="panel" id="panel-stir" open>
+        <summary>搅拌</summary><div class="panelBody">
+        <label>消耗剩余路径的比例 <output id="stirValue">100%</output><input id="stir" type="range" min="0" max="100" value="100"></label>
+        <button id="stirButton">搅拌</button>
+        <p class="hint">可先行进一段，再加热、倒液或添加其他材料。新药材接在剩余路径尽头。</p>
+      </div></details>
+      <details class="panel" id="panel-heat">
+        <summary>鼓风与加热</summary><div class="panelBody">
+        <button id="heat">快速鼓风（60° / 0.5秒）</button>
+        <label>累计风箱下压角度（°）<input id="bellowsAngle" type="number" min="0" max="10000" step="5" value="60"></label>
+        <label>鼓风／等待时间（秒）<input id="heatTime" type="number" min="0.01" max="120" step="0.1" value="1"></label>
+        <div class="row"><button id="pump">按设定鼓风</button><button id="wait">等待冷却</button></div>
+        <p class="hint">达到满热时自动采集接触的药效，采集后炉温降到零。余热会继续推动漩涡；开始传送后结束本次输入，并等待传送完成。</p>
+      </div></details>
+      <details class="panel" id="panel-base">
+        <summary>加入基液</summary><div class="panelBody">
+        <label>倒液持续时间（秒）<input id="pourTime" type="number" min="0.01" max="120" step="0.05" value="0.25"></label>
+        <label>倒液强度 <input id="pourStrength" type="range" min="1" max="100" value="100"></label>
+        <div class="row"><button id="ladleSmall">加基液</button><button id="ladleFull">倒液至中心</button></div>
+      </div></details>
+      <details class="panel" id="panel-salt">
+        <summary>加入盐</summary><div class="panelBody">
+        <label>每次盐用量 <input id="saltAmount" type="number" min="1" max="10000" step="1" value="1"></label>
+        <label><input id="deferredRotation" type="checkbox"> 日/月之盐保留旋转动画</label>
+        <p class="hint">勾选后，可在旋转期间加料或搅拌；用等待推进动画。盐按同时溶解处理，动画帧与游戏组件执行顺序仍在校准。</p>
+        <div class="row"><button id="sunSalt">太阳盐 ↻</button><button id="moonSalt">月亮盐 ↺</button></div>
+        <div class="row"><button id="lifeSalt">生命盐</button><button id="voidSalt">虚无盐</button></div>
+        <button id="philosopherSalt">贤者之盐（同时溶解并等待）</button>
+        <p class="hint">贤者之盐朝最近未采集药效移动并调整朝向；此操作假设全部盐同时溶解，等待生效结束，不模拟逐粒投放或动作重叠。</p>
+      </div></details>
+      <details class="panel" id="panel-replay">
+        <summary>配方与操作文件</summary><div class="panelBody">
+        <div class="row"><button id="undo">撤销</button><button id="reset">清空</button></div>
+        <button id="export">导出操作与状态</button>
+        <label>导入并重放操作 <input id="replayFile" type="file" accept="application/json,.json"></label>
+        <p class="hint">导入新版导出文件后，引擎会从起点重新执行操作；结果取决于当前引擎版本。旧文件若只有状态截图，无法重放。</p>
+        <p class="hint">可在部分搅拌后执行其他操作。倒液、旋转与加热保留剩余路径；新药材接在路径尽头。紫色点线表示晶体传送；点击搅拌会完成一次传送，后续路径保留。晶体生命值与漩涡仍在校准。</p>
+      </div></details>
+      <details class="panel" id="panel-vortex">
+        <summary>漩涡机制观察</summary><div class="panelBody">
+        <label>选择漩涡 <select id="vortexDemo"></select></label>
+        <button id="loadVortexDemo">从该漩涡旁开始观察</button>
+        <p class="hint">此按钮重建一个观察场景：炉温 80%，预放一份药材，用于检查漩涡移动和路径衔接。该起点不能用于合法配方。</p>
+      </div></details>
+      <details class="panel" id="panel-reference">
+        <summary>游戏截图对照</summary><div class="panelBody">
+        <label>选择本地截图 <input id="referenceFile" type="file" accept="image/*"></label>
+        <label>透明度 <output id="referenceOpacityValue">45%</output><input id="referenceOpacity" type="range" min="0" max="100" value="45"></label>
+        <label>缩放 <output id="referenceScaleValue">100%</output><input id="referenceScale" type="range" min="20" max="300" value="100"></label>
+        <label>水平偏移 <output id="referenceXValue">0 px</output><input id="referenceX" type="range" min="-800" max="800" value="0"></label>
+        <label>垂直偏移 <output id="referenceYValue">0 px</output><input id="referenceY" type="range" min="-800" max="800" value="0"></label>
+        <button id="clearReference">移除截图</button>
+        <p class="hint">截图只在浏览器本地显示。调节缩放和偏移，让截图中的地图中心与蓝色药瓶重合。</p>
+      </div></details>
+      <details class="panel" id="panel-state" open>
+        <summary>当前状态</summary><div class="panelBody">
+        <div id="readout"></div>
+      </div></details>
+      <details class="panel" id="panel-history">
+        <summary>操作记录</summary><div class="panelBody"><ol id="history"></ol></div>
+      </details>
+    </aside>
+    <div class="mapWrap">
+      <canvas id="map"></canvas>
+      <img id="referenceImage" alt="游戏截图对照层" hidden>
+      <div class="mapHelp">滚轮缩放 · 拖动平移 · 放大查看药效名称</div>
+    </div>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

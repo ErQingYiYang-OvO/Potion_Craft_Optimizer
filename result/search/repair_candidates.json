@@ -1,0 +1,5694 @@
+{
+  "records": {
+    "P1:StoneSkin:1": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.30620973
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Mudshroom",
+          "grind": 0.99208597
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "HealersHeather",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.91835748
+        },
+        {
+          "kind": "pour",
+          "seconds": 1.7246712,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 1,
+        "Mudshroom": 1,
+        "HealersHeather": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 72.39999961853027,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 72.39999961853027,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 72.39999961853027,
+        "P1_exact": "3",
+        "P2_exact": "36199999809265137/500000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -0.7165889710035408,
+        -22.63745700555715
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "StoneSkin",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "StoneSkin",
+        "distance": 0.3625590408934596,
+        "angle": 0.0,
+        "score": 0.8894787806230643,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "StoneSkin",
+      "tier": 1
+    },
+    "P2:StoneSkin:1": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.30620973
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Mudshroom",
+          "grind": 0.99208597
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "HealersHeather",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.91835748
+        },
+        {
+          "kind": "pour",
+          "seconds": 1.7246712,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 1,
+        "Mudshroom": 1,
+        "HealersHeather": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 72.39999961853027,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 72.39999961853027,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 72.39999961853027,
+        "P1_exact": "3",
+        "P2_exact": "36199999809265137/500000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -0.7165889710035408,
+        -22.63745700555715
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "StoneSkin",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "StoneSkin",
+        "distance": 0.3625590408934596,
+        "angle": 0.0,
+        "score": 0.8894787806230643,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "StoneSkin",
+      "tier": 1
+    },
+    "P1:StoneSkin:2": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.30620973
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Mudshroom",
+          "grind": 0.99208597
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "HealersHeather",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.91835748
+        },
+        {
+          "kind": "pour",
+          "seconds": 1.7246712,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 1,
+        "Mudshroom": 1,
+        "HealersHeather": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 72.39999961853027,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 72.39999961853027,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 72.39999961853027,
+        "P1_exact": "3",
+        "P2_exact": "36199999809265137/500000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -0.7260807202105376,
+        -22.937306812455528
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "StoneSkin",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "StoneSkin",
+        "distance": 0.06298738425132748,
+        "angle": 0.0,
+        "score": 0.9973245812996387,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "StoneSkin",
+      "tier": 2
+    },
+    "P2:StoneSkin:2": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.30620973
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Mudshroom",
+          "grind": 0.99208597
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "HealersHeather",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.91835748
+        },
+        {
+          "kind": "pour",
+          "seconds": 1.7246712,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 1,
+        "Mudshroom": 1,
+        "HealersHeather": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 72.39999961853027,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 72.39999961853027,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 72.39999961853027,
+        "P1_exact": "3",
+        "P2_exact": "36199999809265137/500000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -0.7260807202105376,
+        -22.937306812455528
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "StoneSkin",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "StoneSkin",
+        "distance": 0.06298738425132748,
+        "angle": 0.0,
+        "score": 0.9973245812996387,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "StoneSkin",
+      "tier": 2
+    },
+    "P1:StoneSkin:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.30620973
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Mudshroom",
+          "grind": 0.99208597
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "HealersHeather",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.91835748
+        },
+        {
+          "kind": "pour",
+          "seconds": 1.7246712,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 1,
+        "Mudshroom": 1,
+        "HealersHeather": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 72.39999961853027,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 72.39999961853027,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 72.39999961853027,
+        "P1_exact": "3",
+        "P2_exact": "36199999809265137/500000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -0.7276626784117037,
+        -22.987281780271925
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "StoneSkin",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "StoneSkin",
+        "distance": 0.01484820915234012,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "StoneSkin",
+      "tier": 3
+    },
+    "P2:StoneSkin:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.30620973
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Mudshroom",
+          "grind": 0.99208597
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "HealersHeather",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.91835748
+        },
+        {
+          "kind": "pour",
+          "seconds": 1.7246712,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 1,
+        "Mudshroom": 1,
+        "HealersHeather": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 72.39999961853027,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 72.39999961853027,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 72.39999961853027,
+        "P1_exact": "3",
+        "P2_exact": "36199999809265137/500000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -0.7276626784117037,
+        -22.987281780271925
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "StoneSkin",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "StoneSkin",
+        "distance": 0.01484820915234012,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "StoneSkin",
+      "tier": 3
+    },
+    "P1:Acid:1": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.25
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "HairyBanana",
+          "grind": 0.53082925
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 0.9999173
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Thornstick",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.76030943
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 1,
+        "HairyBanana": 1,
+        "MagmaMorel": 1,
+        "Thornstick": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 91.9000015258789,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 91.9000015258789,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 91.9000015258789,
+        "P1_exact": "4",
+        "P2_exact": "91900001525878907/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -30.797978827222533,
+        -17.892769985055974
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Acid",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Acid",
+        "distance": 0.7881597657388213,
+        "angle": 0.0,
+        "score": 0.7362625135904669,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Acid",
+      "tier": 1
+    },
+    "P2:Acid:1": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.25
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "HairyBanana",
+          "grind": 0.53082925
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 0.9999173
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Thornstick",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.76030943
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 1,
+        "HairyBanana": 1,
+        "MagmaMorel": 1,
+        "Thornstick": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 91.9000015258789,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 91.9000015258789,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 91.9000015258789,
+        "P1_exact": "4",
+        "P2_exact": "91900001525878907/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -30.797978827222533,
+        -17.892769985055974
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Acid",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Acid",
+        "distance": 0.7881597657388213,
+        "angle": 0.0,
+        "score": 0.7362625135904669,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Acid",
+      "tier": 1
+    },
+    "P1:Acid:2": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.25
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "SulphurShelf",
+          "grind": 0.91498722
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.24036087
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.99029693
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 2,
+        "SulphurShelf": 1,
+        "MagmaMorel": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 101.30000019073486,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 101.30000019073486,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 101.30000019073486,
+        "P1_exact": "4",
+        "P2_exact": "6331250011920929/62500000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -31.413853199465223,
+        -18.242161314813963
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Acid",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Acid",
+        "distance": 0.08107600295198876,
+        "angle": 0.0,
+        "score": 0.990812678308641,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Acid",
+      "tier": 2
+    },
+    "P2:Acid:2": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.25
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "SulphurShelf",
+          "grind": 0.91498722
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.24036087
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.99029693
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 2,
+        "SulphurShelf": 1,
+        "MagmaMorel": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 101.30000019073486,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 101.30000019073486,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 101.30000019073486,
+        "P1_exact": "4",
+        "P2_exact": "6331250011920929/62500000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -31.413853199465223,
+        -18.242161314813963
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Acid",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Acid",
+        "distance": 0.08107600295198876,
+        "angle": 0.0,
+        "score": 0.990812678308641,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Acid",
+      "tier": 2
+    },
+    "P1:Acid:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.25
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "SulphurShelf",
+          "grind": 0.91498722
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.24036087
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.99029693
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 2,
+        "SulphurShelf": 1,
+        "MagmaMorel": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 101.30000019073486,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 101.30000019073486,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 101.30000019073486,
+        "P1_exact": "4",
+        "P2_exact": "6331250011920929/62500000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -31.500329871269173,
+        -18.292378694611322
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Acid",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Acid",
+        "distance": 0.024647443144054995,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Acid",
+      "tier": 3
+    },
+    "P2:Acid:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.25
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "SulphurShelf",
+          "grind": 0.91498722
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.24036087
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.99029693
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 2,
+        "SulphurShelf": 1,
+        "MagmaMorel": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 101.30000019073486,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 101.30000019073486,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 101.30000019073486,
+        "P1_exact": "4",
+        "P2_exact": "6331250011920929/62500000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -31.500329871269173,
+        -18.292378694611322
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Acid",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Acid",
+        "distance": 0.024647443144054995,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Acid",
+      "tier": 3
+    },
+    "P1:AntiMagic:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "ArcaneCrystal",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "ShadowChanterelle",
+          "grind": 0.87496223
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Mageberry",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.46941142
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Spellbloom": 2,
+        "ArcaneCrystal": 1,
+        "ShadowChanterelle": 1,
+        "Mageberry": 1
+      },
+      "ingredient_count": 5,
+      "ingredient_value": 242.70000076293945,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 5,
+        "ingredient_value": 242.70000076293945,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 5.0,
+        "P2": 242.70000076293945,
+        "P1_exact": "5",
+        "P2_exact": "242700000762939451/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.3053741706952017,
+      "position": [
+        31.75532199390038,
+        29.982259711492546
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "AntiMagic",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "AntiMagic",
+        "distance": 1.0155580845552088,
+        "angle": 0.0,
+        "score": 0.6543991155636083,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "AntiMagic",
+      "tier": 1
+    },
+    "P2:AntiMagic:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "ArcaneCrystal",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "ShadowChanterelle",
+          "grind": 0.87496223
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Mageberry",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.46941142
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Spellbloom": 2,
+        "ArcaneCrystal": 1,
+        "ShadowChanterelle": 1,
+        "Mageberry": 1
+      },
+      "ingredient_count": 5,
+      "ingredient_value": 242.70000076293945,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 5,
+        "ingredient_value": 242.70000076293945,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 5.0,
+        "P2": 242.70000076293945,
+        "P1_exact": "5",
+        "P2_exact": "242700000762939451/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.3053741706952017,
+      "position": [
+        31.75532199390038,
+        29.982259711492546
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "AntiMagic",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "AntiMagic",
+        "distance": 1.0155580845552088,
+        "angle": 0.0,
+        "score": 0.6543991155636083,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "AntiMagic",
+      "tier": 1
+    },
+    "P1:AntiMagic:2": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "ArcaneCrystal",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "ArcaneCrystal",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Mageberry",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.42732372
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Spellbloom": 2,
+        "ArcaneCrystal": 2,
+        "Mageberry": 1
+      },
+      "ingredient_count": 5,
+      "ingredient_value": 339.7000045776367,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 5,
+        "ingredient_value": 339.7000045776367,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 5.0,
+        "P2": 339.7000045776367,
+        "P1_exact": "5",
+        "P2_exact": "169850002288818357/500000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.3053741706952017,
+      "position": [
+        32.69431895942893,
+        29.960662019872874
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "AntiMagic",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "AntiMagic",
+        "distance": 0.07845117071329229,
+        "angle": 0.0,
+        "score": 0.9917576179521201,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "AntiMagic",
+      "tier": 2
+    },
+    "P2:AntiMagic:2": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "ArcaneCrystal",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "ArcaneCrystal",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Mageberry",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.42732372
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Spellbloom": 2,
+        "ArcaneCrystal": 2,
+        "Mageberry": 1
+      },
+      "ingredient_count": 5,
+      "ingredient_value": 339.7000045776367,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 5,
+        "ingredient_value": 339.7000045776367,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 5.0,
+        "P2": 339.7000045776367,
+        "P1_exact": "5",
+        "P2_exact": "169850002288818357/500000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.3053741706952017,
+      "position": [
+        32.69431895942893,
+        29.960662019872874
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "AntiMagic",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "AntiMagic",
+        "distance": 0.07845117071329229,
+        "angle": 0.0,
+        "score": 0.9917576179521201,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "AntiMagic",
+      "tier": 2
+    },
+    "P1:AntiMagic:3": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Mageberry",
+          "grind": 0.5
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "DreamBeet",
+          "grind": 0.99967049
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 0.99753748
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Windbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.75294622
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.0602161,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Spellbloom": 2,
+        "Tangleweed": 1,
+        "Mageberry": 1,
+        "DreamBeet": 1,
+        "Windbloom": 1
+      },
+      "ingredient_count": 6,
+      "ingredient_value": 145.09999752044678,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 6,
+        "ingredient_value": 145.09999752044678,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 6.0,
+        "P2": 145.09999752044678,
+        "P1_exact": "6",
+        "P2_exact": "145099997520446777/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.6920408381565968,
+      "position": [
+        32.78305172808483,
+        29.941505278866757
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "AntiMagic",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "AntiMagic",
+        "distance": 0.013137728644500631,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "AntiMagic",
+      "tier": 3
+    },
+    "P2:AntiMagic:3": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Mageberry",
+          "grind": 0.5
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "DreamBeet",
+          "grind": 0.99967049
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 0.99753748
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Windbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.75294622
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.0602161,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Spellbloom": 2,
+        "Tangleweed": 1,
+        "Mageberry": 1,
+        "DreamBeet": 1,
+        "Windbloom": 1
+      },
+      "ingredient_count": 6,
+      "ingredient_value": 145.09999752044678,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 6,
+        "ingredient_value": 145.09999752044678,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 6.0,
+        "P2": 145.09999752044678,
+        "P1_exact": "6",
+        "P2_exact": "145099997520446777/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.6920408381565968,
+      "position": [
+        32.78305172808483,
+        29.941505278866757
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "AntiMagic",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "AntiMagic",
+        "distance": 0.013137728644500631,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "AntiMagic",
+      "tier": 3
+    },
+    "P1:Curse:1": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "DragonPepper",
+          "grind": 0.17453882
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 0.98186384
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "PlagueStibnite",
+          "grind": 0.98134934
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.16738360000000002,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "DragonPepper": 1,
+        "MagmaMorel": 1,
+        "PlagueStibnite": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 138.99999809265137,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 138.99999809265137,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 138.99999809265137,
+        "P1_exact": "3",
+        "P2_exact": "13899999809265137/100000000000000"
+      },
+      "health": 0.850682702977805,
+      "minimum_action_endpoint_health": 0.02838296980862013,
+      "position": [
+        -22.007424423035665,
+        -8.373088206370399
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Curse",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Curse",
+        "distance": 0.6515289364480247,
+        "angle": 0.0,
+        "score": 0.7854496140896733,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Curse",
+      "tier": 1
+    },
+    "P2:Curse:1": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "DragonPepper",
+          "grind": 0.17453882
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 0.98186384
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "PlagueStibnite",
+          "grind": 0.98134934
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.16738360000000002,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "DragonPepper": 1,
+        "MagmaMorel": 1,
+        "PlagueStibnite": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 138.99999809265137,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 138.99999809265137,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 138.99999809265137,
+        "P1_exact": "3",
+        "P2_exact": "13899999809265137/100000000000000"
+      },
+      "health": 0.850682702977805,
+      "minimum_action_endpoint_health": 0.02838296980862013,
+      "position": [
+        -22.007424423035665,
+        -8.373088206370399
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Curse",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Curse",
+        "distance": 0.6515289364480247,
+        "angle": 0.0,
+        "score": 0.7854496140896733,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Curse",
+      "tier": 1
+    },
+    "P1:Curse:2": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "DragonPepper",
+          "grind": 0.25
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "PlagueStibnite",
+          "grind": 0.77459334
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "HairyBanana",
+          "grind": 0.48548194
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Firebell",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.97122027
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "DragonPepper": 1,
+        "PlagueStibnite": 1,
+        "HairyBanana": 1,
+        "Firebell": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 136.1999979019165,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 136.1999979019165,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 136.1999979019165,
+        "P1_exact": "4",
+        "P2_exact": "136199997901916507/1000000000000000"
+      },
+      "health": 0.7269944897439342,
+      "minimum_action_endpoint_health": 0.6476309981427564,
+      "position": [
+        -21.836558712668264,
+        -9.004988351767711
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Curse",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Curse",
+        "distance": 0.09463981475454637,
+        "angle": 0.0,
+        "score": 0.9859297058656883,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Curse",
+      "tier": 2
+    },
+    "P2:Curse:2": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "DragonPepper",
+          "grind": 0.25
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "PlagueStibnite",
+          "grind": 0.77459334
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "HairyBanana",
+          "grind": 0.48548194
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Firebell",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.97122027
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "DragonPepper": 1,
+        "PlagueStibnite": 1,
+        "HairyBanana": 1,
+        "Firebell": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 136.1999979019165,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 136.1999979019165,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 136.1999979019165,
+        "P1_exact": "4",
+        "P2_exact": "136199997901916507/1000000000000000"
+      },
+      "health": 0.7269944897439342,
+      "minimum_action_endpoint_health": 0.6476309981427564,
+      "position": [
+        -21.836558712668264,
+        -9.004988351767711
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Curse",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Curse",
+        "distance": 0.09463981475454637,
+        "angle": 0.0,
+        "score": 0.9859297058656883,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Curse",
+      "tier": 2
+    },
+    "P1:Curse:3": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "DragonPepper",
+          "grind": 0.25
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "PlagueStibnite",
+          "grind": 0.77459334
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "HairyBanana",
+          "grind": 0.48548194
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Firebell",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.97122027
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "DragonPepper": 1,
+        "PlagueStibnite": 1,
+        "HairyBanana": 1,
+        "Firebell": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 136.1999979019165,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 136.1999979019165,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 136.1999979019165,
+        "P1_exact": "4",
+        "P2_exact": "136199997901916507/1000000000000000"
+      },
+      "health": 0.7194944894459114,
+      "minimum_action_endpoint_health": 0.6476309981427564,
+      "position": [
+        -21.929006440839544,
+        -9.04311206559478
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Curse",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Curse",
+        "distance": 0.023132967446001983,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Curse",
+      "tier": 3
+    },
+    "P2:Curse:3": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "DragonPepper",
+          "grind": 0.25
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "PlagueStibnite",
+          "grind": 0.77459334
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "HairyBanana",
+          "grind": 0.48548194
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Firebell",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.97122027
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "DragonPepper": 1,
+        "PlagueStibnite": 1,
+        "HairyBanana": 1,
+        "Firebell": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 136.1999979019165,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 136.1999979019165,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 136.1999979019165,
+        "P1_exact": "4",
+        "P2_exact": "136199997901916507/1000000000000000"
+      },
+      "health": 0.7194944894459114,
+      "minimum_action_endpoint_health": 0.6476309981427564,
+      "position": [
+        -21.929006440839544,
+        -9.04311206559478
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Curse",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Curse",
+        "distance": 0.023132967446001983,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Curse",
+      "tier": 3
+    },
+    "P1:Enlargement:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Boombloom",
+          "grind": 0.99998857
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "SulphurShelf",
+          "grind": 0.53030701
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "MagmaMorel": 3,
+        "Boombloom": 1,
+        "SulphurShelf": 1
+      },
+      "ingredient_count": 5,
+      "ingredient_value": 119.80000019073486,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 5,
+        "ingredient_value": 119.80000019073486,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 5.0,
+        "P2": 119.80000019073486,
+        "P1_exact": "5",
+        "P2_exact": "23960000038146973/200000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -42.27333487129921,
+        4.056587463397884
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Enlargement",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Enlargement",
+        "distance": 0.888837482907193,
+        "angle": 0.0,
+        "score": 0.7000185339696468,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Enlargement",
+      "tier": 1
+    },
+    "P2:Enlargement:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Boombloom",
+          "grind": 0.99998857
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "SulphurShelf",
+          "grind": 0.53030701
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "MagmaMorel": 3,
+        "Boombloom": 1,
+        "SulphurShelf": 1
+      },
+      "ingredient_count": 5,
+      "ingredient_value": 119.80000019073486,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 5,
+        "ingredient_value": 119.80000019073486,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 5.0,
+        "P2": 119.80000019073486,
+        "P1_exact": "5",
+        "P2_exact": "23960000038146973/200000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -42.27333487129921,
+        4.056587463397884
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Enlargement",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Enlargement",
+        "distance": 0.888837482907193,
+        "angle": 0.0,
+        "score": 0.7000185339696468,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Enlargement",
+      "tier": 1
+    },
+    "P1:Enlargement:2": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Boombloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Flameweed",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "MagmaMorel": 3,
+        "Boombloom": 1,
+        "Flameweed": 1
+      },
+      "ingredient_count": 5,
+      "ingredient_value": 125.70000076293945,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 5,
+        "ingredient_value": 125.70000076293945,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 5.0,
+        "P2": 125.70000076293945,
+        "P1_exact": "5",
+        "P2_exact": "25140000152587891/200000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -42.855841471978046,
+        3.532207157020842
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Enlargement",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Enlargement",
+        "distance": 0.3142207153808555,
+        "angle": 0.0,
+        "score": 0.9068805784990871,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Enlargement",
+      "tier": 2
+    },
+    "P2:Enlargement:2": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Boombloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Flameweed",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "MagmaMorel": 3,
+        "Boombloom": 1,
+        "Flameweed": 1
+      },
+      "ingredient_count": 5,
+      "ingredient_value": 125.70000076293945,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 5,
+        "ingredient_value": 125.70000076293945,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 5.0,
+        "P2": 125.70000076293945,
+        "P1_exact": "5",
+        "P2_exact": "25140000152587891/200000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -42.855841471978046,
+        3.532207157020842
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Enlargement",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Enlargement",
+        "distance": 0.3142207153808555,
+        "angle": 0.0,
+        "score": 0.9068805784990871,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Enlargement",
+      "tier": 2
+    },
+    "P1:Enlargement:3": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "DragonPepper",
+          "grind": 0.75
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Boombloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 0.95071684
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.99026111
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.481788,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "MagmaMorel": 3,
+        "DragonPepper": 1,
+        "Boombloom": 1
+      },
+      "ingredient_count": 5,
+      "ingredient_value": 136.30000114440918,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 5,
+        "ingredient_value": 136.30000114440918,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 5.0,
+        "P2": 136.30000114440918,
+        "P1_exact": "5",
+        "P2_exact": "136300001144409181/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -43.097834671452404,
+        3.723719977440015
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Enlargement",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Enlargement",
+        "distance": 0.006642361395404629,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Enlargement",
+      "tier": 3
+    },
+    "P2:Enlargement:3": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "DragonPepper",
+          "grind": 0.75
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Boombloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 0.95071684
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.99026111
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.481788,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "MagmaMorel": 3,
+        "DragonPepper": 1,
+        "Boombloom": 1
+      },
+      "ingredient_count": 5,
+      "ingredient_value": 136.30000114440918,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 5,
+        "ingredient_value": 136.30000114440918,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 5.0,
+        "P2": 136.30000114440918,
+        "P1_exact": "5",
+        "P2_exact": "136300001144409181/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -43.097834671452404,
+        3.723719977440015
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Enlargement",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Enlargement",
+        "distance": 0.006642361395404629,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Enlargement",
+      "tier": 3
+    },
+    "P1:Fragrance:1": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Watercap",
+          "grind": 0.86704267
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Coldleaf",
+          "grind": 0.72828687
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "LifeCrystal",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Watercap": 1,
+        "Coldleaf": 1,
+        "LifeCrystal": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 113.10000228881836,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 113.10000228881836,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 113.10000228881836,
+        "P1_exact": "3",
+        "P2_exact": "28275000572204589/250000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.5976469686332323,
+      "position": [
+        22.69028121602336,
+        -6.990815481564253
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Fragrance",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Fragrance",
+        "distance": 0.4387965545827337,
+        "angle": 0.0,
+        "score": 0.8620332746043392,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Fragrance",
+      "tier": 1
+    },
+    "P2:Fragrance:1": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Watercap",
+          "grind": 0.86704267
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Coldleaf",
+          "grind": 0.72828687
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "LifeCrystal",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Watercap": 1,
+        "Coldleaf": 1,
+        "LifeCrystal": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 113.10000228881836,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 113.10000228881836,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 113.10000228881836,
+        "P1_exact": "3",
+        "P2_exact": "28275000572204589/250000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.5976469686332323,
+      "position": [
+        22.69028121602336,
+        -6.990815481564253
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Fragrance",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Fragrance",
+        "distance": 0.4387965545827337,
+        "angle": 0.0,
+        "score": 0.8620332746043392,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Fragrance",
+      "tier": 1
+    },
+    "P1:Fragrance:2": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Watercap",
+          "grind": 0.75
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Coldleaf",
+          "grind": 0.5036439
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "LifeCrystal",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "HealersHeather",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.20509906
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.0096896,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Watercap": 1,
+        "Coldleaf": 1,
+        "LifeCrystal": 1,
+        "HealersHeather": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 132.4000015258789,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 132.4000015258789,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 132.4000015258789,
+        "P1_exact": "4",
+        "P2_exact": "132400001525878903/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.44102449543452615,
+      "position": [
+        22.76430272498802,
+        -7.396742599036141
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Fragrance",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Fragrance",
+        "distance": 0.05725300938323226,
+        "angle": 0.0,
+        "score": 0.999388956334184,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Fragrance",
+      "tier": 2
+    },
+    "P2:Fragrance:2": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Watercap",
+          "grind": 0.75
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Coldleaf",
+          "grind": 0.5036439
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "LifeCrystal",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "HealersHeather",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.20509906
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.0096896,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Watercap": 1,
+        "Coldleaf": 1,
+        "LifeCrystal": 1,
+        "HealersHeather": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 132.4000015258789,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 132.4000015258789,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 132.4000015258789,
+        "P1_exact": "4",
+        "P2_exact": "132400001525878903/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.44102449543452615,
+      "position": [
+        22.76430272498802,
+        -7.396742599036141
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Fragrance",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Fragrance",
+        "distance": 0.05725300938323226,
+        "angle": 0.0,
+        "score": 0.999388956334184,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Fragrance",
+      "tier": 2
+    },
+    "P1:Fragrance:3": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Watercap",
+          "grind": 0.75
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Coldleaf",
+          "grind": 0.5036439
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "LifeCrystal",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "HealersHeather",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.20509906
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.0096896,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Watercap": 1,
+        "Coldleaf": 1,
+        "LifeCrystal": 1,
+        "HealersHeather": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 132.4000015258789,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 132.4000015258789,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 132.4000015258789,
+        "P1_exact": "4",
+        "P2_exact": "132400001525878903/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.44102449543452615,
+      "position": [
+        22.81185544504053,
+        -7.4121937742538355
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Fragrance",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Fragrance",
+        "distance": 0.008434578799559963,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Fragrance",
+      "tier": 3
+    },
+    "P2:Fragrance:3": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Watercap",
+          "grind": 0.75
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Coldleaf",
+          "grind": 0.5036439
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "LifeCrystal",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "HealersHeather",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.20509906
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.0096896,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Watercap": 1,
+        "Coldleaf": 1,
+        "LifeCrystal": 1,
+        "HealersHeather": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 132.4000015258789,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 132.4000015258789,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 132.4000015258789,
+        "P1_exact": "4",
+        "P2_exact": "132400001525878903/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.44102449543452615,
+      "position": [
+        22.81185544504053,
+        -7.4121937742538355
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Fragrance",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Fragrance",
+        "distance": 0.008434578799559963,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Fragrance",
+      "tier": 3
+    },
+    "P1:Libido:1": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Boombloom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 0.77276143
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Lavaroot",
+          "grind": 0.78545403
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "TerrorBud",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.82655831
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Boombloom": 1,
+        "MagmaMorel": 1,
+        "Lavaroot": 1,
+        "TerrorBud": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 85.5999984741211,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 85.5999984741211,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 85.5999984741211,
+        "P1_exact": "4",
+        "P2_exact": "42799999237060547/500000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -30.154439381638944,
+        13.913380886932163
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Libido",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Libido",
+        "distance": 0.36472951703890444,
+        "angle": 0.0,
+        "score": 0.8886974091796552,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Libido",
+      "tier": 1
+    },
+    "P2:Libido:1": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Boombloom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 0.77276143
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Lavaroot",
+          "grind": 0.78545403
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "TerrorBud",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.82655831
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Boombloom": 1,
+        "MagmaMorel": 1,
+        "Lavaroot": 1,
+        "TerrorBud": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 85.5999984741211,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 85.5999984741211,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 85.5999984741211,
+        "P1_exact": "4",
+        "P2_exact": "42799999237060547/500000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -30.154439381638944,
+        13.913380886932163
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Libido",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Libido",
+        "distance": 0.36472951703890444,
+        "angle": 0.0,
+        "score": 0.8886974091796552,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Libido",
+      "tier": 1
+    },
+    "P1:Libido:2": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Boombloom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 0.77276143
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Lavaroot",
+          "grind": 0.78545403
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "TerrorBud",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.82655831
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Boombloom": 1,
+        "MagmaMorel": 1,
+        "Lavaroot": 1,
+        "TerrorBud": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 85.5999984741211,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 85.5999984741211,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 85.5999984741211,
+        "P1_exact": "4",
+        "P2_exact": "42799999237060547/500000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -30.245239962756997,
+        13.955276644099499
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Libido",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Libido",
+        "distance": 0.27937335058462515,
+        "angle": 0.0,
+        "score": 0.9194256303242255,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Libido",
+      "tier": 2
+    },
+    "P2:Libido:2": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Boombloom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "MagmaMorel",
+          "grind": 0.77276143
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Lavaroot",
+          "grind": 0.78545403
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "TerrorBud",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.82655831
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Boombloom": 1,
+        "MagmaMorel": 1,
+        "Lavaroot": 1,
+        "TerrorBud": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 85.5999984741211,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 85.5999984741211,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 85.5999984741211,
+        "P1_exact": "4",
+        "P2_exact": "42799999237060547/500000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -30.245239962756997,
+        13.955276644099499
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Libido",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Libido",
+        "distance": 0.27937335058462515,
+        "angle": 0.0,
+        "score": 0.9194256303242255,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Libido",
+      "tier": 2
+    },
+    "P1:Libido:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Boombloom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Boombloom",
+          "grind": 0.95551786
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Flameweed",
+          "grind": 0.90811327
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "FireCitrine",
+          "grind": 0.95135674
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Boombloom": 2,
+        "Flameweed": 1,
+        "FireCitrine": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 168.00000190734863,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 168.00000190734863,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 168.00000190734863,
+        "P1_exact": "4",
+        "P2_exact": "168000001907348631/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -30.37573790302568,
+        14.178024050594065
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Libido",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Libido",
+        "distance": 0.02238509072359909,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Libido",
+      "tier": 3
+    },
+    "P2:Libido:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Boombloom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Boombloom",
+          "grind": 0.95551786
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Flameweed",
+          "grind": 0.90811327
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "FireCitrine",
+          "grind": 0.95135674
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Boombloom": 2,
+        "Flameweed": 1,
+        "FireCitrine": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 168.00000190734863,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 168.00000190734863,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 168.00000190734863,
+        "P1_exact": "4",
+        "P2_exact": "168000001907348631/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -30.37573790302568,
+        14.178024050594065
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Libido",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Libido",
+        "distance": 0.02238509072359909,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Libido",
+      "tier": 3
+    },
+    "P1:MagicalVision:1": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "LifeCrystal",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Spellbloom": 2,
+        "LifeCrystal": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 133.3000030517578,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 133.3000030517578,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 133.3000030517578,
+        "P1_exact": "3",
+        "P2_exact": "13330000305175781/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        20.71999835968018,
+        10.35999822616577
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "MagicalVision",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "MagicalVision",
+        "distance": 0.5557900004254148,
+        "angle": 0.0,
+        "score": 0.8199156324273695,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "MagicalVision",
+      "tier": 1
+    },
+    "P2:MagicalVision:1": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "LifeCrystal",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Spellbloom": 2,
+        "LifeCrystal": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 133.3000030517578,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 133.3000030517578,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 133.3000030517578,
+        "P1_exact": "3",
+        "P2_exact": "13330000305175781/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        20.71999835968018,
+        10.35999822616577
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "MagicalVision",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "MagicalVision",
+        "distance": 0.5557900004254148,
+        "angle": 0.0,
+        "score": 0.8199156324273695,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "MagicalVision",
+      "tier": 1
+    },
+    "P1:MagicalVision:2": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Watercap",
+          "grind": 0.53529083
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "FrostSapphire",
+          "grind": 0.81914884
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Spellbloom": 1,
+        "Watercap": 1,
+        "FrostSapphire": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 153.2000026702881,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 153.2000026702881,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 153.2000026702881,
+        "P1_exact": "3",
+        "P2_exact": "153200002670288083/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        21.248067524537007,
+        10.151662453373905
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "MagicalVision",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "MagicalVision",
+        "distance": 0.2891701097484965,
+        "angle": 0.0,
+        "score": 0.9158987968850882,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "MagicalVision",
+      "tier": 2
+    },
+    "P2:MagicalVision:2": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Watercap",
+          "grind": 0.53529083
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "FrostSapphire",
+          "grind": 0.81914884
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Spellbloom": 1,
+        "Watercap": 1,
+        "FrostSapphire": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 153.2000026702881,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 153.2000026702881,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 153.2000026702881,
+        "P1_exact": "3",
+        "P2_exact": "153200002670288083/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        21.248067524537007,
+        10.151662453373905
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "MagicalVision",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "MagicalVision",
+        "distance": 0.2891701097484965,
+        "angle": 0.0,
+        "score": 0.9158987968850882,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "MagicalVision",
+      "tier": 2
+    },
+    "P1:Slipperiness:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Coldleaf",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Coldleaf": 1,
+        "Tangleweed": 2,
+        "Lifeleaf": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 51.19999885559082,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 51.19999885559082,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 51.19999885559082,
+        "P1_exact": "4",
+        "P2_exact": "51199998855590819/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        24.360690593388416,
+        -4.038610971536367
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Slipperiness",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Slipperiness",
+        "distance": 0.3467388118002947,
+        "angle": 0.0,
+        "score": 0.8951740633229138,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Slipperiness",
+      "tier": 1
+    },
+    "P2:Slipperiness:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Coldleaf",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Coldleaf": 1,
+        "Tangleweed": 2,
+        "Lifeleaf": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 51.19999885559082,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 51.19999885559082,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 51.19999885559082,
+        "P1_exact": "4",
+        "P2_exact": "51199998855590819/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        24.360690593388416,
+        -4.038610971536367
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Slipperiness",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Slipperiness",
+        "distance": 0.3467388118002947,
+        "angle": 0.0,
+        "score": 0.8951740633229138,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Slipperiness",
+      "tier": 1
+    },
+    "P1:Slipperiness:2": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Coldleaf",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Coldleaf": 1,
+        "Tangleweed": 2,
+        "Lifeleaf": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 51.19999885559082,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 51.19999885559082,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 51.19999885559082,
+        "P1_exact": "4",
+        "P2_exact": "51199998855590819/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        24.60732428819862,
+        -4.0794988742004
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Slipperiness",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Slipperiness",
+        "distance": 0.09756667356289545,
+        "angle": 0.0,
+        "score": 0.9848760366528136,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Slipperiness",
+      "tier": 2
+    },
+    "P2:Slipperiness:2": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Coldleaf",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Coldleaf": 1,
+        "Tangleweed": 2,
+        "Lifeleaf": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 51.19999885559082,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 51.19999885559082,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 51.19999885559082,
+        "P1_exact": "4",
+        "P2_exact": "51199998855590819/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        24.60732428819862,
+        -4.0794988742004
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Slipperiness",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Slipperiness",
+        "distance": 0.09756667356289545,
+        "angle": 0.0,
+        "score": 0.9848760366528136,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Slipperiness",
+      "tier": 2
+    },
+    "P1:Slipperiness:3": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Coldleaf",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Coldleaf": 1,
+        "Tangleweed": 2,
+        "Lifeleaf": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 51.19999885559082,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 51.19999885559082,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 51.19999885559082,
+        "P1_exact": "4",
+        "P2_exact": "51199998855590819/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        24.7059777661227,
+        -4.095854035266013
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Slipperiness",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Slipperiness",
+        "distance": 0.01535697439946021,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Slipperiness",
+      "tier": 3
+    },
+    "P2:Slipperiness:3": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Coldleaf",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Tangleweed",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Coldleaf": 1,
+        "Tangleweed": 2,
+        "Lifeleaf": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 51.19999885559082,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 51.19999885559082,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 51.19999885559082,
+        "P1_exact": "4",
+        "P2_exact": "51199998855590819/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        24.7059777661227,
+        -4.095854035266013
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Slipperiness",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Slipperiness",
+        "distance": 0.01535697439946021,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Slipperiness",
+      "tier": 3
+    },
+    "P1:Stench:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.25
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Marshroom",
+          "grind": 0.83284301
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Marshroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.8400000000000001
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 1,
+        "Marshroom": 2
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 57.70000076293945,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 57.70000076293945,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 57.70000076293945,
+        "P1_exact": "3",
+        "P2_exact": "28850000381469727/500000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -15.481317364237075,
+        -19.321076595352256
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Stench",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Stench",
+        "distance": 1.4716573116838552,
+        "angle": 0.0,
+        "score": 0.49020338727274393,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Stench",
+      "tier": 1
+    },
+    "P2:Stench:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.25
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Marshroom",
+          "grind": 0.83284301
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Marshroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.8400000000000001
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 1,
+        "Marshroom": 2
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 57.70000076293945,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 57.70000076293945,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 57.70000076293945,
+        "P1_exact": "3",
+        "P2_exact": "28850000381469727/500000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -15.481317364237075,
+        -19.321076595352256
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Stench",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Stench",
+        "distance": 1.4716573116838552,
+        "angle": 0.0,
+        "score": 0.49020338727274393,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Stench",
+      "tier": 1
+    },
+    "P1:Stench:2": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.25
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Marshroom",
+          "grind": 0.83284301
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Marshroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "GoblinMushroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 1.3943099,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 1,
+        "Marshroom": 2,
+        "GoblinMushroom": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 68.20000076293945,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 68.20000076293945,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 68.20000076293945,
+        "P1_exact": "4",
+        "P2_exact": "34100000381469727/500000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -16.790564974687612,
+        -19.953318161831156
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Stench",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Stench",
+        "distance": 0.058579788051806164,
+        "angle": 0.0,
+        "score": 0.9989113159945177,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Stench",
+      "tier": 2
+    },
+    "P2:Stench:2": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.25
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Marshroom",
+          "grind": 0.83284301
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Marshroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "GoblinMushroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 1.3943099,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 1,
+        "Marshroom": 2,
+        "GoblinMushroom": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 68.20000076293945,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 68.20000076293945,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 68.20000076293945,
+        "P1_exact": "4",
+        "P2_exact": "34100000381469727/500000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -16.790564974687612,
+        -19.953318161831156
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Stench",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Stench",
+        "distance": 0.058579788051806164,
+        "angle": 0.0,
+        "score": 0.9989113159945177,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Stench",
+      "tier": 2
+    },
+    "P1:Stench:3": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GoblinMushroom",
+          "grind": 0.75
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.24763813
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "PlagueStibnite",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "HairyBanana",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GoblinMushroom": 1,
+        "GraveTruffle": 1,
+        "PlagueStibnite": 1,
+        "HairyBanana": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 141.7999973297119,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 141.7999973297119,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 141.7999973297119,
+        "P1_exact": "4",
+        "P2_exact": "141799997329711917/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.7293333327770227,
+      "position": [
+        -16.82796948213644,
+        -19.891358765045187
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Stench",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Stench",
+        "distance": 0.018751337146401658,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Stench",
+      "tier": 3
+    },
+    "P2:Stench:3": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GoblinMushroom",
+          "grind": 0.75
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 0.24763813
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "PlagueStibnite",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "HairyBanana",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GoblinMushroom": 1,
+        "GraveTruffle": 1,
+        "PlagueStibnite": 1,
+        "HairyBanana": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 141.7999973297119,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 141.7999973297119,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 141.7999973297119,
+        "P1_exact": "4",
+        "P2_exact": "141799997329711917/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.7293333327770227,
+      "position": [
+        -16.82796948213644,
+        -19.891358765045187
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Stench",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Stench",
+        "distance": 0.018751337146401658,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Stench",
+      "tier": 3
+    }
+  },
+  "runs": [
+    {
+      "objective": "P1",
+      "effect": "StoneSkin",
+      "nodes": 26,
+      "node_limit": 2200,
+      "alternatives": 12,
+      "elapsed_seconds": 105.27231478691101
+    },
+    {
+      "objective": "P1",
+      "effect": "Acid",
+      "nodes": 1066,
+      "node_limit": 2200,
+      "alternatives": 12,
+      "elapsed_seconds": 291.5430202484131
+    },
+    {
+      "objective": "P1",
+      "effect": "AntiMagic",
+      "nodes": 1509,
+      "node_limit": 2200,
+      "alternatives": 12,
+      "elapsed_seconds": 452.81916642189026
+    },
+    {
+      "objective": "P1",
+      "effect": "Curse",
+      "nodes": 1019,
+      "node_limit": 2200,
+      "alternatives": 12,
+      "elapsed_seconds": 721.2132513523102
+    },
+    {
+      "objective": "P1",
+      "effect": "Enlargement",
+      "nodes": 371,
+      "node_limit": 2200,
+      "alternatives": 12,
+      "elapsed_seconds": 1148.5661125183105
+    },
+    {
+      "objective": "P1",
+      "effect": "Fragrance",
+      "nodes": 1229,
+      "node_limit": 2200,
+      "alternatives": 12,
+      "elapsed_seconds": 1409.9257249832153
+    },
+    {
+      "objective": "P1",
+      "effect": "Libido",
+      "nodes": 42,
+      "node_limit": 2200,
+      "alternatives": 12,
+      "elapsed_seconds": 1584.492573261261
+    },
+    {
+      "objective": "P1",
+      "effect": "MagicalVision",
+      "nodes": 112,
+      "node_limit": 2200,
+      "alternatives": 12,
+      "elapsed_seconds": 1694.4898295402527
+    },
+    {
+      "objective": "P1",
+      "effect": "Slipperiness",
+      "nodes": 1123,
+      "node_limit": 2200,
+      "alternatives": 12,
+      "elapsed_seconds": 1913.291715145111
+    },
+    {
+      "objective": "P1",
+      "effect": "Stench",
+      "nodes": 540,
+      "node_limit": 2200,
+      "alternatives": 12,
+      "elapsed_seconds": 2215.295827627182
+    }
+  ]
+}

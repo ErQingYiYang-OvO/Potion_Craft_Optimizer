@@ -1,0 +1,301 @@
+{
+  "records": {
+    "P1:Fire:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 1.0
+        },
+        {
+          "kind": "salt",
+          "salt": "sun",
+          "amount": 78,
+          "deferred": true
+        },
+        {
+          "kind": "wait",
+          "seconds": 0.06
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.43678557
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 31.5,
+      "salts": {
+        "sun": 78
+      },
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 31.5,
+        "salt_equivalent": 0.78,
+        "salt_detail": {
+          "sun": {
+            "amount": 78,
+            "equivalent": 0.78,
+            "value": 20.591999702453613
+          }
+        },
+        "P1": 1.78,
+        "P2": 52.09199970245361,
+        "P1_exact": "89/50",
+        "P2_exact": "2604599985122680647/50000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -10.808633520719015,
+        -2.1951817280990613
+      ],
+      "rotation": 331.921142578125,
+      "effects": [
+        [
+          "Fire",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Fire",
+        "distance": 1.478026893022066,
+        "angle": 31.921142578125,
+        "score": 0.4347084319273433,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Fire",
+      "tier": 1,
+      "objective": "P1"
+    },
+    "P2:Fire:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 1.0
+        },
+        {
+          "kind": "salt",
+          "salt": "sun",
+          "amount": 78,
+          "deferred": true
+        },
+        {
+          "kind": "wait",
+          "seconds": 0.06
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.43678557
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 31.5,
+      "salts": {
+        "sun": 78
+      },
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 31.5,
+        "salt_equivalent": 0.78,
+        "salt_detail": {
+          "sun": {
+            "amount": 78,
+            "equivalent": 0.78,
+            "value": 20.591999702453613
+          }
+        },
+        "P1": 1.78,
+        "P2": 52.09199970245361,
+        "P1_exact": "89/50",
+        "P2_exact": "2604599985122680647/50000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -10.808633520719015,
+        -2.1951817280990613
+      ],
+      "rotation": 331.921142578125,
+      "effects": [
+        [
+          "Fire",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Fire",
+        "distance": 1.478026893022066,
+        "angle": 31.921142578125,
+        "score": 0.4347084319273433,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Fire",
+      "tier": 1,
+      "objective": "P2"
+    }
+  },
+  "runs": [
+    {
+      "base": "Oil",
+      "effect": "Fire",
+      "solver_sha256": "e1515ec07c660f57f9001b8007b3e5755de73b027a405d478aa3f97ca5cbd1d7",
+      "refinements": 18,
+      "snapshot": {
+        "id": "47dde97e18fb5407bca877f0e99438b185d0b1743f54f941c4a93e9cd4f07406",
+        "archive": "result/search/snapshots/47dde97e18fb5407bca877f0e99438b185d0b1743f54f941c4a93e9cd4f07406.zip",
+        "file_count": 69,
+        "archive_sha256": "f3656529e80bcffa047384fd8b97bfb5180c251bd6a98b8a107679025c834ed6",
+        "python": "3.12.14",
+        "numpy": "2.3.5",
+        "platform": "Windows"
+      },
+      "parameters": {
+        "effects": [
+          "Fire"
+        ],
+        "bases": [
+          "Oil"
+        ],
+        "ingredients": [
+          "GraveTruffle"
+        ],
+        "max_units": 85,
+        "step": 1,
+        "iterations": 55,
+        "waits": [
+          0.025,
+          0.06
+        ],
+        "output": "result/search/rotated_fire_fine_candidates.json",
+        "pre_stirs": [
+          0.0
+        ]
+      },
+      "successful_variants": 5,
+      "resource_pruned": 0,
+      "units_grid": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "pre_stirs": [
+        0.0
+      ],
+      "waits": [
+        0.025,
+        0.06
+      ],
+      "iterations": 55,
+      "scope": "one ordinary herb; optional partial stirring before paid path rotation; optional opposite salt; numerical macro search, no proof"
+    }
+  ]
+}

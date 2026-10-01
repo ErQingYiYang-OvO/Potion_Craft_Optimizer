@@ -1,0 +1,56 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Oil",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "GraveTruffle",
+      "grind": 1.0
+    },
+    {
+      "kind": "salt",
+      "salt": "sun",
+      "amount": 78,
+      "deferred": true
+    },
+    {
+      "kind": "wait",
+      "seconds": 0.06
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.43678557
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Fire",
+    "tier": 1
+  },
+  "objective": "P1",
+  "mode": "with_salt",
+  "costs": {
+    "ingredient_count": 1,
+    "ingredient_value": 31.5,
+    "salt_equivalent": 0.78,
+    "salt_detail": {
+      "sun": {
+        "amount": 78.0,
+        "equivalent": 0.78,
+        "value": 20.591999702453613
+      }
+    },
+    "P1": 1.78,
+    "P2": 52.09199970245361,
+    "P1_exact": "89/50",
+    "P2_exact": "2604599985122680647/50000000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "当前最好可行解",
+  "gameVerified": false
+}

@@ -1,0 +1,948 @@
+[
+  {
+    "name": "VortexLarge (19)",
+    "game_object_id": 2879,
+    "transform_id": 59117,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": -11.65999984741211,
+      "y": 12.859999656677246,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "PotionEffect Explosion",
+    "game_object_id": 3648,
+    "transform_id": 54136,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": -8.960000038146973,
+      "y": 9.300000190734863,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.7071068286895752,
+      "w": 0.7071068286895752
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "PotionEffect Slipperiness",
+    "game_object_id": 3737,
+    "transform_id": 54083,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 24.700000762939453,
+      "y": -4.110000133514404,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "PotionEffect Enlargement",
+    "game_object_id": 4104,
+    "transform_id": 53743,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": -43.099998474121094,
+      "y": 3.7300000190734863,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "VortexLarge (15)",
+    "game_object_id": 4506,
+    "transform_id": 57263,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 20.84000015258789,
+      "y": -7.760000228881836,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "VortexLarge (12)",
+    "game_object_id": 5366,
+    "transform_id": 58173,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": -37.31999969482422,
+      "y": -8.789999961853027,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "VortexLarge (3)",
+    "game_object_id": 5739,
+    "transform_id": 58561,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": -27.260000228881836,
+      "y": -29.459999084472656,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "PotionEffect Invisibility",
+    "game_object_id": 6723,
+    "transform_id": 47790,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": -2.549999952316284,
+      "y": 27.940000534057617,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": 0.9238786697387695,
+      "w": 0.38268548250198364
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "VortexLarge (14)",
+    "game_object_id": 8033,
+    "transform_id": 65109,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 29.6299991607666,
+      "y": 21.90999984741211,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "PotionEffect FireProtection",
+    "game_object_id": 8269,
+    "transform_id": 49579,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 28.90999984741211,
+      "y": 1.7000000476837158,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "VortexLarge (17)",
+    "game_object_id": 10432,
+    "transform_id": 61925,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 12.100000381469727,
+      "y": -23.43000030517578,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "VortexLarge (10)",
+    "game_object_id": 10861,
+    "transform_id": 67873,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": -8.399999618530273,
+      "y": 34.7400016784668,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "VortexLarge (6)",
+    "game_object_id": 12652,
+    "transform_id": 68533,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 47.779998779296875,
+      "y": -11.829999923706055,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "PotionEffect Rejuvenation",
+    "game_object_id": 13639,
+    "transform_id": 46446,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 37.18000030517578,
+      "y": -32.560001373291016,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "VortexLarge (4)",
+    "game_object_id": 14069,
+    "transform_id": 65640,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 9.180000305175781,
+      "y": -41.560001373291016,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "StrongDangerZoneContainer",
+    "game_object_id": 14577,
+    "transform_id": 69721,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "PotionEffect FrostProtection",
+    "game_object_id": 14624,
+    "transform_id": 46588,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": -27.969999313354492,
+      "y": -4.090000152587891,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "PotionEffect Healing",
+    "game_object_id": 19050,
+    "transform_id": 42132,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 3.799999952316284,
+      "y": -3.9600000381469727,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.13052624464035034,
+      "w": 0.9914448857307434
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "VortexLarge (13)",
+    "game_object_id": 19072,
+    "transform_id": 71434,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 0.15000000596046448,
+      "y": 14.220000267028809,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "VortexLarge (9)",
+    "game_object_id": 19107,
+    "transform_id": 71487,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 13.829999923706055,
+      "y": 31.1200008392334,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "PotionEffect AcidProtection",
+    "game_object_id": 20211,
+    "transform_id": 70443,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 23.56999969482422,
+      "y": -30.31999969482422,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "VortexLarge (8)",
+    "game_object_id": 20281,
+    "transform_id": 40913,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 42.720001220703125,
+      "y": 35.88999938964844,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "VortexLarge (1)",
+    "game_object_id": 20765,
+    "transform_id": 42712,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 3.880000114440918,
+      "y": 4.150000095367432,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "VortexLarge (5)",
+    "game_object_id": 21406,
+    "transform_id": 42257,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 45.880001068115234,
+      "y": -41.45000076293945,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "HealZoneContainer",
+    "game_object_id": 22083,
+    "transform_id": 44738,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "VortexLarge (2)",
+    "game_object_id": 22232,
+    "transform_id": 39812,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": -20.799999237060547,
+      "y": 5.340000152587891,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "PotionEffect StoneSkin",
+    "game_object_id": 22359,
+    "transform_id": 72585,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 0.0,
+      "y": -14.190000534057617,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": 1.0,
+      "w": 2.9653306228283327e-06
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "PotionEffect LightningProtection",
+    "game_object_id": 22598,
+    "transform_id": 72295,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 3.6600000858306885,
+      "y": -30.719999313354492,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "PotionEffect Poison",
+    "game_object_id": 24081,
+    "transform_id": 65594,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": -3.8499999046325684,
+      "y": -3.740000009536743,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.13052615523338318,
+      "w": 0.9914448857307434
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "PotionEffect Fire",
+    "game_object_id": 24416,
+    "transform_id": 65134,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": -11.649999618530273,
+      "y": -0.9800000190734863,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.5,
+      "w": 0.8660253882408142
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "PotionEffect AntiMagic",
+    "game_object_id": 25610,
+    "transform_id": 67234,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 32.77000045776367,
+      "y": 29.940000534057617,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "SwampZoneContainer",
+    "game_object_id": 27576,
+    "transform_id": 39064,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "PotionEffect Light",
+    "game_object_id": 28974,
+    "transform_id": 61586,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": -20.889999389648438,
+      "y": 1.4800000190734863,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.9238786697387695,
+      "w": 0.38268548250198364
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "PotionEffect Gluing",
+    "game_object_id": 29205,
+    "transform_id": 61424,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": -3.950000047683716,
+      "y": -23.56999969482422,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "PotionEffect WildGrowth",
+    "game_object_id": 29457,
+    "transform_id": 62172,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 17.25,
+      "y": -12.40999984741211,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -0.7071068286895752,
+      "w": 0.7071068286895752
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "PotionEffect PoisonProtection",
+    "game_object_id": 29573,
+    "transform_id": 62153,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 16.219999313354492,
+      "y": -20.3799991607666,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "VortexLarge (7)",
+    "game_object_id": 31407,
+    "transform_id": 49330,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 42.869998931884766,
+      "y": 18.110000610351562,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "VortexLarge (11)",
+    "game_object_id": 31621,
+    "transform_id": 49385,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": -29.260000228881836,
+      "y": 13.899999618530273,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "PotionEffect Stench",
+    "game_object_id": 33395,
+    "transform_id": 57143,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": -16.829999923706055,
+      "y": -19.90999984741211,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "PotionEffect Shrinking",
+    "game_object_id": 33727,
+    "transform_id": 57879,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 44.43000030517578,
+      "y": -3.630000114440918,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "VortexLarge (16)",
+    "game_object_id": 33913,
+    "transform_id": 56317,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 32.470001220703125,
+      "y": -18.5,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "VortexLarge (18)",
+    "game_object_id": 34466,
+    "transform_id": 55728,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": -17.18000030517578,
+      "y": -14.329999923706055,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": -0.0,
+      "w": 1.0
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  {
+    "name": "PotionEffect Lightning",
+    "game_object_id": 34502,
+    "transform_id": 58207,
+    "parent_transform_id": 54967,
+    "position": {
+      "x": 7.840000152587891,
+      "y": 16.459999084472656,
+      "z": 0.0
+    },
+    "rotation": {
+      "x": -0.0,
+      "y": -0.0,
+      "z": 0.7071057558059692,
+      "w": 0.7071078419685364
+    },
+    "scale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  }
+]

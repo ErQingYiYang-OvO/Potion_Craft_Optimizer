@@ -1,0 +1,68 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Oil",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "HealersHeather",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "HealersHeather",
+      "grind": 0.90978011
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Poopshroom",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.71473228
+    },
+    {
+      "kind": "pour",
+      "seconds": 0.035,
+      "strength": 1.0
+    },
+    {
+      "kind": "pour",
+      "seconds": 0.025,
+      "strength": 1.0
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "PoisonProtection",
+    "tier": 2
+  },
+  "objective": "P1",
+  "mode": "with_salt",
+  "costs": {
+    "ingredient_count": 3,
+    "ingredient_value": 47.599998474121094,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 3.0,
+    "P2": 47.599998474121094,
+    "P1_exact": "3",
+    "P2_exact": "23799999237060547/500000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "当前最好可行解",
+  "gameVerified": false
+}

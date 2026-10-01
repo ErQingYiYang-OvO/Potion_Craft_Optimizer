@@ -1,0 +1,242 @@
+{
+  "scope": "raw Lifeleaf Bernstein evaluations against Water Healing contact disk; no brewing recipe exclusion",
+  "curves": [
+    {
+      "scope": "one binary64 Bernstein curve evaluation over t in [0,1]; real Euclidean disk",
+      "curveDiskIntersectionExcluded": true,
+      "processedBoxes": 1,
+      "excludedParameters": [
+        [
+          "0",
+          "1"
+        ]
+      ],
+      "unresolvedParameters": [],
+      "brewingRecipeExcluded": false,
+      "globalOptimalityProved": false
+    },
+    {
+      "scope": "one binary64 Bernstein curve evaluation over t in [0,1]; real Euclidean disk",
+      "curveDiskIntersectionExcluded": true,
+      "processedBoxes": 5,
+      "excludedParameters": [
+        [
+          "3/4",
+          "1"
+        ],
+        [
+          "1/2",
+          "3/4"
+        ],
+        [
+          "0",
+          "1/2"
+        ]
+      ],
+      "unresolvedParameters": [],
+      "brewingRecipeExcluded": false,
+      "globalOptimalityProved": false
+    },
+    {
+      "scope": "one binary64 Bernstein curve evaluation over t in [0,1]; real Euclidean disk",
+      "curveDiskIntersectionExcluded": true,
+      "processedBoxes": 7,
+      "excludedParameters": [
+        [
+          "3/4",
+          "1"
+        ],
+        [
+          "1/2",
+          "3/4"
+        ],
+        [
+          "1/4",
+          "1/2"
+        ],
+        [
+          "0",
+          "1/4"
+        ]
+      ],
+      "unresolvedParameters": [],
+      "brewingRecipeExcluded": false,
+      "globalOptimalityProved": false
+    },
+    {
+      "scope": "one binary64 Bernstein curve evaluation over t in [0,1]; real Euclidean disk",
+      "curveDiskIntersectionExcluded": true,
+      "processedBoxes": 27,
+      "excludedParameters": [
+        [
+          "15/16",
+          "1"
+        ],
+        [
+          "7/8",
+          "15/16"
+        ],
+        [
+          "13/16",
+          "7/8"
+        ],
+        [
+          "3/4",
+          "13/16"
+        ],
+        [
+          "11/16",
+          "3/4"
+        ],
+        [
+          "5/8",
+          "11/16"
+        ],
+        [
+          "9/16",
+          "5/8"
+        ],
+        [
+          "1/2",
+          "9/16"
+        ],
+        [
+          "7/16",
+          "1/2"
+        ],
+        [
+          "3/8",
+          "7/16"
+        ],
+        [
+          "5/16",
+          "3/8"
+        ],
+        [
+          "1/4",
+          "5/16"
+        ],
+        [
+          "1/8",
+          "1/4"
+        ],
+        [
+          "0",
+          "1/8"
+        ]
+      ],
+      "unresolvedParameters": [],
+      "brewingRecipeExcluded": false,
+      "globalOptimalityProved": false
+    }
+  ],
+  "allRawCurvePiecesExcluded": true,
+  "brewingRecipeExcluded": false,
+  "gameVerified": false,
+  "inputs": {
+    "ingredient": "Lifeleaf",
+    "base": "Water",
+    "target": {
+      "x": 5.300000190734863,
+      "y": -5.840000152587891
+    },
+    "radius": 1.5300000309944153,
+    "bezier_path": [
+      {
+        "_length": 2.485481023788452,
+        "PFirst": {
+          "x": 0.0,
+          "y": 0.0
+        },
+        "PLast": {
+          "x": 1.7574992179870605,
+          "y": -0.27750080823898315
+        },
+        "_maxYCoordinate": -1.0,
+        "_tOfMaxYCoordinate": -1.0,
+        "P1": {
+          "x": 9.999999747378752e-05,
+          "y": 0.0
+        },
+        "P2": {
+          "x": 1.0174994468688965,
+          "y": 0.46249908208847046
+        }
+      },
+      {
+        "_length": 1.7545264959335327,
+        "PFirst": {
+          "x": 1.7574992179870605,
+          "y": -0.27750080823898315
+        },
+        "PLast": {
+          "x": 1.849999189376831,
+          "y": -1.8500008583068848
+        },
+        "_maxYCoordinate": -1.0,
+        "_tOfMaxYCoordinate": -1.0,
+        "P1": {
+          "x": 2.219999074935913,
+          "y": -0.74000084400177
+        },
+        "P2": {
+          "x": 2.219999313354492,
+          "y": -1.295000672340393
+        }
+      },
+      {
+        "_length": 1.754526972770691,
+        "PFirst": {
+          "x": 1.849999189376831,
+          "y": -1.8500008583068848
+        },
+        "PLast": {
+          "x": 1.9424991607666016,
+          "y": -3.4225008487701416
+        },
+        "_maxYCoordinate": -1.0,
+        "_tOfMaxYCoordinate": -1.0,
+        "P1": {
+          "x": 1.4799991846084595,
+          "y": -2.405000925064087
+        },
+        "P2": {
+          "x": 1.4799991846084595,
+          "y": -2.96000075340271
+        }
+      },
+      {
+        "_length": 1.5201630592346191,
+        "PFirst": {
+          "x": 1.9424991607666016,
+          "y": -3.4225008487701416
+        },
+        "PLast": {
+          "x": 3.6999993324279785,
+          "y": -3.7000010013580322
+        },
+        "_maxYCoordinate": -1.0,
+        "_tOfMaxYCoordinate": -1.0,
+        "P1": {
+          "x": 2.6824986934661865,
+          "y": -4.162500381469727
+        },
+        "P2": {
+          "x": 3.6999285221099854,
+          "y": -3.699930191040039
+        }
+      }
+    ],
+    "parameterDomain": [
+      "0",
+      "1"
+    ],
+    "perCurveBudget": 200
+  },
+  "inputFingerprint": {
+    "data\\ingredients.json": "84216d1e642e338abc395132ac3c354a81e1405a6e9ed87778fa6fbe610805ae",
+    "data\\bases.json": "f99f376ba17a8d9931be04ab7a9de963c87293143f3fbaac45c3ecd4bda85928",
+    "data\\geometry.json": "00e4b9530d266e9cce7c8b887b8d11ef20541b3713377ef7f50ecc4852fa98dc",
+    "optimizer\\intervals.py": "6f2318feaafa02b9a56ac35bee3273c21101d90b2b87e086871df5f635f225c8"
+  }
+}

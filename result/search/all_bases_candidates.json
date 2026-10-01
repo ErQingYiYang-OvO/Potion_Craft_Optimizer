@@ -1,0 +1,1904 @@
+{
+  "records": {
+    "P1:Fire:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "SulphurShelf",
+          "grind": 0.82522061
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Firebell",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "SulphurShelf": 1,
+        "Firebell": 1
+      },
+      "ingredient_count": 2,
+      "ingredient_value": 19.899999618530273,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 2,
+        "ingredient_value": 19.899999618530273,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 2.0,
+        "P2": 19.899999618530273,
+        "P1_exact": "2",
+        "P2_exact": "9949999809265137/500000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -11.632691754267295,
+        -0.7136867950042082
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Fire",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Fire",
+        "distance": 0.2668750559335196,
+        "angle": 60.0,
+        "score": 0.8239250129487043,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Fire",
+      "tier": 1
+    },
+    "P2:Fire:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "SulphurShelf",
+          "grind": 0.82522061
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Firebell",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "SulphurShelf": 1,
+        "Firebell": 1
+      },
+      "ingredient_count": 2,
+      "ingredient_value": 19.899999618530273,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 2,
+        "ingredient_value": 19.899999618530273,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 2.0,
+        "P2": 19.899999618530273,
+        "P1_exact": "2",
+        "P2_exact": "9949999809265137/500000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -11.632691754267295,
+        -0.7136867950042082
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Fire",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Fire",
+        "distance": 0.2668750559335196,
+        "angle": 60.0,
+        "score": 0.8239250129487043,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Fire",
+      "tier": 1
+    },
+    "P1:Fire:2": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "SulphurShelf",
+          "grind": 0.99796935
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "SulphurShelf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.88549082
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.47026520000000005,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "SulphurShelf": 2
+      },
+      "ingredient_count": 2,
+      "ingredient_value": 23.399999618530273,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 2,
+        "ingredient_value": 23.399999618530273,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 2.0,
+        "P2": 23.399999618530273,
+        "P1_exact": "2",
+        "P2_exact": "11699999809265137/500000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -11.651584565963855,
+        -0.9564659862864455
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Fire",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Fire",
+        "distance": 0.02358734316511142,
+        "angle": 60.0,
+        "score": 0.91150859302559,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Fire",
+      "tier": 2
+    },
+    "P2:Fire:2": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "SulphurShelf",
+          "grind": 0.99796935
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "SulphurShelf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.88549082
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.47026520000000005,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "SulphurShelf": 2
+      },
+      "ingredient_count": 2,
+      "ingredient_value": 23.399999618530273,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 2,
+        "ingredient_value": 23.399999618530273,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 2.0,
+        "P2": 23.399999618530273,
+        "P1_exact": "2",
+        "P2_exact": "11699999809265137/500000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -11.651584565963855,
+        -0.9564659862864455
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Fire",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Fire",
+        "distance": 0.02358734316511142,
+        "angle": 60.0,
+        "score": 0.91150859302559,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Fire",
+      "tier": 2
+    },
+    "P1:Fire:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Lavaroot",
+          "grind": 0.71575425
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "SulphurShelf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.9403973999999999,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Lavaroot": 1,
+        "SulphurShelf": 1
+      },
+      "ingredient_count": 2,
+      "ingredient_value": 26.09999942779541,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 2,
+        "ingredient_value": 26.09999942779541,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 2.0,
+        "P2": 26.09999942779541,
+        "P1_exact": "2",
+        "P2_exact": "2609999942779541/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -14.020216530288678,
+        1.1206344248214395
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Fire",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Fire",
+        "distance": 0.020226482287258513,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Fire",
+      "tier": 3
+    },
+    "P2:Fire:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Lavaroot",
+          "grind": 0.71575425
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "SulphurShelf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.9403973999999999,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Lavaroot": 1,
+        "SulphurShelf": 1
+      },
+      "ingredient_count": 2,
+      "ingredient_value": 26.09999942779541,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 2,
+        "ingredient_value": 26.09999942779541,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 2.0,
+        "P2": 26.09999942779541,
+        "P1_exact": "2",
+        "P2_exact": "2609999942779541/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -14.020216530288678,
+        1.1206344248214395
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Fire",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Fire",
+        "distance": 0.020226482287258513,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Fire",
+      "tier": 3
+    },
+    "P1:Healing:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.99915224
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Lifeleaf": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 6.0,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 6.0,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 6.0,
+        "P1_exact": "1",
+        "P2_exact": "6"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        3.6943247116406357,
+        -3.7023282523532544
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Healing",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Healing",
+        "distance": 0.2784995613748432,
+        "angle": 15.0,
+        "score": 0.8947401937552638,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Healing",
+      "tier": 1
+    },
+    "P2:Healing:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.99915224
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Lifeleaf": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 6.0,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 6.0,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 6.0,
+        "P1_exact": "1",
+        "P2_exact": "6"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        3.6943247116406357,
+        -3.7023282523532544
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Healing",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Healing",
+        "distance": 0.2784995613748432,
+        "angle": 15.0,
+        "score": 0.8947401937552638,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Healing",
+      "tier": 1
+    },
+    "P1:Healing:2": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.4958378,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Lifeleaf": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 6.0,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 6.0,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 6.0,
+        "P1_exact": "1",
+        "P2_exact": "6"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        2.9987789490777828,
+        -2.998780301713789
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Healing",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Healing",
+        "distance": 0.0017258705814844533,
+        "angle": 24.999996185302734,
+        "score": 0.9777120655348366,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Healing",
+      "tier": 2
+    },
+    "P2:Healing:2": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.4958378,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Lifeleaf": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 6.0,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 6.0,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 6.0,
+        "P1_exact": "1",
+        "P2_exact": "6"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        2.9987789490777828,
+        -2.998780301713789
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Healing",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Healing",
+        "distance": 0.0017258705814844533,
+        "angle": 24.999996185302734,
+        "score": 0.9777120655348366,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Healing",
+      "tier": 2
+    },
+    "P1:Healing:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 0.98829547
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.92948462
+        },
+        {
+          "kind": "pour",
+          "seconds": 1.1423841,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Lifeleaf": 2
+      },
+      "ingredient_count": 2,
+      "ingredient_value": 12.0,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 2,
+        "ingredient_value": 12.0,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 2.0,
+        "P2": 12.0,
+        "P1_exact": "2",
+        "P2_exact": "12"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        5.322555712526623,
+        -5.845674165189682
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Healing",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Healing",
+        "distance": 0.023258245469162872,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Healing",
+      "tier": 3
+    },
+    "P2:Healing:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 0.98829547
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.92948462
+        },
+        {
+          "kind": "pour",
+          "seconds": 1.1423841,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Lifeleaf": 2
+      },
+      "ingredient_count": 2,
+      "ingredient_value": 12.0,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 2,
+        "ingredient_value": 12.0,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 2.0,
+        "P2": 12.0,
+        "P1_exact": "2",
+        "P2_exact": "12"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        5.322555712526623,
+        -5.845674165189682
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Healing",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Healing",
+        "distance": 0.023258245469162872,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Healing",
+      "tier": 3
+    },
+    "P1:Mana:1": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Waterbloom",
+          "grind": 0.76877236
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "WitchMushroom",
+          "grind": 0.73900338
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Windbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.71562261
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.0269527,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Waterbloom": 1,
+        "WitchMushroom": 1,
+        "Windbloom": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 28.5,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 28.5,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 28.5,
+        "P1_exact": "3",
+        "P2_exact": "28500000000000001/1000000000000000"
+      },
+      "health": 0.3059882018803647,
+      "minimum_action_endpoint_health": 0.2906952962726795,
+      "position": [
+        7.250665424846089,
+        6.678864460408528
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Mana",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Mana",
+        "distance": 0.1705243724923541,
+        "angle": 45.0,
+        "score": 0.8836112614508654,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Mana",
+      "tier": 1
+    },
+    "P2:Mana:1": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Waterbloom",
+          "grind": 0.76877236
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "WitchMushroom",
+          "grind": 0.73900338
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Windbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.71562261
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.0269527,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Waterbloom": 1,
+        "WitchMushroom": 1,
+        "Windbloom": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 28.5,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 28.5,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 28.5,
+        "P1_exact": "3",
+        "P2_exact": "28500000000000001/1000000000000000"
+      },
+      "health": 0.3059882018803647,
+      "minimum_action_endpoint_health": 0.2906952962726795,
+      "position": [
+        7.250665424846089,
+        6.678864460408528
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Mana",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Mana",
+        "distance": 0.1705243724923541,
+        "angle": 45.0,
+        "score": 0.8836112614508654,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Mana",
+      "tier": 1
+    },
+    "P1:Mana:2": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Waterbloom",
+          "grind": 0.76877236
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "WitchMushroom",
+          "grind": 0.73900338
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Windbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.71562261
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.0269527,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Waterbloom": 1,
+        "WitchMushroom": 1,
+        "Windbloom": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 28.5,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 28.5,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 28.5,
+        "P1_exact": "3",
+        "P2_exact": "28500000000000001/1000000000000000"
+      },
+      "health": 0.29473820143333,
+      "minimum_action_endpoint_health": 0.2906952962726795,
+      "position": [
+        7.360992489482328,
+        6.780490927476662
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Mana",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Mana",
+        "distance": 0.021253506565677815,
+        "angle": 45.0,
+        "score": 0.9373487753198058,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Mana",
+      "tier": 2
+    },
+    "P2:Mana:2": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Waterbloom",
+          "grind": 0.76877236
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "WitchMushroom",
+          "grind": 0.73900338
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Windbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.71562261
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.0269527,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Waterbloom": 1,
+        "WitchMushroom": 1,
+        "Windbloom": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 28.5,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 28.5,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 28.5,
+        "P1_exact": "3",
+        "P2_exact": "28500000000000001/1000000000000000"
+      },
+      "health": 0.29473820143333,
+      "minimum_action_endpoint_health": 0.2906952962726795,
+      "position": [
+        7.360992489482328,
+        6.780490927476662
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Mana",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Mana",
+        "distance": 0.021253506565677815,
+        "angle": 45.0,
+        "score": 0.9373487753198058,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Mana",
+      "tier": 2
+    },
+    "P1:Mana:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "WitchMushroom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "WitchMushroom",
+          "grind": 0.75902129
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Waterbloom",
+          "grind": 0.80724824
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Windbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.9041699
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "WitchMushroom": 2,
+        "Waterbloom": 1,
+        "Windbloom": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 39.10000038146973,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 39.10000038146973,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 39.10000038146973,
+        "P1_exact": "4",
+        "P2_exact": "1221875011920929/31250000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        11.701425199287655,
+        11.710456075505421
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Mana",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Mana",
+        "distance": 0.023431025586364746,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Mana",
+      "tier": 3
+    },
+    "P2:Mana:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "WitchMushroom",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "WitchMushroom",
+          "grind": 0.75902129
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Waterbloom",
+          "grind": 0.80724824
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Windbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.9041699
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "WitchMushroom": 2,
+        "Waterbloom": 1,
+        "Windbloom": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 39.10000038146973,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 39.10000038146973,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 39.10000038146973,
+        "P1_exact": "4",
+        "P2_exact": "1221875011920929/31250000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        11.701425199287655,
+        11.710456075505421
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Mana",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Mana",
+        "distance": 0.023431025586364746,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Mana",
+      "tier": 3
+    },
+    "P1:Poison:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "StinkMushroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "StinkMushroom": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 7.5,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 7.5,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 7.5,
+        "P1_exact": "1",
+        "P2_exact": "15/2"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -3.593934745761471,
+        -3.593934745761471
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Poison",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Poison",
+        "distance": 0.2947955679270297,
+        "angle": 14.999995231628418,
+        "score": 0.8888736391106468,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Poison",
+      "tier": 1
+    },
+    "P2:Poison:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "StinkMushroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "StinkMushroom": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 7.5,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 7.5,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 7.5,
+        "P1_exact": "1",
+        "P2_exact": "15/2"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -3.593934745761471,
+        -3.593934745761471
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Poison",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Poison",
+        "distance": 0.2947955679270297,
+        "angle": 14.999995231628418,
+        "score": 0.8888736391106468,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Poison",
+      "tier": 1
+    },
+    "P1:Poison:2": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "StinkMushroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "StinkMushroom": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 7.5,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 7.5,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 7.5,
+        "P1_exact": "1",
+        "P2_exact": "15/2"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -3.700000762939453,
+        -3.700000762939453
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Poison",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Poison",
+        "distance": 0.15524072351358736,
+        "angle": 14.999995231628418,
+        "score": 0.9391133850958339,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Poison",
+      "tier": 2
+    },
+    "P2:Poison:2": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "StinkMushroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "StinkMushroom": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 7.5,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 7.5,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 7.5,
+        "P1_exact": "1",
+        "P2_exact": "15/2"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -3.700000762939453,
+        -3.700000762939453
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Poison",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Poison",
+        "distance": 0.15524072351358736,
+        "angle": 14.999995231628418,
+        "score": 0.9391133850958339,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Poison",
+      "tier": 2
+    },
+    "P1:Poison:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "StinkMushroom",
+          "grind": 0.9605403
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "StinkMushroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.93806288
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.9206179999999999,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "StinkMushroom": 2
+      },
+      "ingredient_count": 2,
+      "ingredient_value": 15.0,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 2,
+        "ingredient_value": 15.0,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 2.0,
+        "P2": 15.0,
+        "P1_exact": "2",
+        "P2_exact": "15"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -5.62740161899338,
+        -5.8790443826976935
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Poison",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Poison",
+        "distance": 0.02469421460619807,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Poison",
+      "tier": 3
+    },
+    "P2:Poison:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "StinkMushroom",
+          "grind": 0.9605403
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "StinkMushroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.93806288
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.9206179999999999,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "StinkMushroom": 2
+      },
+      "ingredient_count": 2,
+      "ingredient_value": 15.0,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 2,
+        "ingredient_value": 15.0,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 2.0,
+        "P2": 15.0,
+        "P1_exact": "2",
+        "P2_exact": "15"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -5.62740161899338,
+        -5.8790443826976935
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Poison",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Poison",
+        "distance": 0.02469421460619807,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Poison",
+      "tier": 3
+    }
+  },
+  "runs": [
+    {
+      "objective": "P2",
+      "effect": "Fire",
+      "nodes": 27,
+      "node_limit": 350,
+      "alternatives": 6,
+      "elapsed_seconds": 445.7404911518097,
+      "solver_sha256": "df92c640f48b448d76a396761de00d196e14e33379d2ba1ec2c3ad96d2a351b8",
+      "refine_iterations": 65,
+      "tail_count": 3,
+      "scope": "cold macro routes; endpoint and intermediate stop proposals; exact prefix survival"
+    },
+    {
+      "objective": "P2",
+      "effect": "Healing",
+      "nodes": 25,
+      "node_limit": 350,
+      "alternatives": 6,
+      "elapsed_seconds": 579.3352630138397,
+      "solver_sha256": "df92c640f48b448d76a396761de00d196e14e33379d2ba1ec2c3ad96d2a351b8",
+      "refine_iterations": 65,
+      "tail_count": 3,
+      "scope": "cold macro routes; endpoint and intermediate stop proposals; exact prefix survival"
+    },
+    {
+      "objective": "P2",
+      "effect": "Mana",
+      "nodes": 25,
+      "node_limit": 350,
+      "alternatives": 6,
+      "elapsed_seconds": 870.6932079792023,
+      "solver_sha256": "df92c640f48b448d76a396761de00d196e14e33379d2ba1ec2c3ad96d2a351b8",
+      "refine_iterations": 65,
+      "tail_count": 3,
+      "scope": "cold macro routes; endpoint and intermediate stop proposals; exact prefix survival"
+    },
+    {
+      "objective": "P2",
+      "effect": "Poison",
+      "nodes": 18,
+      "node_limit": 350,
+      "alternatives": 6,
+      "elapsed_seconds": 973.0761299133301,
+      "solver_sha256": "df92c640f48b448d76a396761de00d196e14e33379d2ba1ec2c3ad96d2a351b8",
+      "refine_iterations": 65,
+      "tail_count": 3,
+      "scope": "cold macro routes; endpoint and intermediate stop proposals; exact prefix survival"
+    }
+  ]
+}

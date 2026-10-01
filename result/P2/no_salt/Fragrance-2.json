@@ -1,0 +1,90 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Wine",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "Lifeleaf",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Coldleaf",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Poopshroom",
+      "grind": 0.5
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Waterbloom",
+      "grind": 0.89623701
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Waterbloom",
+      "grind": 0.36087958
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Windbloom",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.42117693
+    },
+    {
+      "kind": "pour",
+      "seconds": 0.025,
+      "strength": 1.0
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Fragrance",
+    "tier": 2
+  },
+  "objective": "P2",
+  "mode": "no_salt",
+  "costs": {
+    "ingredient_count": 6,
+    "ingredient_value": 60.499999046325684,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 6.0,
+    "P2": 60.499999046325684,
+    "P1_exact": "6",
+    "P2_exact": "15124999761581421/250000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "当前最好可行解",
+  "gameVerified": false
+}

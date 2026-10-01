@@ -1,0 +1,81 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Oil",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "Terraria",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Terraria",
+      "grind": 1
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Mudshroom",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "Terraria",
+      "grind": 0.15777916
+    },
+    {
+      "kind": "stir",
+      "fraction": 1.0
+    },
+    {
+      "kind": "add",
+      "name": "GoblinMushroom",
+      "grind": 1.0
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.75408323
+    },
+    {
+      "kind": "pour",
+      "seconds": 0.2040762,
+      "strength": 1.0
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Gluing",
+    "tier": 3
+  },
+  "objective": "P2",
+  "mode": "no_salt",
+  "costs": {
+    "ingredient_count": 5,
+    "ingredient_value": 52.19999980926514,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 5.0,
+    "P2": 52.19999980926514,
+    "P1_exact": "5",
+    "P2_exact": "26099999904632569/500000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "容错采样通过的备选；非最低成本声明",
+  "gameVerified": false
+}

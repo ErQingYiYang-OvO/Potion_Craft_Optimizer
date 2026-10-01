@@ -1,0 +1,40 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Wine",
+  "operations": [
+    {
+      "kind": "add",
+      "name": "Mageberry",
+      "grind": 0.5
+    },
+    {
+      "kind": "stir",
+      "fraction": 0.78
+    },
+    {
+      "kind": "pump",
+      "angle": 60.0,
+      "seconds": 0.5
+    }
+  ],
+  "target": {
+    "effect": "Mana",
+    "tier": 1
+  },
+  "objective": "P1",
+  "mode": "with_salt",
+  "costs": {
+    "ingredient_count": 1,
+    "ingredient_value": 38.099998474121094,
+    "salt_equivalent": 0.0,
+    "salt_detail": {},
+    "P1": 1.0,
+    "P2": 38.099998474121094,
+    "P1_exact": "1",
+    "P2_exact": "19049999237060547/500000000000000"
+  },
+  "dataFingerprint": "8e50b0a72ccbaa6d4042bd4cc5602fc1a8c97278b763c53507f448f5b5755b29",
+  "optimality": "药材等价消耗已达资源下界（当前引擎模型）",
+  "gameVerified": false
+}

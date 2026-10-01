@@ -1,0 +1,485 @@
+{
+  "records": {
+    "P1:Healing:2": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.4958378,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Lifeleaf": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 6.0,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 6.0,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 6.0,
+        "P1_exact": "1",
+        "P2_exact": "6"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        2.9987789490777828,
+        -2.998780301713789
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Healing",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Healing",
+        "distance": 0.0017258705814844533,
+        "angle": 24.999996185302734,
+        "score": 0.9777120655348366,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Healing",
+      "tier": 2,
+      "objective": "P1"
+    },
+    "P2:Healing:2": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.4958378,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Lifeleaf": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 6.0,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 6.0,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 6.0,
+        "P1_exact": "1",
+        "P2_exact": "6"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        2.9987789490777828,
+        -2.998780301713789
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Healing",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Healing",
+        "distance": 0.0017258705814844533,
+        "angle": 24.999996185302734,
+        "score": 0.9777120655348366,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Healing",
+      "tier": 2,
+      "objective": "P2"
+    },
+    "P1:Healing:1": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.4958378,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Lifeleaf": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 6.0,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 6.0,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 6.0,
+        "P1_exact": "1",
+        "P2_exact": "6"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        2.8220022936497897,
+        -2.8220035665485175
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Healing",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Healing",
+        "distance": 0.251725870318058,
+        "angle": 24.999996185302734,
+        "score": 0.8877120620533916,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Healing",
+      "tier": 1,
+      "objective": "P1"
+    },
+    "P2:Healing:1": {
+      "base": "Wine",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Lifeleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.4958378,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Lifeleaf": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 6.0,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 6.0,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 6.0,
+        "P1_exact": "1",
+        "P2_exact": "6"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        2.8220022936497897,
+        -2.8220035665485175
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Healing",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Healing",
+        "distance": 0.251725870318058,
+        "angle": 24.999996185302734,
+        "score": 0.8877120620533916,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Healing",
+      "tier": 1,
+      "objective": "P2"
+    },
+    "P1:Healing:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "HealersHeather",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.90173623
+        },
+        {
+          "kind": "pour",
+          "seconds": 1.1571596,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "HealersHeather": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 19.299999237060547,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 19.299999237060547,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 19.299999237060547,
+        "P1_exact": "1",
+        "P2_exact": "19299999237060547/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        5.2913707063241615,
+        -5.823200625222059
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Healing",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Healing",
+        "distance": 0.018886294525657286,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Healing",
+      "tier": 3,
+      "objective": "P1"
+    },
+    "P2:Healing:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "HealersHeather",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.90173623
+        },
+        {
+          "kind": "pour",
+          "seconds": 1.1571596,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "HealersHeather": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 19.299999237060547,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 19.299999237060547,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 19.299999237060547,
+        "P1_exact": "1",
+        "P2_exact": "19299999237060547/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        5.2913707063241615,
+        -5.823200625222059
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Healing",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Healing",
+        "distance": 0.018886294525657286,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "effect": "Healing",
+      "tier": 3,
+      "objective": "P2"
+    }
+  },
+  "runs": [
+    {
+      "base": "Wine",
+      "effect": "Healing",
+      "refinements": 33,
+      "successful_variants": 43,
+      "iterations": 90,
+      "solver_sha256": "83a40f9aaf29ad4d14768d0b9d450e96cbf36bf53786aca5f085c2dabce7ea1c",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Oil",
+      "effect": "Healing",
+      "refinements": 20,
+      "successful_variants": 32,
+      "iterations": 90,
+      "solver_sha256": "83a40f9aaf29ad4d14768d0b9d450e96cbf36bf53786aca5f085c2dabce7ea1c",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    },
+    {
+      "base": "Water",
+      "effect": "Healing",
+      "refinements": 10,
+      "successful_variants": 16,
+      "iterations": 90,
+      "solver_sha256": "83a40f9aaf29ad4d14768d0b9d450e96cbf36bf53786aca5f085c2dabce7ea1c",
+      "scope": "one item; partial final stirring; final pouring; no salt or intentional vortex"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "records": {
+    "P1:MagicalVision:1": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "LifeCrystal",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Spellbloom": 2,
+        "LifeCrystal": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 133.3000030517578,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 133.3000030517578,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 133.3000030517578,
+        "P1_exact": "3",
+        "P2_exact": "13330000305175781/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        20.71999835968018,
+        10.35999822616577
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "MagicalVision",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "MagicalVision",
+        "distance": 0.5557900004254148,
+        "angle": 0.0,
+        "score": 0.8199156324273695,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "MagicalVision",
+      "tier": 1
+    },
+    "P2:MagicalVision:1": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "LifeCrystal",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Spellbloom": 2,
+        "LifeCrystal": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 133.3000030517578,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 133.3000030517578,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 133.3000030517578,
+        "P1_exact": "3",
+        "P2_exact": "13330000305175781/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        20.71999835968018,
+        10.35999822616577
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "MagicalVision",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "MagicalVision",
+        "distance": 0.5557900004254148,
+        "angle": 0.0,
+        "score": 0.8199156324273695,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "MagicalVision",
+      "tier": 1
+    },
+    "P1:MagicalVision:2": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Watercap",
+          "grind": 0.53534441
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "FrostSapphire",
+          "grind": 0.81915077
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Spellbloom": 1,
+        "Watercap": 1,
+        "FrostSapphire": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 153.2000026702881,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 153.2000026702881,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 153.2000026702881,
+        "P1_exact": "3",
+        "P2_exact": "153200002670288083/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        21.2488179239787,
+        10.151613827791305
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "MagicalVision",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "MagicalVision",
+        "distance": 0.2891626567100311,
+        "angle": 0.0,
+        "score": 0.9159014799790423,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "MagicalVision",
+      "tier": 2
+    },
+    "P2:MagicalVision:2": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Spellbloom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Watercap",
+          "grind": 0.53534441
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "FrostSapphire",
+          "grind": 0.81915077
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Spellbloom": 1,
+        "Watercap": 1,
+        "FrostSapphire": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 153.2000026702881,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 153.2000026702881,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 153.2000026702881,
+        "P1_exact": "3",
+        "P2_exact": "153200002670288083/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        21.2488179239787,
+        10.151613827791305
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "MagicalVision",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "MagicalVision",
+        "distance": 0.2891626567100311,
+        "angle": 0.0,
+        "score": 0.9159014799790423,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "MagicalVision",
+      "tier": 2
+    }
+  },
+  "runs": [
+    {
+      "objective": "P1",
+      "effect": "MagicalVision",
+      "nodes": 147,
+      "node_limit": 700,
+      "alternatives": 16,
+      "elapsed_seconds": 828.2652430534363,
+      "solver_sha256": "8014252669668c87787df8554058d8d1698c7a82aded7cab59e0dc99942333b6",
+      "refine_iterations": 240,
+      "tail_count": 4,
+      "bases": [
+        "Water"
+      ],
+      "scope": "cold macro routes; endpoint and intermediate stop proposals; exact prefix survival"
+    }
+  ]
+}

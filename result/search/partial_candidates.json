@@ -1,0 +1,1136 @@
+{
+  "records": {
+    "P1:Poison:1": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Marshroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.9120685
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Marshroom": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 13.100000381469727,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 13.100000381469727,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 13.100000381469727,
+        "P1_exact": "1",
+        "P2_exact": "13100000381469727/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -4.939102131791994,
+        -5.361503493838567
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Poison",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Poison",
+        "distance": 0.885227888307052,
+        "angle": 0.0,
+        "score": 0.7013179880773333,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Poison",
+      "tier": 1
+    },
+    "P2:Poison:1": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Marshroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.9120685
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Marshroom": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 13.100000381469727,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 13.100000381469727,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 13.100000381469727,
+        "P1_exact": "1",
+        "P2_exact": "13100000381469727/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -4.939102131791994,
+        -5.361503493838567
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Poison",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Poison",
+        "distance": 0.885227888307052,
+        "angle": 0.0,
+        "score": 0.7013179880773333,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Poison",
+      "tier": 1
+    },
+    "P1:Poison:2": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.98
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 31.5,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 31.5,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 31.5,
+        "P1_exact": "1",
+        "P2_exact": "63/2"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -5.8253438671003375,
+        -5.825388982677083
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Poison",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Poison",
+        "distance": 0.18652558013678658,
+        "angle": 0.0,
+        "score": 0.9528508290136454,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Poison",
+      "tier": 2
+    },
+    "P2:Poison:2": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "GraveTruffle",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.98
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "GraveTruffle": 1
+      },
+      "ingredient_count": 1,
+      "ingredient_value": 31.5,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 1,
+        "ingredient_value": 31.5,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 1.0,
+        "P2": 31.5,
+        "P1_exact": "1",
+        "P2_exact": "63/2"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -5.8253438671003375,
+        -5.825388982677083
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Poison",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Poison",
+        "distance": 0.18652558013678658,
+        "angle": 0.0,
+        "score": 0.9528508290136454,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Poison",
+      "tier": 2
+    },
+    "P1:Poison:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "HairyBanana",
+          "grind": 0.35827668
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "DryadsSaddle",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.70243272
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.7799833,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "HairyBanana": 1,
+        "DryadsSaddle": 1
+      },
+      "ingredient_count": 2,
+      "ingredient_value": 24.0,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 2,
+        "ingredient_value": 24.0,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 2.0,
+        "P2": 24.0,
+        "P1_exact": "2",
+        "P2_exact": "24"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -5.635308643082983,
+        -5.876662910892058
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Poison",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Poison",
+        "distance": 0.01918439553113256,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Poison",
+      "tier": 3
+    },
+    "P2:Poison:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "HairyBanana",
+          "grind": 0.35827668
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "DryadsSaddle",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.70243272
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.7799833,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "HairyBanana": 1,
+        "DryadsSaddle": 1
+      },
+      "ingredient_count": 2,
+      "ingredient_value": 24.0,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 2,
+        "ingredient_value": 24.0,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 2.0,
+        "P2": 24.0,
+        "P1_exact": "2",
+        "P2_exact": "24"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        -5.635308643082983,
+        -5.876662910892058
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Poison",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Poison",
+        "distance": 0.01918439553113256,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Poison",
+      "tier": 3
+    },
+    "P1:Slipperiness:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Coldleaf",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "FrostSapphire",
+          "grind": 0.82645601
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Watercap",
+          "grind": 0.998
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "DruidsRosemary",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 1.4544277,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Coldleaf": 1,
+        "FrostSapphire": 1,
+        "Watercap": 1,
+        "DruidsRosemary": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 152.2000026702881,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 152.2000026702881,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 152.2000026702881,
+        "P1_exact": "4",
+        "P2_exact": "152200002670288083/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        24.51298267847752,
+        -5.130249748928674
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Slipperiness",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Slipperiness",
+        "distance": 1.0372487848480592,
+        "angle": 0.0,
+        "score": 0.6465904631478943,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Slipperiness",
+      "tier": 1
+    },
+    "P2:Slipperiness:1": {
+      "base": "Oil",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Coldleaf",
+          "grind": 1
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "FrostSapphire",
+          "grind": 0.82645601
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Watercap",
+          "grind": 0.998
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "DruidsRosemary",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 1.4544277,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Coldleaf": 1,
+        "FrostSapphire": 1,
+        "Watercap": 1,
+        "DruidsRosemary": 1
+      },
+      "ingredient_count": 4,
+      "ingredient_value": 152.2000026702881,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 4,
+        "ingredient_value": 152.2000026702881,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 4.0,
+        "P2": 152.2000026702881,
+        "P1_exact": "4",
+        "P2_exact": "152200002670288083/1000000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        24.51298267847752,
+        -5.130249748928674
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Slipperiness",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Slipperiness",
+        "distance": 1.0372487848480592,
+        "angle": 0.0,
+        "score": 0.6465904631478943,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Slipperiness",
+      "tier": 1
+    },
+    "P1:Strength:1": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Terraria",
+          "grind": 0.95217117
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Mudshroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Terraria": 1,
+        "Mudshroom": 1
+      },
+      "ingredient_count": 2,
+      "ingredient_value": 28.300000190734863,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 2,
+        "ingredient_value": 28.300000190734863,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 2.0,
+        "P2": 28.300000190734863,
+        "P1_exact": "2",
+        "P2_exact": "1768750011920929/62500000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        0.05541146051342789,
+        -16.10023115449755
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Strength",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Strength",
+        "distance": 0.7077979092790816,
+        "angle": 0.0,
+        "score": 0.7651927830655588,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Strength",
+      "tier": 1
+    },
+    "P2:Strength:1": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Terraria",
+          "grind": 0.95217117
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Mudshroom",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Terraria": 1,
+        "Mudshroom": 1
+      },
+      "ingredient_count": 2,
+      "ingredient_value": 28.300000190734863,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 2,
+        "ingredient_value": 28.300000190734863,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 2.0,
+        "P2": 28.300000190734863,
+        "P1_exact": "2",
+        "P2_exact": "1768750011920929/62500000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 1.0,
+      "position": [
+        0.05541146051342789,
+        -16.10023115449755
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Strength",
+          1
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Strength",
+        "distance": 0.7077979092790816,
+        "angle": 0.0,
+        "score": 0.7651927830655588,
+        "tier": 1
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Strength",
+      "tier": 1
+    },
+    "P1:Strength:2": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Mudshroom",
+          "grind": 0.73317449
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "EarthPyrite",
+          "grind": 0.78248043
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Coldleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.19251883
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.0020502000000000003,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Mudshroom": 1,
+        "EarthPyrite": 1,
+        "Coldleaf": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 117.80000305175781,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 117.80000305175781,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 117.80000305175781,
+        "P1_exact": "3",
+        "P2_exact": "11780000305175781/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.2187938426756128,
+      "position": [
+        0.7247440606572263,
+        -16.213265975101542
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Strength",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Strength",
+        "distance": 0.06845444567000034,
+        "angle": 0.0,
+        "score": 0.9953564391107096,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Strength",
+      "tier": 2
+    },
+    "P2:Strength:2": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Mudshroom",
+          "grind": 0.73317449
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "EarthPyrite",
+          "grind": 0.78248043
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Coldleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.19251883
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.0020502000000000003,
+          "strength": 1.0
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.025,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Mudshroom": 1,
+        "EarthPyrite": 1,
+        "Coldleaf": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 117.80000305175781,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 117.80000305175781,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 117.80000305175781,
+        "P1_exact": "3",
+        "P2_exact": "11780000305175781/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.2187938426756128,
+      "position": [
+        0.7247440606572263,
+        -16.213265975101542
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Strength",
+          2
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Strength",
+        "distance": 0.06845444567000034,
+        "angle": 0.0,
+        "score": 0.9953564391107096,
+        "tier": 2
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Strength",
+      "tier": 2
+    },
+    "P1:Strength:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Mudshroom",
+          "grind": 0.73317449
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "EarthPyrite",
+          "grind": 0.78248043
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Coldleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.19251883
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.0020502000000000003,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Mudshroom": 1,
+        "EarthPyrite": 1,
+        "Coldleaf": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 117.80000305175781,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 117.80000305175781,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 117.80000305175781,
+        "P1_exact": "3",
+        "P2_exact": "11780000305175781/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.2187938426756128,
+      "position": [
+        0.7269768651736631,
+        -16.263216096062273
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Strength",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Strength",
+        "distance": 0.021242898711207586,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P1",
+      "effect": "Strength",
+      "tier": 3
+    },
+    "P2:Strength:3": {
+      "base": "Water",
+      "operations": [
+        {
+          "kind": "add",
+          "name": "Mudshroom",
+          "grind": 0.73317449
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "EarthPyrite",
+          "grind": 0.78248043
+        },
+        {
+          "kind": "stir",
+          "fraction": 1.0
+        },
+        {
+          "kind": "add",
+          "name": "Coldleaf",
+          "grind": 1.0
+        },
+        {
+          "kind": "stir",
+          "fraction": 0.19251883
+        },
+        {
+          "kind": "pour",
+          "seconds": 0.0020502000000000003,
+          "strength": 1.0
+        },
+        {
+          "kind": "pump",
+          "angle": 60.0,
+          "seconds": 0.5
+        }
+      ],
+      "ingredients": {
+        "Mudshroom": 1,
+        "EarthPyrite": 1,
+        "Coldleaf": 1
+      },
+      "ingredient_count": 3,
+      "ingredient_value": 117.80000305175781,
+      "salts": {},
+      "costs": {
+        "ingredient_count": 3,
+        "ingredient_value": 117.80000305175781,
+        "salt_equivalent": 0.0,
+        "salt_detail": {},
+        "P1": 3.0,
+        "P2": 117.80000305175781,
+        "P1_exact": "3",
+        "P2_exact": "11780000305175781/100000000000000"
+      },
+      "health": 1.0,
+      "minimum_action_endpoint_health": 0.2187938426756128,
+      "position": [
+        0.7269768651736631,
+        -16.263216096062273
+      ],
+      "rotation": 0.0,
+      "effects": [
+        [
+          "Strength",
+          3
+        ]
+      ],
+      "alignment_before_heating": {
+        "name": "Strength",
+        "distance": 0.021242898711207586,
+        "angle": 0.0,
+        "score": 1.0,
+        "tier": 3
+      },
+      "status": "engine_verified_candidate",
+      "optimality": "当前最好可行解；未证明全局最优",
+      "replay_verified": true,
+      "game_verified": false,
+      "objective": "P2",
+      "effect": "Strength",
+      "tier": 3
+    }
+  },
+  "runs": [
+    {
+      "objective": "P1",
+      "effect": "Poison",
+      "nodes": 2,
+      "node_limit": 900,
+      "alternatives": 12,
+      "elapsed_seconds": 68.68276977539062
+    },
+    {
+      "objective": "P1",
+      "effect": "Poison",
+      "nodes": 96,
+      "node_limit": 600,
+      "alternatives": 8,
+      "elapsed_seconds": 43.4408164024353
+    },
+    {
+      "objective": "P1",
+      "effect": "Slipperiness",
+      "nodes": 600,
+      "node_limit": 600,
+      "alternatives": 8,
+      "elapsed_seconds": 282.5919873714447
+    },
+    {
+      "objective": "P1",
+      "effect": "Strength",
+      "nodes": 99,
+      "node_limit": 600,
+      "alternatives": 8,
+      "elapsed_seconds": 398.3049564361572
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "source": "result\\search\\crystal_single_candidates.json",
+  "sourceSHA256": "798331a6c9603c2382d6102359dc09a00c8e296f44f2e24b5047be86ea20cfe5",
+  "recordCount": 10,
+  "runs": 83,
+  "checks": [
+    {
+      "key": "P1:Healing:2",
+      "verification": {
+        "costs": {
+          "ingredient_count": 1,
+          "ingredient_value": 67.30000305175781,
+          "salt_equivalent": 0.0,
+          "salt_detail": {},
+          "P1": 1.0,
+          "P2": 67.30000305175781,
+          "P1_exact": "1",
+          "P2_exact": "6730000305175781/100000000000000"
+        },
+        "minimum_health": 1.0,
+        "health": 1.0
+      }
+    },
+    {
+      "key": "P2:Healing:2",
+      "verification": {
+        "costs": {
+          "ingredient_count": 1,
+          "ingredient_value": 67.30000305175781,
+          "salt_equivalent": 0.0,
+          "salt_detail": {},
+          "P1": 1.0,
+          "P2": 67.30000305175781,
+          "P1_exact": "1",
+          "P2_exact": "6730000305175781/100000000000000"
+        },
+        "minimum_health": 1.0,
+        "health": 1.0
+      }
+    },
+    {
+      "key": "P1:Healing:1",
+      "verification": {
+        "costs": {
+          "ingredient_count": 1,
+          "ingredient_value": 67.30000305175781,
+          "salt_equivalent": 0.0,
+          "salt_detail": {},
+          "P1": 1.0,
+          "P2": 67.30000305175781,
+          "P1_exact": "1",
+          "P2_exact": "6730000305175781/100000000000000"
+        },
+        "minimum_health": 1.0,
+        "health": 1.0
+      }
+    },
+    {
+      "key": "P2:Healing:1",
+      "verification": {
+        "costs": {
+          "ingredient_count": 1,
+          "ingredient_value": 67.30000305175781,
+          "salt_equivalent": 0.0,
+          "salt_detail": {},
+          "P1": 1.0,
+          "P2": 67.30000305175781,
+          "P1_exact": "1",
+          "P2_exact": "6730000305175781/100000000000000"
+        },
+        "minimum_health": 1.0,
+        "health": 1.0
+      }
+    },
+    {
+      "key": "P1:Frost:1",
+      "verification": {
+        "costs": {
+          "ingredient_count": 1,
+          "ingredient_value": 93.80000305175781,
+          "salt_equivalent": 0.0,
+          "salt_detail": {},
+          "P1": 1.0,
+          "P2": 93.80000305175781,
+          "P1_exact": "1",
+          "P2_exact": "9380000305175781/100000000000000"
+        },
+        "minimum_health": 1.0,
+        "health": 1.0
+      }
+    },
+    {
+      "key": "P2:Frost:1",
+      "verification": {
+        "costs": {
+          "ingredient_count": 1,
+          "ingredient_value": 93.80000305175781,
+          "salt_equivalent": 0.0,
+          "salt_detail": {},
+          "P1": 1.0,
+          "P2": 93.80000305175781,
+          "P1_exact": "1",
+          "P2_exact": "9380000305175781/100000000000000"
+        },
+        "minimum_health": 1.0,
+        "health": 1.0
+      }
+    },
+    {
+      "key": "P1:Poison:1",
+      "verification": {
+        "costs": {
+          "ingredient_count": 1,
+          "ingredient_value": 84.19999694824219,
+          "salt_equivalent": 0.0,
+          "salt_detail": {},
+          "P1": 1.0,
+          "P2": 84.19999694824219,
+          "P1_exact": "1",
+          "P2_exact": "8419999694824219/100000000000000"
+        },
+        "minimum_health": 1.0,
+        "health": 1.0
+      }
+    },
+    {
+      "key": "P2:Poison:1",
+      "verification": {
+        "costs": {
+          "ingredient_count": 1,
+          "ingredient_value": 84.19999694824219,
+          "salt_equivalent": 0.0,
+          "salt_detail": {},
+          "P1": 1.0,
+          "P2": 84.19999694824219,
+          "P1_exact": "1",
+          "P2_exact": "8419999694824219/100000000000000"
+        },
+        "minimum_health": 1.0,
+        "health": 1.0
+      }
+    },
+    {
+      "key": "P1:Poison:2",
+      "verification": {
+        "costs": {
+          "ingredient_count": 1,
+          "ingredient_value": 84.19999694824219,
+          "salt_equivalent": 0.0,
+          "salt_detail": {},
+          "P1": 1.0,
+          "P2": 84.19999694824219,
+          "P1_exact": "1",
+          "P2_exact": "8419999694824219/100000000000000"
+        },
+        "minimum_health": 1.0,
+        "health": 1.0
+      }
+    },
+    {
+      "key": "P2:Poison:2",
+      "verification": {
+        "costs": {
+          "ingredient_count": 1,
+          "ingredient_value": 84.19999694824219,
+          "salt_equivalent": 0.0,
+          "salt_detail": {},
+          "P1": 1.0,
+          "P2": 84.19999694824219,
+          "P1_exact": "1",
+          "P2_exact": "8419999694824219/100000000000000"
+        },
+        "minimum_health": 1.0,
+        "health": 1.0
+      }
+    }
+  ],
+  "actualGameVerified": false,
+  "globalOptimalityProved": false
+}

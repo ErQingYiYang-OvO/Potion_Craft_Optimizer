@@ -1,0 +1,233 @@
+{
+  "Explosion": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Slipperiness": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Enlargement": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Invisibility": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "FireProtection": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Rejuvenation": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "FrostProtection": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Healing": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "AcidProtection": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "StoneSkin": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "LightningProtection": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Poison": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Fire": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "AntiMagic": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Light": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Gluing": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "WildGrowth": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "PoisonProtection": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Stench": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Shrinking": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ],
+  "Lightning": [
+    {
+      "radius": 0.7900000214576721,
+      "offset": {
+        "x": 0.0,
+        "y": 0.0
+      },
+      "enabled": 1,
+      "object": "Collider"
+    }
+  ]
+}

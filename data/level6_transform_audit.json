@@ -1,0 +1,3668 @@
+[
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (22)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (22)",
+        "position": {
+          "x": -40.349998474121094,
+          "y": -62.709999084472656,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (35)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (35)",
+        "position": {
+          "x": 23.059999465942383,
+          "y": 50.650001525878906,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (20)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (20)",
+        "position": {
+          "x": -48.58000183105469,
+          "y": 29.25,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (24)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (24)",
+        "position": {
+          "x": -51.59000015258789,
+          "y": -3.359999895095825,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (12)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (12)",
+        "position": {
+          "x": -21.739999771118164,
+          "y": -41.5,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (4)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (4)",
+        "position": {
+          "x": -26.489999771118164,
+          "y": -36.209999084472656,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexSmall (14)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexSmall (14)",
+        "position": {
+          "x": -41.18000030517578,
+          "y": 3.3299999237060547,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": -0.0,
+          "y": -0.0,
+          "z": -0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (7)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (7)",
+        "position": {
+          "x": -6.53000020980835,
+          "y": -63.220001220703125,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (15)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (15)",
+        "position": {
+          "x": 38.81999969482422,
+          "y": 40.439998626708984,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (23)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (23)",
+        "position": {
+          "x": -63.93000030517578,
+          "y": -44.25,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexSmall (9)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexSmall (9)",
+        "position": {
+          "x": 43.02000045776367,
+          "y": 22.829999923706055,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": -0.0,
+          "y": -0.0,
+          "z": -0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (42)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (42)",
+        "position": {
+          "x": -45.4900016784668,
+          "y": 20.920000076293945,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (10)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (10)",
+        "position": {
+          "x": 52.27000045776367,
+          "y": -34.279998779296875,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (41)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (41)",
+        "position": {
+          "x": -32.779998779296875,
+          "y": 37.47999954223633,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexSmall (15)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexSmall (15)",
+        "position": {
+          "x": -40.4900016784668,
+          "y": -4.21999979019165,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": -0.0,
+          "y": -0.0,
+          "z": -0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (14)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (14)",
+        "position": {
+          "x": 45.779998779296875,
+          "y": 14.539999961853027,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (5)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (5)",
+        "position": {
+          "x": -27.450000762939453,
+          "y": -6.619999885559082,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (27)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (27)",
+        "position": {
+          "x": 60.56999969482422,
+          "y": 20.8799991607666,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexSmall (3)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexSmall (3)",
+        "position": {
+          "x": 25.270000457763672,
+          "y": -6.039999961853027,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": -0.0,
+          "y": -0.0,
+          "z": -0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (38)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (38)",
+        "position": {
+          "x": -23.979999542236328,
+          "y": 54.45000076293945,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexSmall (13)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexSmall (13)",
+        "position": {
+          "x": -44.5099983215332,
+          "y": 9.800000190734863,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": -0.0,
+          "y": -0.0,
+          "z": -0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexSmall (1)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexSmall (1)",
+        "position": {
+          "x": 8.15999984741211,
+          "y": 16.25,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": -0.0,
+          "y": -0.0,
+          "z": -0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (34)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (34)",
+        "position": {
+          "x": 45.68000030517578,
+          "y": 57.689998626708984,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (33)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (33)",
+        "position": {
+          "x": 36.689998626708984,
+          "y": 47.68000030517578,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (18)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (18)",
+        "position": {
+          "x": 25.729999542236328,
+          "y": 18.239999771118164,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (36)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (36)",
+        "position": {
+          "x": 19.25,
+          "y": 58.310001373291016,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (31)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (31)",
+        "position": {
+          "x": 38.27000045776367,
+          "y": 35.779998779296875,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexSmall (4)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexSmall (4)",
+        "position": {
+          "x": -5.230000019073486,
+          "y": -33.97999954223633,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": -0.0,
+          "y": -0.0,
+          "z": -0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (19)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (19)",
+        "position": {
+          "x": -10.300000190734863,
+          "y": -47.36000061035156,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (11)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (11)",
+        "position": {
+          "x": -34.279998779296875,
+          "y": -27.06999969482422,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (5)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (5)",
+        "position": {
+          "x": 6.820000171661377,
+          "y": -32.84000015258789,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (19)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (19)",
+        "position": {
+          "x": -46.65999984741211,
+          "y": 43.66999816894531,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexSmall (7)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexSmall (7)",
+        "position": {
+          "x": 40.16999816894531,
+          "y": -21.25,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": -0.0,
+          "y": -0.0,
+          "z": -0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (21)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (21)",
+        "position": {
+          "x": -57.470001220703125,
+          "y": -7.940000057220459,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexSmall (6)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexSmall (6)",
+        "position": {
+          "x": 20.110000610351562,
+          "y": -43.970001220703125,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": -0.0,
+          "y": -0.0,
+          "z": -0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (3)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (3)",
+        "position": {
+          "x": 4.5,
+          "y": -15.520000457763672,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (25)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (25)",
+        "position": {
+          "x": 48.349998474121094,
+          "y": -14.4399995803833,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (13)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (13)",
+        "position": {
+          "x": 51.88999938964844,
+          "y": -9.579999923706055,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (12)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (12)",
+        "position": {
+          "x": 59.22999954223633,
+          "y": -19.1200008392334,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexSmall (5)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexSmall (5)",
+        "position": {
+          "x": 31.31999969482422,
+          "y": 24.540000915527344,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": -0.0,
+          "y": -0.0,
+          "z": -0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexSmall (2)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexSmall (2)",
+        "position": {
+          "x": 0.0,
+          "y": -8.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": -0.0,
+          "y": -0.0,
+          "z": -0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (1)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (1)",
+        "position": {
+          "x": -18.3700008392334,
+          "y": -0.8100000023841858,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (6)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (6)",
+        "position": {
+          "x": -23.84000015258789,
+          "y": -22.06999969482422,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (39)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (39)",
+        "position": {
+          "x": -38.459999084472656,
+          "y": 58.47999954223633,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexSmall (10)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexSmall (10)",
+        "position": {
+          "x": 42.40999984741211,
+          "y": 29.65999984741211,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": -0.0,
+          "y": -0.0,
+          "z": -0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (29)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (29)",
+        "position": {
+          "x": -64.72000122070312,
+          "y": -3.200000047683716,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (37)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (37)",
+        "position": {
+          "x": -8.180000305175781,
+          "y": 60.11000061035156,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (3)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (3)",
+        "position": {
+          "x": -17.049999237060547,
+          "y": 12.619999885559082,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (18)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (18)",
+        "position": {
+          "x": -0.699999988079071,
+          "y": 56.369998931884766,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (40)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (40)",
+        "position": {
+          "x": -39.91999816894531,
+          "y": 48.5,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (28)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (28)",
+        "position": {
+          "x": -61.86000061035156,
+          "y": -28.719999313354492,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (17)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (17)",
+        "position": {
+          "x": -8.3100004196167,
+          "y": 50.439998626708984,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (21)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (21)",
+        "position": {
+          "x": 35.83000183105469,
+          "y": -38.83000183105469,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (17)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (17)",
+        "position": {
+          "x": 18.280000686645508,
+          "y": 22.90999984741211,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (2)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (2)",
+        "position": {
+          "x": -3.5799999237060547,
+          "y": -15.40999984741211,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (6)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (6)",
+        "position": {
+          "x": 17.270000457763672,
+          "y": 16.43000030517578,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexSmall (8)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexSmall (8)",
+        "position": {
+          "x": 36.36000061035156,
+          "y": 7.78000020980835,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": -0.0,
+          "y": -0.0,
+          "z": -0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (1)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (1)",
+        "position": {
+          "x": -5.489999771118164,
+          "y": 5.760000228881836,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (10)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (10)",
+        "position": {
+          "x": -38.02000045776367,
+          "y": -19.760000228881836,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (32)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (32)",
+        "position": {
+          "x": 31.8799991607666,
+          "y": 39.40999984741211,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (8)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (8)",
+        "position": {
+          "x": 15.350000381469727,
+          "y": -51.18000030517578,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (2)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (2)",
+        "position": {
+          "x": 15.970000267028809,
+          "y": 5.909999847412109,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (16)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (16)",
+        "position": {
+          "x": 12.609999656677246,
+          "y": 26.260000228881836,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (14)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (14)",
+        "position": {
+          "x": -46.369998931884766,
+          "y": -21.420000076293945,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (9)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (9)",
+        "position": {
+          "x": 27.6200008392334,
+          "y": -41.45000076293945,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (4)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (4)",
+        "position": {
+          "x": 11.34000015258789,
+          "y": -11.979999542236328,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (16)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (16)",
+        "position": {
+          "x": 7.909999847412109,
+          "y": 49.619998931884766,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (20)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (20)",
+        "position": {
+          "x": 4.170000076293945,
+          "y": -53.310001373291016,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (15)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (15)",
+        "position": {
+          "x": 28.770000457763672,
+          "y": -20.649999618530273,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (22)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (22)",
+        "position": {
+          "x": 29.299999237060547,
+          "y": -60.470001220703125,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexSmall (12)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexSmall (12)",
+        "position": {
+          "x": 15.359999656677246,
+          "y": 44.88999938964844,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": -0.0,
+          "y": -0.0,
+          "z": -0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (30)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (30)",
+        "position": {
+          "x": 32.810001373291016,
+          "y": 34.720001220703125,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (9)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (9)",
+        "position": {
+          "x": -18.93000030517578,
+          "y": -16.34000015258789,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexMedium (11)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexMedium (11)",
+        "position": {
+          "x": -20.709999084472656,
+          "y": -59.90999984741211,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (23)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (23)",
+        "position": {
+          "x": -52.86000061035156,
+          "y": -43.849998474121094,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (8)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (8)",
+        "position": {
+          "x": -26.280000686645508,
+          "y": 6.25,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (7)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (7)",
+        "position": {
+          "x": -30.399999618530273,
+          "y": 20.3799991607666,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (26)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (26)",
+        "position": {
+          "x": 50.619998931884766,
+          "y": 4.139999866485596,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexLarge (13)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexLarge (13)",
+        "position": {
+          "x": -9.079999923706055,
+          "y": 23.510000228881836,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "vortex",
+    "name": "VortexSmall (11)",
+    "active": true,
+    "chain": [
+      {
+        "name": "VortexSmall (11)",
+        "position": {
+          "x": 48.43000030517578,
+          "y": 30.979999542236328,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": -0.0,
+          "y": -0.0,
+          "z": -0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "kind": "forcefield",
+    "name": "Collider",
+    "enabled": 1,
+    "active": true,
+    "layer": 8,
+    "chain": [
+      {
+        "name": "Collider",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "ForcefieldContainerMapItem",
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      {
+        "name": "MapItemsContainer",
+        "position": {
+          "x": 0.0,
+          "y": -130.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "scale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    ]
+  }
+]
