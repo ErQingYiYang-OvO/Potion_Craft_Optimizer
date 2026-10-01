@@ -1,0 +1,16 @@
+# Local runtimes, downloaded dependencies and decompilation references
+/tools/.dotnet/
+/tools/.pip-cache/
+/tools/.vendor/
+/tools/.vendor_tt/
+/tools/decompiler/
+/reference/
+
+# Generated Python caches and local configuration
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+*.log

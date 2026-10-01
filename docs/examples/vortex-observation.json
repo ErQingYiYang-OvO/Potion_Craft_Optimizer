@@ -1,0 +1,11 @@
+{
+  "gameVersion": "2.0.2",
+  "engineStatus": "calibrating",
+  "base": "Water",
+  "description": "真实资源中的漩涡观察场景；从漩涡旁起步，不是合法配方。",
+  "operations": [
+    {"kind": "vortex_demo", "name": "VortexLarge (1)"},
+    {"kind": "wait", "seconds": 1},
+    {"kind": "wait", "seconds": 1}
+  ]
+}
